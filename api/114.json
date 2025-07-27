@@ -1,0 +1,51 @@
+{
+  "chapter": 114,
+  "title_am": "አል-ናስ",
+  "title_ar": "الناس",
+  "title_la": "An-Nas",
+  "count": "6",
+  "quran": [
+    {
+      "verse": 0,
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+      "tr": "በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡",
+      "la": "be’alahi simi ijigi bet’ami ruhiruhi bet’ami azanyi behonewi፡፡"
+    },
+    {
+      "verse": 1,
+      "ar": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "tr": "በል «በሰዎች ፈጣሪ እጠበቃለሁ፡፡",
+      "la": "beli «besewochi fet’ari it’ebek’alehu፡፡"
+    },
+    {
+      "verse": 2,
+      "ar": "مَلِكِ ٱلنَّاسِ",
+      "tr": "«የሰዎች ሁሉ ንጉሥ በኾነው፡፡",
+      "la": "«yesewochi hulu nigusi behonewi፡፡"
+    },
+    {
+      "verse": 3,
+      "ar": "إِلَـٰهِ ٱلنَّاسِ",
+      "tr": "«የሰዎች አምላክ በኾነው፡፡",
+      "la": "«yesewochi amilaki behonewi፡፡"
+    },
+    {
+      "verse": 4,
+      "ar": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+      "tr": "«ብቅ እልም ባይ ከኾነው ጎትጓች (ሰይጣን) ክፋት፡፡",
+      "la": "«bik’i ilimi bayi kehonewi gotigwachi (seyit’ani) kifati፡፡"
+    },
+    {
+      "verse": 5,
+      "ar": "ٱلَّذِی یُوَسۡوِسُ فِی صُدُورِ ٱلنَّاسِ",
+      "tr": "«ከዚያ በሰዎች ልቦች ውስጥ የሚጎተጉት ከኾነው፡፡",
+      "la": "«keziya besewochi libochi wisit’i yemigoteguti kehonewi፡፡"
+    },
+    {
+      "verse": 6,
+      "ar": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+      "tr": "«ከጋኔኖችም ከሰዎችም (ሰይጣናት እጠበቃለሁ በል)፡፡»",
+      "la": "«keganenochimi kesewochimi (seyit’anati it’ebek’alehu beli)፡፡»"
+    }
+  ]
+}
