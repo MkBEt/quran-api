@@ -1,0 +1,44 @@
+{
+   "chapter": 97,
+   "title_ar": "القدر",
+   "title_am": "አል-ቀድር",
+   "title_la": "Al-Qadr",
+   "count": "5",
+   "quran": [
+      {
+         "verse": 0,
+         "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+         "tr": "በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡"
+      },
+      {
+         "verse": 1,
+         "ar": "إِنَّاۤ أَنزَلۡنَـٰهُ فِی لَیۡلَةِ ٱلۡقَدۡرِ",
+         "tr": "እኛ (ቁርኣኑን) በመወሰኛይቱ ሌሊት አወረድነው፡፡",
+         "la": "inya (k’uri’anuni) bemewesenyayitu leliti aweredinewi፡፡"
+      },
+      {
+         "verse": 2,
+         "ar": "وَمَاۤ أَدۡرَىٰكَ مَا لَیۡلَةُ ٱلۡقَدۡرِ",
+         "tr": "መወሰኛይቱም ሌሊተ ምን እንደ ኾነች ምን አሳወቀህ",
+         "la": "mewesenyayitumi lelite mini inide honechi mini asawek’ehi"
+      },
+      {
+         "verse": 3,
+         "ar": "لَیۡلَةُ ٱلۡقَدۡرِ خَیۡرࣱ مِّنۡ أَلۡفِ شَهۡرࣲ",
+         "tr": "መወሰኛይቱ ሌሊት ከሺሕ ወር በላጭ ናት፡፡",
+         "la": "mewesenyayitu leliti keshihi weri belach’i nati፡፡"
+      },
+      {
+         "verse": 4,
+         "ar": "تَنَزَّلُ ٱلۡمَلَـٰۤئِكَةُ وَٱلرُّوحُ فِیهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرࣲ",
+         "tr": "በርሷ ውስጥ መላእክትና መንፈሱ በጌታቸው ፈቃድ በነገሩ ሁሉ ይወርዳሉ፡፡",
+         "la": "beriswa wisit’i mela’ikitina menifesu begetachewi fek’adi benegeru hulu yiweridalu፡፡"
+      },
+      {
+         "verse": 5,
+         "ar": "سَلَـٰمٌ هِیَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+         "tr": "እርስዋ እስከ ጎህ መውጣት ድረስ ሰላም ብቻ ናት፡፡",
+         "la": "irisiwa isike gohi mewit’ati diresi selami bicha nati፡፡"
+      }
+   ]
+}
