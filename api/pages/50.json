@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "chapter": 3,
+      "verse": 1,
+      "ar": "الۤمۤ",
+      "tr": "አ.ለ.መ (አሊፍ ላም ሚም)፤",
+      "la": "a.le.me (alifi lami mimi)፤"
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "ar": "ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡحَیُّ ٱلۡقَیُّومُ",
+      "tr": "አላህ ከርሱ በስተቀር ሌላ አምላክ የለም፡፡ (እርሱ) ሕያው ሁሉን ነገር አስተናባሪ ነው፡፡",
+      "la": "alahi kerisu besitek’eri lela amilaki yelemi፡፡ (irisu) hiyawi huluni negeri asitenabari newi፡፡"
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "ar": "نَزَّلَ عَلَیۡكَ ٱلۡكِتَـٰبَ بِٱلۡحَقِّ مُصَدِّقࣰا لِّمَا بَیۡنَ یَدَیۡهِ وَأَنزَلَ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِیلَ",
+      "tr": "ከርሱ በፊት ያሉትን መጻሕፍት የሚያረጋግጥ ሲኾን መጽሐፉን (ቁርኣንን) ባንተ ላይ ከፋፍሎ በእውነት አወረደ፡፡ ተውራትንና ኢንጂልንም አውርዷል፡፡",
+      "la": "kerisu befiti yalutini mets’ahifiti yemiyaregagit’i sihoni mets’ihafuni (k’uri’anini) banite layi kefafilo be’iwineti awerede፡፡ tewiratinina inijilinimi awiridwali፡፡"
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "ar": "مِن قَبۡلُ هُدࣰى لِّلنَّاسِ وَأَنزَلَ ٱلۡفُرۡقَانَۗ إِنَّ ٱلَّذِینَ كَفَرُوا۟ بِءَایَـٰتِ ٱللَّهِ لَهُمۡ عَذَابࣱ شَدِیدࣱۗ وَٱللَّهُ عَزِیزࣱ ذُو ٱنتِقَامٍ",
+      "tr": "(ከቁርኣን) በፊት ለሰዎች መሪ አድርጎ (አወረዳቸው)፡፡ ፉርቃንንም አወረደ፡፡ እነዚያ በአላህ ተዓምራቶች የካዱ ለእነርሱ ብርቱ ቅጣት አላቸው፡፡ አላህም አሸናፊ የመበቀል ባለቤት ነው፡፡",
+      "la": "(kek’uri’ani) befiti lesewochi meri adirigo (aweredachewi)፡፡ furik’aninimi awerede፡፡ ineziya be’alahi te‘amiratochi yekadu le’inerisu biritu k’it’ati alachewi፡፡ alahimi ashenafi yemebek’eli balebeti newi፡፡"
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "ar": "إِنَّ ٱللَّهَ لَا یَخۡفَىٰ عَلَیۡهِ شَیۡءࣱ فِی ٱلۡأَرۡضِ وَلَا فِی ٱلسَّمَاۤءِ",
+      "tr": "አላህ በምድርም በሰማይም ምንም ነገር በርሱ ላይ አይሰወርም፡፡",
+      "la": "alahi bemidirimi besemayimi minimi negeri berisu layi ayisewerimi፡፡"
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "ar": "هُوَ ٱلَّذِی یُصَوِّرُكُمۡ فِی ٱلۡأَرۡحَامِ كَیۡفَ یَشَاۤءُۚ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ",
+      "tr": "እርሱ ያ በማሕጸኖች ውስጥ እንደሚሻ አድርጎ የሚቀርጻችሁ ነው፡፡ ከእርሱ በስተቀር ሌላ አምላክ የለም፡፡ አሸናፊው ጥበበኛው ነው፡፡",
+      "la": "irisu ya bemahits’enochi wisit’i inidemisha adirigo yemik’erits’achihu newi፡፡ ke’irisu besitek’eri lela amilaki yelemi፡፡ ashenafiwi t’ibebenyawi newi፡፡"
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "ar": "هُوَ ٱلَّذِیۤ أَنزَلَ عَلَیۡكَ ٱلۡكِتَـٰبَ مِنۡهُ ءَایَـٰتࣱ مُّحۡكَمَـٰتٌ هُنَّ أُمُّ ٱلۡكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتࣱۖ فَأَمَّا ٱلَّذِینَ فِی قُلُوبِهِمۡ زَیۡغࣱ فَیَتَّبِعُونَ مَا تَشَـٰبَهَ مِنۡهُ ٱبۡتِغَاۤءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَاۤءَ تَأۡوِیلِهِۦۖ وَمَا یَعۡلَمُ تَأۡوِیلَهُۥۤ إِلَّا ٱللَّهُۗ وَٱلرَّ ٰسِخُونَ فِی ٱلۡعِلۡمِ یَقُولُونَ ءَامَنَّا بِهِۦ كُلࣱّ مِّنۡ عِندِ رَبِّنَاۗ وَمَا یَذَّكَّرُ إِلَّاۤ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ",
+      "tr": "እርሱ ያ በአንተ ላይ መጽሐፉን ያወረደ ነው፡፡ ከእርሱ (ከመጽሐፉ) ግልጽ የኾኑ አንቀጾች አልሉ፡፡ እነሱ የመጽሐፉ መሠረቶች ናቸው፡፡ ሌሎችም ተመሳሳዮች አልሉ፡፡ እነዚያማ በልቦቻቸው ውስጥ ጥመት ያለባቸው ሰዎች ማሳሳትን ለመፈለግና ትችቱን ለመፈለግ ከርሱ የተመሳሰለውን ይከታተላሉ፡፡ (ትክክለኛ) ትችቱንም አላህ ብቻ እንጅ ሌላ አያውቀውም፡፡ በዕውቀትም የጠለቁት «በርሱ አምነናል፤ ሁሉም ከጌታችን ዘንድ ነው» ይላሉ፡፡ የአእምሮ ባለቤቶችም እንጅ (ሌላው) አይገሰጽም፡፡",
+      "la": "irisu ya be’anite layi mets’ihafuni yawerede newi፡፡ ke’irisu (kemets’ihafu) gilits’i yehonu anik’ets’ochi alilu፡፡ inesu yemets’ihafu meseretochi nachewi፡፡ lelochimi temesasayochi alilu፡፡ ineziyama belibochachewi wisit’i t’imeti yalebachewi sewochi masasatini lemefelegina tichituni lemefelegi kerisu yetemesaselewini yiketatelalu፡፡ (tikikilenya) tichitunimi alahi bicha iniji lela ayawik’ewimi፡፡ be‘iwik’etimi yet’elek’uti «berisu aminenali፤ hulumi kegetachini zenidi newi» yilalu፡፡ ye’a’imiro balebetochimi iniji (lelawi) ayigesets’imi፡፡"
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "ar": "رَبَّنَا لَا تُزِغۡ قُلُوبَنَا بَعۡدَ إِذۡ هَدَیۡتَنَا وَهَبۡ لَنَا مِن لَّدُنكَ رَحۡمَةًۚ إِنَّكَ أَنتَ ٱلۡوَهَّابُ",
+      "tr": "(እነሱም ይላሉ)፡- «ጌታችን ሆይ! ቅኑን መንገድ ከመራኸን በኋላ ልቦቻችንን አታዘምብልብን፡፡ ከአንተ ዘንድ የኾነን ችሮታም ለኛ ስጠን፡፡ አንተ በጣም ለጋስ ነህና፡፡»",
+      "la": "(inesumi yilalu)፡- «getachini hoyi! k’inuni menigedi kemeraheni behwala libochachinini atazemibilibini፡፡ ke’anite zenidi yehoneni chirotami lenya sit’eni፡፡ anite bet’ami legasi nehina፡፡»"
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "ar": "رَبَّنَاۤ إِنَّكَ جَامِعُ ٱلنَّاسِ لِیَوۡمࣲ لَّا رَیۡبَ فِیهِۚ إِنَّ ٱللَّهَ لَا یُخۡلِفُ ٱلۡمِیعَادَ",
+      "tr": "«ጌታችን ሆይ! አንተ በርሱ (ለመምጣቱ) ጥርጥር የሌለበት በኾነ ቀን ሰውን ሁሉ ሰብሳቢ ነህ፡፡ ምንጊዜም አላህ ቀጠሮውን አያፈርስምና፡፡»",
+      "la": "«getachini hoyi! anite berisu (lememit’atu) t’irit’iri yelelebeti behone k’eni sewini hulu sebisabi nehi፡፡ minigizemi alahi k’et’erowini ayaferisimina፡፡»"
+    }
+  ]
+}
