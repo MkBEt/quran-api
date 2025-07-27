@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "chapter": 3,
+      "verse": 116,
+      "ar": "إِنَّ ٱلَّذِینَ كَفَرُوا۟ لَن تُغۡنِیَ عَنۡهُمۡ أَمۡوَ ٰلُهُمۡ وَلَاۤ أَوۡلَـٰدُهُم مِّنَ ٱللَّهِ شَیۡءࣰاۖ وَأُو۟لَـٰۤئِكَ أَصۡحَـٰبُ ٱلنَّارِۖ هُمۡ فِیهَا خَـٰلِدُونَ",
+      "tr": "እነዚያ የካዱት ሰዎች ገንዘቦቻቸውና ልጆቻቸው ከአላህ (ቅጣት) እነርሱን ምንንም አያድኑዋቸውም፡፡ እነዚያም የእሳት ጓዶች ናቸው፡፡ እነርሱ በእርስዋ ውስጥ ዘውታሪዎች ናቸው፡፡",
+      "la": "ineziya yekaduti sewochi genizebochachewina lijochachewi ke’alahi (k’it’ati) inerisuni mininimi ayadinuwachewimi፡፡ ineziyami ye’isati gwadochi nachewi፡፡ inerisu be’irisiwa wisit’i zewitariwochi nachewi፡፡"
+    },
+    {
+      "chapter": 3,
+      "verse": 117,
+      "ar": "مَثَلُ مَا یُنفِقُونَ فِی هَـٰذِهِ ٱلۡحَیَوٰةِ ٱلدُّنۡیَا كَمَثَلِ رِیحࣲ فِیهَا صِرٌّ أَصَابَتۡ حَرۡثَ قَوۡمࣲ ظَلَمُوۤا۟ أَنفُسَهُمۡ فَأَهۡلَكَتۡهُۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِنۡ أَنفُسَهُمۡ یَظۡلِمُونَ",
+      "tr": "የዚያ በዚህች በቅርቢቱ ሕይወት የሚለግሱት ነገር ምሳሌ በውስጧ ውርጭ ያለባት ነፋስ ነፍሶቻቸውን የበደሉን ሕዝቦች አዝመራ እንደነካችና እንዳጠፋችው ብጤ ነው፡፡ አላህም አልበደላቸውም ግን ነፍሶቻቸውን ይበድላሉ፡፡",
+      "la": "yeziya bezihichi bek’iribitu hiyiweti yemilegisuti negeri misale bewisit’wa wirich’i yalebati nefasi nefisochachewini yebedeluni hizibochi azimera inidenekachina inidat’efachiwi bit’e newi፡፡ alahimi alibedelachewimi gini nefisochachewini yibedilalu፡፡"
+    },
+    {
+      "chapter": 3,
+      "verse": 118,
+      "ar": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ بِطَانَةࣰ مِّن دُونِكُمۡ لَا یَأۡلُونَكُمۡ خَبَالࣰا وَدُّوا۟ مَا عَنِتُّمۡ قَدۡ بَدَتِ ٱلۡبَغۡضَاۤءُ مِنۡ أَفۡوَ ٰهِهِمۡ وَمَا تُخۡفِی صُدُورُهُمۡ أَكۡبَرُۚ قَدۡ بَیَّنَّا لَكُمُ ٱلۡءَایَـٰتِۖ إِن كُنتُمۡ تَعۡقِلُونَ",
+      "tr": "እናንተ ያመናችሁ ሆይ! ከእናንተ ሌላ ምስጢረኛን አትያዙ፡፡ ማበላሸትን አይገቱላችሁም፡፡ ጉዳታችሁን ይወዳሉ፡፡ ጥላቻይቱ ከአፎቻቸው በእርግጥ ተገለጸች፡፡ ልቦቻቸውም የሚደብቁት ይበልጥ ትልቅ ነው፡፡ ልብ የምታደርጉ እንደኾናችሁ ለእናንተ ማብራሪያዎችን በእርግጥ ገለጽን፡፡",
+      "la": "inanite yamenachihu hoyi! ke’inanite lela misit’irenyani atiyazu፡፡ mabelashetini ayigetulachihumi፡፡ gudatachihuni yiwedalu፡፡ t’ilachayitu ke’afochachewi be’irigit’i tegelets’echi፡፡ libochachewimi yemidebik’uti yibelit’i tilik’i newi፡፡ libi yemitaderigu inidehonachihu le’inanite mabirariyawochini be’irigit’i gelets’ini፡፡"
+    },
+    {
+      "chapter": 3,
+      "verse": 119,
+      "ar": "هَـٰۤأَنتُمۡ أُو۟لَاۤءِ تُحِبُّونَهُمۡ وَلَا یُحِبُّونَكُمۡ وَتُؤۡمِنُونَ بِٱلۡكِتَـٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمۡ قَالُوۤا۟ ءَامَنَّا وَإِذَا خَلَوۡا۟ عَضُّوا۟ عَلَیۡكُمُ ٱلۡأَنَامِلَ مِنَ ٱلۡغَیۡظِۚ قُلۡ مُوتُوا۟ بِغَیۡظِكُمۡۗ إِنَّ ٱللَّهَ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ",
+      "tr": "እነሆ እናንተ እነዚያ የምትወዱዋቸው ናችሁ፡፡ (እነሱ) ግን አይወዱዋችሁም፡፡ በመጽሐፉም በሁሉም ታምናላችሁ፡፡ ባገኙዋችሁም ጊዜ «አምነናል» ይላሉ፡፡ ባገለሉም ጊዜ ከቁጭታቸው የተነሳ በእናንተ ላይ ዐጽቆቻቸውን ይነክሳሉ፡፡ «በቁጭታችሁ ሙቱ፤ አላህ ልቦች የቋጠሩትን ዐዋቂ ነውና» በላቸው፡፡",
+      "la": "ineho inanite ineziya yemitiweduwachewi nachihu፡፡ (inesu) gini ayiweduwachihumi፡፡ bemets’ihafumi behulumi taminalachihu፡፡ bagenyuwachihumi gize «aminenali» yilalu፡፡ bagelelumi gize kek’uch’itachewi yetenesa be’inanite layi ‘ats’ik’ochachewini yinekisalu፡፡ «bek’uch’itachihu mutu፤ alahi libochi yek’wat’erutini ‘awak’i newina» belachewi፡፡"
+    },
+    {
+      "chapter": 3,
+      "verse": 120,
+      "ar": "إِن تَمۡسَسۡكُمۡ حَسَنَةࣱ تَسُؤۡهُمۡ وَإِن تُصِبۡكُمۡ سَیِّئَةࣱ یَفۡرَحُوا۟ بِهَاۖ وَإِن تَصۡبِرُوا۟ وَتَتَّقُوا۟ لَا یَضُرُّكُمۡ كَیۡدُهُمۡ شَیۡءًاۗ إِنَّ ٱللَّهَ بِمَا یَعۡمَلُونَ مُحِیطࣱ",
+      "tr": "ደግ ነገር ብትነካችሁ ታስከፋቸዋለች፡፡ መጥፎም ነገር ብታገኛችሁ በእርሷ ይደሰታሉ፡፡ ብትታገሱና ብትጠነቀቁም ተንኮላቸው ምንም አይጎዳችሁም፡፡ አላህ በሚሠሩት ሁሉ (በዕውቀቱ) ከባቢ ነውና፡፡",
+      "la": "degi negeri bitinekachihu tasikefachewalechi፡፡ met’ifomi negeri bitagenyachihu be’iriswa yidesetalu፡፡ bititagesuna bitit’enek’ek’umi tenikolachewi minimi ayigodachihumi፡፡ alahi bemiseruti hulu (be‘iwik’etu) kebabi newina፡፡"
+    },
+    {
+      "chapter": 3,
+      "verse": 121,
+      "ar": "وَإِذۡ غَدَوۡتَ مِنۡ أَهۡلِكَ تُبَوِّئُ ٱلۡمُؤۡمِنِینَ مَقَـٰعِدَ لِلۡقِتَالِۗ وَٱللَّهُ سَمِیعٌ عَلِیمٌ",
+      "tr": "ለምእምኖቹም ለውጊያ ሥራዎችን የምታዘጋጅ ኾነህ ከቤተሰብህ በማለድክ ጊዜ (አስታውስ)፡፡ አላህም ሰሚ ዐዋቂ ነው፡፡",
+      "la": "lemi’iminochumi lewigiya sirawochini yemitazegaji honehi kebetesebihi bemalediki gize (asitawisi)፡፡ alahimi semi ‘awak’i newi፡፡"
+    }
+  ]
+}
