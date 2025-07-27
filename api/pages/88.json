@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "chapter": 4,
+      "verse": 60,
+      "ar": "أَلَمۡ تَرَ إِلَى ٱلَّذِینَ یَزۡعُمُونَ أَنَّهُمۡ ءَامَنُوا۟ بِمَاۤ أُنزِلَ إِلَیۡكَ وَمَاۤ أُنزِلَ مِن قَبۡلِكَ یُرِیدُونَ أَن یَتَحَاكَمُوۤا۟ إِلَى ٱلطَّـٰغُوتِ وَقَدۡ أُمِرُوۤا۟ أَن یَكۡفُرُوا۟ بِهِۦۖ وَیُرِیدُ ٱلشَّیۡطَـٰنُ أَن یُضِلَّهُمۡ ضَلَـٰلَۢا بَعِیدࣰا",
+      "tr": "ወደ እነዚያ እነርሱ በአንተ ላይ በተወረደውና ከአንተ በፊትም በተወረደው አምነናል ወደሚሉት፤ አላየህምን በእርሱ እንዲክዱ በእርግጥ የታዘዙ ሲኾኑ ወደ ጣዖት መፋረድን ይፈልጋሉ፡፡ ሰይጣንም (ከእውነት) የራቀን መሳሳት ሊያሳስታቸው ይፈልጋል፡፡",
+      "la": "wede ineziya inerisu be’anite layi beteweredewina ke’anite befitimi beteweredewi aminenali wedemiluti፤ alayehimini be’irisu inidikidu be’irigit’i yetazezu sihonu wede t’a‘oti mefaredini yifeligalu፡፡ seyit’animi (ke’iwineti) yerak’eni mesasati liyasasitachewi yifeligali፡፡"
+    },
+    {
+      "chapter": 4,
+      "verse": 61,
+      "ar": "وَإِذَا قِیلَ لَهُمۡ تَعَالَوۡا۟ إِلَىٰ مَاۤ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَیۡتَ ٱلۡمُنَـٰفِقِینَ یَصُدُّونَ عَنكَ صُدُودࣰا",
+      "tr": "ለእነርሱም፡- «አላህ ወደ አወረደው (ቁርኣን)ና ወደ መልክተኛው ኑ» በተባሉ ጊዜ መናፍቃን ከአንተ መሸሽን ሲሸሹ ታያቸዋለህ፡፡",
+      "la": "le’inerisumi፡- «alahi wede aweredewi (k’uri’ani)na wede melikitenyawi nu» betebalu gize menafik’ani ke’anite mesheshini sisheshu tayachewalehi፡፡"
+    },
+    {
+      "chapter": 4,
+      "verse": 62,
+      "ar": "فَكَیۡفَ إِذَاۤ أَصَـٰبَتۡهُم مُّصِیبَةُۢ بِمَا قَدَّمَتۡ أَیۡدِیهِمۡ ثُمَّ جَاۤءُوكَ یَحۡلِفُونَ بِٱللَّهِ إِنۡ أَرَدۡنَاۤ إِلَّاۤ إِحۡسَـٰنࣰا وَتَوۡفِیقًا",
+      "tr": "እጆቻቸውም ባስቀደሙት (ጥፋት) መከራ በደረሰችባቸውና ከዚያም «ደግን ሐሳብና ማስማማትን እንጅ ሌላ አልሻንም» በማለት በአላህ የሚምሉ ኾነው በመጡህ ጊዜ እንዴት ይኾናሉ",
+      "la": "ijochachewimi basik’edemuti (t’ifati) mekera bederesechibachewina keziyami «degini hasabina masimamatini iniji lela alishanimi» bemaleti be’alahi yemimilu honewi bemet’uhi gize inideti yihonalu"
+    },
+    {
+      "chapter": 4,
+      "verse": 63,
+      "ar": "أُو۟لَـٰۤئِكَ ٱلَّذِینَ یَعۡلَمُ ٱللَّهُ مَا فِی قُلُوبِهِمۡ فَأَعۡرِضۡ عَنۡهُمۡ وَعِظۡهُمۡ وَقُل لَّهُمۡ فِیۤ أَنفُسِهِمۡ قَوۡلَۢا بَلِیغࣰا",
+      "tr": "እነዚህ እነዚያ አላህ በልቦቻቸው ውስጥ ያለውን ሁሉ የሚያውቅባቸው ናቸው፡፡ እነርሱንም ተዋቸው ገሥጻቸውም፡፡ ለእነርሱም በነፍሶቻቸው ውስጥ ስሜት ያለውን ቃል ተናገራቸው፡፡",
+      "la": "inezihi ineziya alahi belibochachewi wisit’i yalewini hulu yemiyawik’ibachewi nachewi፡፡ inerisunimi tewachewi gesits’achewimi፡፡ le’inerisumi benefisochachewi wisit’i simeti yalewini k’ali tenagerachewi፡፡"
+    },
+    {
+      "chapter": 4,
+      "verse": 64,
+      "ar": "وَمَاۤ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِیُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوۤا۟ أَنفُسَهُمۡ جَاۤءُوكَ فَٱسۡتَغۡفَرُوا۟ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابࣰا رَّحِیمࣰا",
+      "tr": "ማንንም መልክተኛ በአላህ ፈቃድ ሊታዘዙት እንጅ አልላክንም፡፡ እነሱም ነፍሶቻቸውን በበደሉ ጊዜ ወደ አንተ ቢመጡና አላህንም ምሕረትን በለመኑ መልክተኛውም ለነርሱ ምሕረትን በለመነላቸው ኖሮ አላህን ጸጸትን ተቀባይ አዛኝ ኾኖ ባገኙት ነበር፡፡",
+      "la": "maninimi melikitenya be’alahi fek’adi litazezuti iniji alilakinimi፡፡ inesumi nefisochachewini bebedelu gize wede anite bimet’una alahinimi mihiretini belemenu melikitenyawimi lenerisu mihiretini belemenelachewi noro alahini ts’ets’etini tek’ebayi azanyi hono bagenyuti neberi፡፡"
+    },
+    {
+      "chapter": 4,
+      "verse": 65,
+      "ar": "فَلَا وَرَبِّكَ لَا یُؤۡمِنُونَ حَتَّىٰ یُحَكِّمُوكَ فِیمَا شَجَرَ بَیۡنَهُمۡ ثُمَّ لَا یَجِدُوا۟ فِیۤ أَنفُسِهِمۡ حَرَجࣰا مِّمَّا قَضَیۡتَ وَیُسَلِّمُوا۟ تَسۡلِیمࣰا",
+      "tr": "በጌታህም እምላለሁ በመካከላቸው በተከራከሩበት ፍርድ እስከሚያስፈርዱህ ከዚያም ከፈረድከው ነገር በነፍሶቻቸው ውስጥ ጭንቀትን እስከማያገኙና ፍጹም መታዘዝንም እስከሚታዘዙ ድረስ አያምኑም፤ (ምእመን አይኾኑም)፡፡",
+      "la": "begetahimi imilalehu bemekakelachewi betekerakerubeti firidi isikemiyasiferiduhi keziyami keferedikewi negeri benefisochachewi wisit’i ch’inik’etini isikemayagenyuna fits’umi metazezinimi isikemitazezu diresi ayaminumi፤ (mi’imeni ayihonumi)፡፡"
+    }
+  ]
+}
