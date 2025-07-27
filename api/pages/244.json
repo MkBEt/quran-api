@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "chapter": 12,
+      "verse": 70,
+      "ar": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ جَعَلَ ٱلسِّقَایَةَ فِی رَحۡلِ أَخِیهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَیَّتُهَا ٱلۡعِیرُ إِنَّكُمۡ لَسَـٰرِقُونَ",
+      "tr": "ዕቃቸውንም ባዘጋጀላቸው ጊዜ፤ ዋንጫይቱን በወንድሙ ዕቃ ውስጥ አደረገ፡፡ ከዚያም «እናንተ ባለ ግመሎች ሆይ! እናንተ በእርግጥ ሌቦች ናችሁ ሲል ጠሪ ተጣራ፡፡»",
+      "la": "‘ik’achewinimi bazegajelachewi gize፤ wanich’ayituni bewenidimu ‘ik’a wisit’i aderege፡፡ keziyami «inanite bale gimelochi hoyi! inanite be’irigit’i lebochi nachihu sili t’eri tet’ara፡፡»"
+    },
+    {
+      "chapter": 12,
+      "verse": 71,
+      "ar": "قَالُوا۟ وَأَقۡبَلُوا۟ عَلَیۡهِم مَّاذَا تَفۡقِدُونَ",
+      "tr": "ወደነሱ ዞረውም «ምንድን ጠፋችሁ» አሉ፡፡",
+      "la": "wedenesu zorewimi «minidini t’efachihu» alu፡፡"
+    },
+    {
+      "chapter": 12,
+      "verse": 72,
+      "ar": "قَالُوا۟ نَفۡقِدُ صُوَاعَ ٱلۡمَلِكِ وَلِمَن جَاۤءَ بِهِۦ حِمۡلُ بَعِیرࣲ وَأَنَا۠ بِهِۦ زَعِیمࣱ",
+      "tr": "«የንጉሡ መስፈሪያ ጠፍቶናል፡፡ እርሱንም ላመጣ ሰው የግመል ጭነት አለው፡፡ እኔም በእርሱ ተያዥ ነኝ» አለ፡፡",
+      "la": "«yenigusu mesiferiya t’efitonali፡፡ irisunimi lamet’a sewi yegimeli ch’ineti alewi፡፡ inemi be’irisu teyazhi nenyi» ale፡፡"
+    },
+    {
+      "chapter": 12,
+      "verse": 73,
+      "ar": "قَالُوا۟ تَٱللَّهِ لَقَدۡ عَلِمۡتُم مَّا جِئۡنَا لِنُفۡسِدَ فِی ٱلۡأَرۡضِ وَمَا كُنَّا سَـٰرِقِینَ",
+      "tr": "«በአላህ እንምላለን በምድር ላይ ለማጥፋት እንዳልመጣን በእርግጥ ዐውቃችኋል፡፡ ሌቦችም አልነበርንም» አሉ፡፡",
+      "la": "«be’alahi inimilaleni bemidiri layi lemat’ifati inidalimet’ani be’irigit’i ‘awik’achihwali፡፡ lebochimi alineberinimi» alu፡፡"
+    },
+    {
+      "chapter": 12,
+      "verse": 74,
+      "ar": "قَالُوا۟ فَمَا جَزَ ٰۤؤُهُۥۤ إِن كُنتُمۡ كَـٰذِبِینَ",
+      "tr": "«ውሸታሞች ብትሆኑ ቅጣቱ ምንድን ነው» አሏቸው፡፡",
+      "la": "«wishetamochi bitihonu k’it’atu minidini newi» alwachewi፡፡"
+    },
+    {
+      "chapter": 12,
+      "verse": 75,
+      "ar": "قَالُوا۟ جَزَ ٰۤؤُهُۥ مَن وُجِدَ فِی رَحۡلِهِۦ فَهُوَ جَزَ ٰۤؤُهُۥۚ كَذَ ٰلِكَ نَجۡزِی ٱلظَّـٰلِمِینَ",
+      "tr": "«ቅጣቱ (በያዕቆብ ሕግ) ዕቃው በጓዙ ውስጥ የተገኘበት ሰው (ራሱ መወሰድ) ነው፡፡ እርሱም ቅጣቱ ነው፡፡ እንደዚሁ በደለኞችን እንቀጣለን» አሉ፡፡",
+      "la": "«k’it’atu (beya‘ik’obi higi) ‘ik’awi begwazu wisit’i yetegenyebeti sewi (rasu mewesedi) newi፡፡ irisumi k’it’atu newi፡፡ inidezihu bedelenyochini inik’et’aleni» alu፡፡"
+    },
+    {
+      "chapter": 12,
+      "verse": 76,
+      "ar": "فَبَدَأَ بِأَوۡعِیَتِهِمۡ قَبۡلَ وِعَاۤءِ أَخِیهِ ثُمَّ ٱسۡتَخۡرَجَهَا مِن وِعَاۤءِ أَخِیهِۚ كَذَ ٰلِكَ كِدۡنَا لِیُوسُفَۖ مَا كَانَ لِیَأۡخُذَ أَخَاهُ فِی دِینِ ٱلۡمَلِكِ إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُۚ نَرۡفَعُ دَرَجَـٰتࣲ مَّن نَّشَاۤءُۗ وَفَوۡقَ كُلِّ ذِی عِلۡمٍ عَلِیمࣱ",
+      "tr": "(ምርመራውን) ከወንድሙም ዕቃ በፊት በዕቃዎቻቸው ጀመረ፡፡ ከዚያም (ዋንጫይቱን) ከወንድሙ ዕቃ ውስጥ አወጣት፡፡ እንደዚሁ ለዩሱፍ ብልሃትን አስተማርነው፡፡ አላህ ባልሻ ኖሮ በንጉሡ ሕግ ወንድሙን ሊይዝ አይገባውም ነበር፡፡ የምንሻውን ሰው በደረጃዎች ከፍ እናደርጋለን፡፡ ከዕውቀት ባለቤቶች ሁሉ በላይም ዐዋቂ አልለ፡፡",
+      "la": "(mirimerawini) kewenidimumi ‘ik’a befiti be‘ik’awochachewi jemere፡፡ keziyami (wanich’ayituni) kewenidimu ‘ik’a wisit’i awet’ati፡፡ inidezihu leyusufi bilihatini asitemarinewi፡፡ alahi balisha noro benigusu higi wenidimuni liyizi ayigebawimi neberi፡፡ yeminishawini sewi bederejawochi kefi inaderigaleni፡፡ ke‘iwik’eti balebetochi hulu belayimi ‘awak’i alile፡፡"
+    },
+    {
+      "chapter": 12,
+      "verse": 77,
+      "ar": "۞ قَالُوۤا۟ إِن یَسۡرِقۡ فَقَدۡ سَرَقَ أَخࣱ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا یُوسُفُ فِی نَفۡسِهِۦ وَلَمۡ یُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرࣱّ مَّكَانࣰاۖ وَٱللَّهُ أَعۡلَمُ بِمَا تَصِفُونَ",
+      "tr": "«ቢሰርቅ ከአሁን በፊት የርሱው ወንድም በእርግጥ ሰርቋል» አሉ፡፡ ዩሱፍም (ይህችን ንግግር) በነፍሱ ውስጥ ደበቃት፡፡ ለእነሱም አልገለጣትም፡፡ (በልቡ) «እናንተ ሥራችሁ የከፋ ነው፡፡ አላህም የምትሉትን ሁሉ ይበልጥ ዐዋቂ ነው» አለ፡፡",
+      "la": "«biserik’i ke’ahuni befiti yerisuwi wenidimi be’irigit’i serik’wali» alu፡፡ yusufimi (yihichini nigigiri) benefisu wisit’i debek’ati፡፡ le’inesumi aligelet’atimi፡፡ (belibu) «inanite sirachihu yekefa newi፡፡ alahimi yemitilutini hulu yibelit’i ‘awak’i newi» ale፡፡"
+    },
+    {
+      "chapter": 12,
+      "verse": 78,
+      "ar": "قَالُوا۟ یَـٰۤأَیُّهَا ٱلۡعَزِیزُ إِنَّ لَهُۥۤ أَبࣰا شَیۡخࣰا كَبِیرࣰا فَخُذۡ أَحَدَنَا مَكَانَهُۥۤۖ إِنَّا نَرَىٰكَ مِنَ ٱلۡمُحۡسِنِینَ",
+      "tr": "አንተ የተከበርከው ሆይ! «ለእርሱ በእርግጥ ታላቅ ሽማግሌ አባት አለው፡፡ ስለዚህ በእርሱ ስፍራ አንደኛችንን ያዝ፡፡ እኛ ከመልካም ሠሪዎች ሆነህ እናይሃለንና» አሉት፡፡",
+      "la": "anite yetekeberikewi hoyi! «le’irisu be’irigit’i talak’i shimagile abati alewi፡፡ silezihi be’irisu sifira anidenyachinini yazi፡፡ inya kemelikami seriwochi honehi inayihalenina» aluti፡፡"
+    }
+  ]
+}
