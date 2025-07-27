@@ -1,0 +1,80 @@
+{
+   "chapter": 101,
+   "title_ar": "القارعة",
+   "title_am": "አል-ቃሪዓህ",
+   "title_la": "Al-Qari'ah",
+   "count": "11",
+   "quran": [
+      {
+         "verse": 0,
+         "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+         "tr": "በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡"
+      },
+      {
+         "verse": 1,
+         "ar": "ٱلۡقَارِعَةُ",
+         "tr": "ቆርቋሪይቱ (ጩኸት)፤",
+         "la": "k’orik’wariyitu (ch’uheti)፤"
+      },
+      {
+         "verse": 2,
+         "ar": "مَا ٱلۡقَارِعَةُ",
+         "tr": "ምን አስደናቂ ቆርቋሪ ናት",
+         "la": "mini asidenak’i k’orik’wari nati"
+      },
+      {
+         "verse": 3,
+         "ar": "وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ",
+         "tr": "ቆርቋሪይቱም ምን እንደኾነች ምን አሳወቀህ",
+         "la": "k’orik’wariyitumi mini inidehonechi mini asawek’ehi"
+      },
+      {
+         "verse": 4,
+         "ar": "یَوۡمَ یَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ",
+         "tr": "ሰዎች እንደ ተበታተነ ቢራቢሮ (ወይም ኩብኩባ) በሚኾኑበት ቀን፤",
+         "la": "sewochi inide tebetatene birabiro (weyimi kubikuba) bemihonubeti k’eni፤"
+      },
+      {
+         "verse": 5,
+         "ar": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ",
+         "tr": "ጋራዎችም እንደ ተነደፈ ሱፍ በሚኾኑበት (ቀን ልቦችን በድንጋጤ ትቆረቁራለች፡፡)",
+         "la": "garawochimi inide tenedefe sufi bemihonubeti (k’eni libochini bedinigat’e tik’orek’uralechi፡፡)"
+      },
+      {
+         "verse": 6,
+         "ar": "فَأَمَّا مَن ثَقُلَتۡ مَوَ ٰزِینُهُۥ",
+         "tr": "ሚዛኖቹ የከበዱለት ሰውማ፤",
+         "la": "mizanochu yekebeduleti sewima፤"
+      },
+      {
+         "verse": 7,
+         "ar": "فَهُوَ فِی عِیشَةࣲ رَّاضِیَةࣲ",
+         "tr": "እርሱ በምትወደድ ኑሮ ውስጥ ይኾናል፡፡",
+         "la": "irisu bemitiwededi nuro wisit’i yihonali፡፡"
+      },
+      {
+         "verse": 8,
+         "ar": "وَأَمَّا مَنۡ خَفَّتۡ مَوَ ٰزِینُهُۥ",
+         "tr": "ሚዛኖቹም የቀለሉበት ሰውማ፤",
+         "la": "mizanochumi yek’elelubeti sewima፤"
+      },
+      {
+         "verse": 9,
+         "ar": "فَأُمُّهُۥ هَاوِیَةࣱ",
+         "tr": "መኖሪያው ሃዊያህ ናት",
+         "la": "menoriyawi hawiyahi nati"
+      },
+      {
+         "verse": 10,
+         "ar": "وَمَاۤ أَدۡرَىٰكَ مَا هِیَهۡ",
+         "tr": "እርሷም ምን እንደ ኾነች ምን አሳወቀህ",
+         "la": "iriswami mini inide honechi mini asawek’ehi"
+      },
+      {
+         "verse": 11,
+         "ar": "نَارٌ حَامِیَةُۢ",
+         "tr": "(እርሷ) በጣም ተኳሳ እሳት ናት፡፡",
+         "la": "(iriswa) bet’ami tekwasa isati nati፡፡"
+      }
+   ]
+}
