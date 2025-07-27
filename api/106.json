@@ -1,0 +1,38 @@
+{
+   "chapter": 106,
+   "title_ar": "قريش",
+   "title_am": "አል-ቁረይሽ",
+   "title_la": "Quraysh",
+   "count": "4",
+   "quran": [
+      {
+         "verse": 0,
+         "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+         "tr": "በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡"
+      },
+      {
+         "verse": 1,
+         "ar": "لِإِیلَـٰفِ قُرَیۡشٍ",
+         "tr": "ቁረይሽን ለማላመድ (ባለዝሆኖቹን አጠፋ)፡፡",
+         "la": "k’ureyishini lemalamedi (balezihonochuni at’efa)፡፡"
+      },
+      {
+         "verse": 2,
+         "ar": "إِۦلَـٰفِهِمۡ رِحۡلَةَ ٱلشِّتَاۤءِ وَٱلصَّیۡفِ",
+         "tr": "የብርድና የበጋን ወራት ጉዞ ሊያላምዳቸው ይህንን ሠራ፡፡",
+         "la": "yebiridina yebegani werati guzo liyalamidachewi yihinini sera፡፡"
+      },
+      {
+         "verse": 3,
+         "ar": "فَلۡیَعۡبُدُوا۟ رَبَّ هَـٰذَا ٱلۡبَیۡتِ",
+         "tr": "ስለዚህ የዚህን ቤት (የከዕባን) ጌታ ይግገዙ፡፡",
+         "la": "silezihi yezihini beti (yeke‘ibani) geta yigigezu፡፡"
+      },
+      {
+         "verse": 4,
+         "ar": "ٱلَّذِیۤ أَطۡعَمَهُم مِّن جُوعࣲ وَءَامَنَهُم مِّنۡ خَوۡفِۭ",
+         "tr": "ያንን ከረኃብ ያበላቸውን ከፍርሃትም ያረካቸውን (ጌታ ያምልኩ)፡፡",
+         "la": "yanini kerehabi yabelachewini kefirihatimi yarekachewini (geta yamiliku)፡፡"
+      }
+   ]
+}
