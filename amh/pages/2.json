@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "chapter": 2,
+      "verse": 1,
+      "ar": "الۤمۤ",
+      "tr": "አ.ለ.መ (አሊፍ ላም ሚም)፤",
+      "la": "a.le.me"
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "ar": "ذَ ٰلِكَ ٱلۡكِتَـٰبُ لَا رَیۡبَۛ فِیهِۛ هُدࣰى لِّلۡمُتَّقِینَ",
+      "tr": "ይህ መጽሐፍ (ከአላህ ለመኾኑ) ጥርጥር የለበትም፤ ለፈራህያን መሪ ነው፡፡",
+      "la": "yihi mets’ihafi (ke’alahi lemehonu) t’irit’iri yelebetimi፤ leferahiyani meri newi፡፡"
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "ar": "ٱلَّذِینَ یُؤۡمِنُونَ بِٱلۡغَیۡبِ وَیُقِیمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ",
+      "tr": "ለነዚያ በሩቁ ነገር የሚያምኑ ሶላትንም ደንቡን ጠብቀው የሚሰግዱ ከሰጠናቸውም ሲሳይ የሚቸሩ ለኾኑት፤",
+      "la": "leneziya beruk’u negeri yemiyaminu solatinimi denibuni t’ebik’ewi yemisegidu keset’enachewimi sisayi yemicheru lehonuti፤"
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "ar": "وَٱلَّذِینَ یُؤۡمِنُونَ بِمَاۤ أُنزِلَ إِلَیۡكَ وَمَاۤ أُنزِلَ مِن قَبۡلِكَ وَبِٱلۡءَاخِرَةِ هُمۡ یُوقِنُونَ",
+      "tr": "ለእነዚያም ወደ አንተ በተወረደውና ከአንተ በፊትም በተወረደው የሚያምኑ በመጨረሻይቱም (ዓለም) እነርሱ የሚያረጋግጡ ለኾኑት (መሪ ነው)፡፡",
+      "la": "le’ineziyami wede anite beteweredewina ke’anite befitimi beteweredewi yemiyaminu bemech’ereshayitumi (‘alemi) inerisu yemiyaregagit’u lehonuti (meri newi)፡፡"
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "ar": "أُو۟لَـٰۤئِكَ عَلَىٰ هُدࣰى مِّن رَّبِّهِمۡۖ وَأُو۟لَـٰۤئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+      "tr": "እነዚያ ከጌታቸው በመመራት ላይ ናቸው፤ እነዚያም እነሱ ፍላጎታቸውን ያገኙ ናቸው፡፡",
+      "la": "ineziya kegetachewi bememerati layi nachewi፤ ineziyami inesu filagotachewini yagenyu nachewi፡፡"
+    }
+  ]
+}
