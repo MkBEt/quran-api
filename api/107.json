@@ -1,0 +1,56 @@
+{
+   "chapter": 107,
+   "title_ar": "الماعون",
+   "title_am": "አል-ማዑን",
+   "title_la": "Al-Ma'un",
+   "count": "7",
+   "quran": [
+      {
+         "verse": 0,
+         "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+         "tr": "በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡"
+      },
+      {
+         "verse": 1,
+         "ar": "أَرَءَیۡتَ ٱلَّذِی یُكَذِّبُ بِٱلدِّینِ",
+         "tr": "ያንን በምርመራው የሚያስተባብለውን አየህን? (ዐወቅከውን)",
+         "la": "yanini bemirimerawi yemiyasitebabilewini ayehini? (‘awek’ikewini)"
+      },
+      {
+         "verse": 2,
+         "ar": "فَذَ ٰلِكَ ٱلَّذِی یَدُعُّ ٱلۡیَتِیمَ",
+         "tr": "ይህም ያ የቲምን በኀይል የሚገፈትረው፤",
+         "la": "yihimi ya yetimini behayili yemigefetirewi፤"
+      },
+      {
+         "verse": 3,
+         "ar": "وَلَا یَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِینِ",
+         "tr": "ድኻንም በማብላት ላይ የማያግባባው ሰው ነው፡፡",
+         "la": "dihanimi bemabilati layi yemayagibabawi sewi newi፡፡"
+      },
+      {
+         "verse": 4,
+         "ar": "فَوَیۡلࣱ لِّلۡمُصَلِّینَ",
+         "tr": "ወዮላቸው ለሰጋጆች፡፡",
+         "la": "weyolachewi lesegajochi፡፡"
+      },
+      {
+         "verse": 5,
+         "ar": "ٱلَّذِینَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ",
+         "tr": "ለእነዚያ እነርሱ ከስግደታቸው ዘንጊዎች ለኾኑት፤ (ሰጋጆች)፡፡",
+         "la": "le’ineziya inerisu kesigidetachewi zenigiwochi lehonuti፤ (segajochi)፡፡"
+      },
+      {
+         "verse": 6,
+         "ar": "ٱلَّذِینَ هُمۡ یُرَاۤءُونَ",
+         "tr": "ለእነዚያ እነርሱ ይዩልኝ ባዮች ለኾኑት፡፡",
+         "la": "le’ineziya inerisu yiyulinyi bayochi lehonuti፡፡"
+      },
+      {
+         "verse": 7,
+         "ar": "وَیَمۡنَعُونَ ٱلۡمَاعُونَ",
+         "tr": "የዕቃ ትውስትንም (ሰዎችን) የሚከለክሉ ለኾኑት (ወዮላቸው)፡፡",
+         "la": "ye‘ik’a tiwisitinimi (sewochini) yemikelekilu lehonuti (weyolachewi)፡፡"
+      }
+   ]
+}
