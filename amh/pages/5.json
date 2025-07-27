@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "chapter": 2,
+      "verse": 25,
+      "ar": "وَبَشِّرِ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمۡ جَنَّـٰتࣲ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُۖ كُلَّمَا رُزِقُوا۟ مِنۡهَا مِن ثَمَرَةࣲ رِّزۡقࣰا قَالُوا۟ هَـٰذَا ٱلَّذِی رُزِقۡنَا مِن قَبۡلُۖ وَأُتُوا۟ بِهِۦ مُتَشَـٰبِهࣰاۖ وَلَهُمۡ فِیهَاۤ أَزۡوَ ٰجࣱ مُّطَهَّرَةࣱۖ وَهُمۡ فِیهَا خَـٰلِدُونَ",
+      "tr": "እነዚያን ያመኑትንና መልካሞችንም የሠሩትን ለነርሱ ከሥሮቻቸው ወንዞች የሚፈሱባቸው ገነቶች ያሏቸው መኾኑን አብስራቸው፡፡ ከርሷ ከፍሬ (ዓይነት) ሲሳይን በተመገቡ ቁጥር (ፍሬዎችዋ ስለሚመሳሰሉ) «ይህ ያ ከአሁን በፊት የተገመብነው ነው» ይላሉ፡፡ እርሱንም ተመሳሳይ ኾኖ ተሰጡት፡፡ ለነሱም በውስጧ ንጹህ የተደረጉ ሚስቶች አሏቸው፡፡ እነሱም በውስጧ ዘውታሪዎች ናቸው፡፡",
+      "la": "ineziyani yamenutinina melikamochinimi yeserutini lenerisu kesirochachewi wenizochi yemifesubachewi genetochi yalwachewi mehonuni abisirachewi፡፡ keriswa kefire (‘ayineti) sisayini betemegebu k’ut’iri (firewochiwa silemimesaselu) «yihi ya ke’ahuni befiti yetegemebinewi newi» yilalu፡፡ irisunimi temesasayi hono teset’uti፡፡ lenesumi bewisit’wa nits’uhi yetederegu misitochi alwachewi፡፡ inesumi bewisit’wa zewitariwochi nachewi፡፡"
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "ar": "۞ إِنَّ ٱللَّهَ لَا یَسۡتَحۡیِۦۤ أَن یَضۡرِبَ مَثَلࣰا مَّا بَعُوضَةࣰ فَمَا فَوۡقَهَاۚ فَأَمَّا ٱلَّذِینَ ءَامَنُوا۟ فَیَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۖ وَأَمَّا ٱلَّذِینَ كَفَرُوا۟ فَیَقُولُونَ مَاذَاۤ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلࣰاۘ یُضِلُّ بِهِۦ كَثِیرࣰا وَیَهۡدِی بِهِۦ كَثِیرࣰاۚ وَمَا یُضِلُّ بِهِۦۤ إِلَّا ٱلۡفَـٰسِقِینَ",
+      "tr": "አላህ ማንኛውንም ነገር ትንኝንም ኾነ (በትንሽነት ወይም በትልቅነት) ከበላይዋ የኾነንም ምሳሌ ለማድረግ አያፍርም፡፡ እነዚያ ያመኑትማ፤ እርሱ (ምሳሌው) ከጌታቸው (የተገኘ) እውነት መኾኑን ያውቃሉ፡፡ እነዚያም የካዱትማ «አላህ በዚህ ምንን ምሳሌ ሻ» ይላሉ፡፡ በርሱ (በምሳሌው) ብዙዎችን ያሳስታል በርሱም ብዙዎችን ያቀናል፡፡ በርሱም አመፀኞችን እንጅ ሌላን አያሳስትም፡፡",
+      "la": "alahi maninyawinimi negeri tininyinimi hone (betinishineti weyimi betilik’ineti) kebelayiwa yehonenimi misale lemadiregi ayafirimi፡፡ ineziya yamenutima፤ irisu (misalewi) kegetachewi (yetegenye) iwineti mehonuni yawik’alu፡፡ ineziyami yekadutima «alahi bezihi minini misale sha» yilalu፡፡ berisu (bemisalewi) bizuwochini yasasitali berisumi bizuwochini yak’enali፡፡ berisumi amets’enyochini iniji lelani ayasasitimi፡፡"
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "ar": "ٱلَّذِینَ یَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِیثَـٰقِهِۦ وَیَقۡطَعُونَ مَاۤ أَمَرَ ٱللَّهُ بِهِۦۤ أَن یُوصَلَ وَیُفۡسِدُونَ فِی ٱلۡأَرۡضِۚ أُو۟لَـٰۤئِكَ هُمُ ٱلۡخَـٰسِرُونَ",
+      "tr": "እነዚያ የአላህን ቃል ኪዳን ከአጠበቀባቸው በኋላ የሚያፈርሱ እንዲቀጠልም በርሱ ያዘዘውን ነገር የሚቆርጡ በምድርም ላይ የሚያበላሹ እነዚያ እነርሱ ከሳሪዎቹ ናቸው፡፡",
+      "la": "ineziya ye’alahini k’ali kidani ke’at’ebek’ebachewi behwala yemiyaferisu inidik’et’elimi berisu yazezewini negeri yemik’orit’u bemidirimi layi yemiyabelashu ineziya inerisu kesariwochu nachewi፡፡"
+    },
+    {
+      "chapter": 2,
+      "verse": 28,
+      "ar": "كَیۡفَ تَكۡفُرُونَ بِٱللَّهِ وَكُنتُمۡ أَمۡوَ ٰتࣰا فَأَحۡیَـٰكُمۡۖ ثُمَّ یُمِیتُكُمۡ ثُمَّ یُحۡیِیكُمۡ ثُمَّ إِلَیۡهِ تُرۡجَعُونَ",
+      "tr": "ሙታን የነበራችሁ ስትኾኑ ሕያው ያደረጋችሁ ከዚያም የሚገድላችሁ ከዚያም ሕያው የሚያደርጋችሁ ሲኾን ከዚያም ወደርሱ የምትመለሱ ስትኾኑ በአላህ እንዴት ትክዳለችሁ",
+      "la": "mutani yeneberachihu sitihonu hiyawi yaderegachihu keziyami yemigedilachihu keziyami hiyawi yemiyaderigachihu sihoni keziyami wederisu yemitimelesu sitihonu be’alahi inideti tikidalechihu"
+    },
+    {
+      "chapter": 2,
+      "verse": 29,
+      "ar": "هُوَ ٱلَّذِی خَلَقَ لَكُم مَّا فِی ٱلۡأَرۡضِ جَمِیعࣰا ثُمَّ ٱسۡتَوَىٰۤ إِلَى ٱلسَّمَاۤءِ فَسَوَّىٰهُنَّ سَبۡعَ سَمَـٰوَ ٰتࣲۚ وَهُوَ بِكُلِّ شَیۡءٍ عَلِیمࣱ",
+      "tr": "እርሱ ያ በምድር ያለውን ሁሉ ለእናንተ የፈጠረ ነው፡፡ ከዚያም ወደ ሰማይ አሰበ፤ ሰባት ሰማያትም አደረጋቸው፡፡ እርሱም በነገሩ ሁሉ ዐዋቂ ነው፡፡",
+      "la": "irisu ya bemidiri yalewini hulu le’inanite yefet’ere newi፡፡ keziyami wede semayi asebe፤ sebati semayatimi aderegachewi፡፡ irisumi benegeru hulu ‘awak’i newi፡፡"
+    }
+  ]
+}
