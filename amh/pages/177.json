@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "chapter": 8,
+      "verse": 1,
+      "ar": "۞ یَسۡءَلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصۡلِحُوا۟ ذَاتَ بَیۡنِكُمۡۖ وَأَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥۤ إِن كُنتُم مُّؤۡمِنِینَ",
+      "tr": "ከጦር ዘረፋ ገንዘቦች ይጠይቁሃል፡፡ «የዘረፋ ገንዘቦች የአላህና የመልክተኛው ናቸው፡፡» ስለዚህ አላህን ፍሩ፡፡ በመካከላችሁ ያለችውንም ኹኔታ አሳምሩ፡፡ አማኞችም እንደኾናችሁ አላህንና መልክተኛውን ታዘዙ በላቸው፡፡",
+      "la": "ket’ori zerefa genizebochi yit’eyik’uhali፡፡ «yezerefa genizebochi ye’alahina yemelikitenyawi nachewi፡፡» silezihi alahini firu፡፡ bemekakelachihu yalechiwinimi huneta asamiru፡፡ amanyochimi inidehonachihu alahinina melikitenyawini tazezu belachewi፡፡"
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "ar": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِینَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَإِذَا تُلِیَتۡ عَلَیۡهِمۡ ءَایَـٰتُهُۥ زَادَتۡهُمۡ إِیمَـٰنࣰا وَعَلَىٰ رَبِّهِمۡ یَتَوَكَّلُونَ",
+      "tr": "ፍጹም ምእምናን እነዚያ አላህ በተወሳ ጊዜ ልቦቻቸው የሚፈሩት፣ በነሱም ላይ አንቀጾቻችን በተነበቡ ጊዜ እምነትን የሚጨምሩላቸው፣ በጌታቸውም ላይ ብቻ የሚመኩት ናቸው፡፡",
+      "la": "fits’umi mi’iminani ineziya alahi betewesa gize libochachewi yemiferuti፣ benesumi layi anik’ets’ochachini betenebebu gize iminetini yemich’emirulachewi፣ begetachewimi layi bicha yemimekuti nachewi፡፡"
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "ar": "ٱلَّذِینَ یُقِیمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ",
+      "tr": "እነዚያ ሶላትን ደንቡን አሟልተው የሚሰግዱ ከሰጠናቸውም ሲሳይ የሚለግሱ ናቸው፡፡",
+      "la": "ineziya solatini denibuni amwalitewi yemisegidu keset’enachewimi sisayi yemilegisu nachewi፡፡"
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "ar": "أُو۟لَـٰۤئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقࣰّاۚ لَّهُمۡ دَرَجَـٰتٌ عِندَ رَبِّهِمۡ وَمَغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ",
+      "tr": "እነዚያ በእውነት አማኞች እነሱ ብቻ ናቸው፡፡ ለእነሱ በጌታቸው ዘንድ ደረጃዎች ምህረትና የከበረ ሲሳይም አላቸው፡፡",
+      "la": "ineziya be’iwineti amanyochi inesu bicha nachewi፡፡ le’inesu begetachewi zenidi derejawochi mihiretina yekebere sisayimi alachewi፡፡"
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "ar": "كَمَاۤ أَخۡرَجَكَ رَبُّكَ مِنۢ بَیۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِیقࣰا مِّنَ ٱلۡمُؤۡمِنِینَ لَكَـٰرِهُونَ",
+      "tr": "(ይህ በዘረፋ ክፍያ የከፊሉ ሰው መጥላት) ከምእምናን ከፊሉ የጠሉ ሲኾኑ ጌታህ ከቤትህ በእውነት ላይ ኾነህ እንዳወጣህ ነው፡፡",
+      "la": "(yihi bezerefa kifiya yekefilu sewi met’ilati) kemi’iminani kefilu yet’elu sihonu getahi kebetihi be’iwineti layi honehi inidawet’ahi newi፡፡"
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "ar": "یُجَـٰدِلُونَكَ فِی ٱلۡحَقِّ بَعۡدَ مَا تَبَیَّنَ كَأَنَّمَا یُسَاقُونَ إِلَى ٱلۡمَوۡتِ وَهُمۡ یَنظُرُونَ",
+      "tr": "እነርሱ እያዩ ወደሞት እንደሚነዱ ኾነው በእውነቱ ነገር (በመጋደል ግዴታነት) ከተገለጸላቸው በኋላ ይከራከሩሃል፡፡",
+      "la": "inerisu iyayu wedemoti inideminedu honewi be’iwinetu negeri (bemegadeli gidetaneti) ketegelets’elachewi behwala yikerakeruhali፡፡"
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "ar": "وَإِذۡ یَعِدُكُمُ ٱللَّهُ إِحۡدَى ٱلطَّاۤئِفَتَیۡنِ أَنَّهَا لَكُمۡ وَتَوَدُّونَ أَنَّ غَیۡرَ ذَاتِ ٱلشَّوۡكَةِ تَكُونُ لَكُمۡ وَیُرِیدُ ٱللَّهُ أَن یُحِقَّ ٱلۡحَقَّ بِكَلِمَـٰتِهِۦ وَیَقۡطَعَ دَابِرَ ٱلۡكَـٰفِرِینَ",
+      "tr": "አላህም ከሁለቱ ጭፍሮች አንደኛዋን እርሷ ለናንተ ናት ሲል ተስፋ በሰጣችሁ ጊዜ፣ የሀይል ባለቤት ያልኾነችውም (ነጋዴይቱ) ለናንተ ልትኾን በወደዳችሁ ጊዜ፣ አላህም በተስፋ ቃላቱ እውነትን ማረጋገጡን ሊገልጽና የከሓዲዎችንም መጨረሻ ሊቆርጥ በሻ ጊዜ (የኾነውን አስታውስ)፡፡",
+      "la": "alahimi kehuletu ch’ifirochi anidenyawani iriswa lenanite nati sili tesifa beset’achihu gize፣ yehayili balebeti yalihonechiwimi (negadeyitu) lenanite litihoni bewededachihu gize፣ alahimi betesifa k’alatu iwinetini maregaget’uni ligelits’ina yekehadiwochinimi mech’eresha lik’orit’i besha gize (yehonewini asitawisi)፡፡"
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "ar": "لِیُحِقَّ ٱلۡحَقَّ وَیُبۡطِلَ ٱلۡبَـٰطِلَ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ",
+      "tr": "(ይህንንም ያደረገው) አጋሪዎቹ ቢጠሉም እውነቱን ሊያረጋግጥ ክህደትንም ሊያጠፋ ነው፡፡",
+      "la": "(yihininimi yaderegewi) agariwochu bit’elumi iwinetuni liyaregagit’i kihidetinimi liyat’efa newi፡፡"
+    }
+  ]
+}
