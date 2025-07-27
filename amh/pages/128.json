@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "chapter": 6,
+      "verse": 1,
+      "ar": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِی خَلَقَ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ وَجَعَلَ ٱلظُّلُمَـٰتِ وَٱلنُّورَۖ ثُمَّ ٱلَّذِینَ كَفَرُوا۟ بِرَبِّهِمۡ یَعۡدِلُونَ",
+      "tr": "ምስጋና ለዚያ ሰማያትንና ምድርን ለፈጠረው ጨለማዎችንና ብርሃንንም ላደረገው ለአላህ የተገባ ነው፡፡ ከዚያም እነዚያ የካዱት (ጣዖታትን በጌታቸው) ያስተካክላሉ፡፡",
+      "la": "misigana leziya semayatinina midirini lefet’erewi ch’elemawochinina birihaninimi laderegewi le’alahi yetegeba newi፡፡ keziyami ineziya yekaduti (t’a‘otatini begetachewi) yasitekakilalu፡፡"
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "ar": "هُوَ ٱلَّذِی خَلَقَكُم مِّن طِینࣲ ثُمَّ قَضَىٰۤ أَجَلࣰاۖ وَأَجَلࣱ مُّسَمًّى عِندَهُۥۖ ثُمَّ أَنتُمۡ تَمۡتَرُونَ",
+      "tr": "እርሱ ያ ከጭቃ የፈጠራችሁ ከዚያም (የሞት) ጊዜን የወሰነ ነው፡፡ እርሱም ዘንድ (ለትንሣኤ) የተወሰነ ጊዜ አልለ፡፡ ከዚያም እናንተ (በመቀስቀሳችሁ) ትጠራጠራላችሁ፡፡",
+      "la": "irisu ya kech’ik’a yefet’erachihu keziyami (yemoti) gizeni yewesene newi፡፡ irisumi zenidi (letinisa’e) yetewesene gize alile፡፡ keziyami inanite (bemek’esik’esachihu) tit’erat’eralachihu፡፡"
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "ar": "وَهُوَ ٱللَّهُ فِی ٱلسَّمَـٰوَ ٰتِ وَفِی ٱلۡأَرۡضِ یَعۡلَمُ سِرَّكُمۡ وَجَهۡرَكُمۡ وَیَعۡلَمُ مَا تَكۡسِبُونَ",
+      "tr": "እርሱም ያ በሰማያትና በምድር (ሊግገዙት የሚገባው) አላህ ነው፡፡ ምስጢራችሁን ግልጻችሁንም ያውቃል፡፡ የምትሠሩትንም ሁሉ ያውቃል፡፡",
+      "la": "irisumi ya besemayatina bemidiri (ligigezuti yemigebawi) alahi newi፡፡ misit’irachihuni gilits’achihunimi yawik’ali፡፡ yemitiserutinimi hulu yawik’ali፡፡"
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "ar": "وَمَا تَأۡتِیهِم مِّنۡ ءَایَةࣲ مِّنۡ ءَایَـٰتِ رَبِّهِمۡ إِلَّا كَانُوا۟ عَنۡهَا مُعۡرِضِینَ",
+      "tr": "ከጌታቸውም አንቀጾች አንዲትም አንቀጽ አትመጣቸውም ከርሷ የሚሸሹ ቢኾኑ እንጅ፡፡",
+      "la": "kegetachewimi anik’ets’ochi aniditimi anik’ets’i atimet’achewimi keriswa yemisheshu bihonu iniji፡፡"
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "ar": "فَقَدۡ كَذَّبُوا۟ بِٱلۡحَقِّ لَمَّا جَاۤءَهُمۡ فَسَوۡفَ یَأۡتِیهِمۡ أَنۢبَـٰۤؤُا۟ مَا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ",
+      "tr": "በእውነቱም (ቁርኣን) በመጣላቸው ጊዜ በእርግጥ አስተባበሉ፡፡ በእርሱም ይሳለቁበት የነበሩት ነገር ዜናዎች (ቅጣት) በእርግጥ ይመጣባቸዋል፡፡",
+      "la": "be’iwinetumi (k’uri’ani) bemet’alachewi gize be’irigit’i asitebabelu፡፡ be’irisumi yisalek’ubeti yeneberuti negeri zenawochi (k’it’ati) be’irigit’i yimet’abachewali፡፡"
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "ar": "أَلَمۡ یَرَوۡا۟ كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنࣲ مَّكَّنَّـٰهُمۡ فِی ٱلۡأَرۡضِ مَا لَمۡ نُمَكِّن لَّكُمۡ وَأَرۡسَلۡنَا ٱلسَّمَاۤءَ عَلَیۡهِم مِّدۡرَارࣰا وَجَعَلۡنَا ٱلۡأَنۡهَـٰرَ تَجۡرِی مِن تَحۡتِهِمۡ فَأَهۡلَكۡنَـٰهُم بِذُنُوبِهِمۡ وَأَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قَرۡنًا ءَاخَرِینَ",
+      "tr": "ከበፊታቸው ከክፍለ ዘመናት ሕዝቦች ብዙዎችን ማጥፋታችንን አላዩምን ለእናንተ ያላስመቸነውን (ለእነርሱ) በምድር ውስጥ አስመቸናቸው፡፡ በእነርሱም ላይ ዝናምን የተከታተለ ሲኾን ላክን፡፡ ወንዞችንም በሥራቸው እንዲፈሱ አደረግን፡፡ በኃጢአቶቻቸውም አጠፋናቸው፡፡ ከኋላቸውም ሌሎችን የክፍለ ዘመን ሰዎች አስገኘን፡፡",
+      "la": "kebefitachewi kekifile zemenati hizibochi bizuwochini mat’ifatachinini alayumini le’inanite yalasimechenewini (le’inerisu) bemidiri wisit’i asimechenachewi፡፡ be’inerisumi layi zinamini yeteketatele sihoni lakini፡፡ wenizochinimi besirachewi inidifesu aderegini፡፡ behat’i’atochachewimi at’efanachewi፡፡ kehwalachewimi lelochini yekifile zemeni sewochi asigenyeni፡፡"
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "ar": "وَلَوۡ نَزَّلۡنَا عَلَیۡكَ كِتَـٰبࣰا فِی قِرۡطَاسࣲ فَلَمَسُوهُ بِأَیۡدِیهِمۡ لَقَالَ ٱلَّذِینَ كَفَرُوۤا۟ إِنۡ هَـٰذَاۤ إِلَّا سِحۡرࣱ مُّبِینࣱ",
+      "tr": "ባንተም ላይ በወረቀት የተጻፈን መጽሐፍ ባወረድንና በእጆቻቸው በነኩት ኖሮ እነዚያ የካዱት ሰዎች «ይህ ግልጽ ድግምት እንጅ ሌላ አይደለም» ባሉ ነበር፡፡",
+      "la": "banitemi layi bewerek’eti yetets’afeni mets’ihafi baweredinina be’ijochachewi benekuti noro ineziya yekaduti sewochi «yihi gilits’i digimiti iniji lela ayidelemi» balu neberi፡፡"
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "ar": "وَقَالُوا۟ لَوۡلَاۤ أُنزِلَ عَلَیۡهِ مَلَكࣱۖ وَلَوۡ أَنزَلۡنَا مَلَكࣰا لَّقُضِیَ ٱلۡأَمۡرُ ثُمَّ لَا یُنظَرُونَ",
+      "tr": "«በእርሱም (በሙሐመድ) ላይ መልአክ አይወረድለትም ኖሮአልን» አሉ፡፡ መልአክን ባወረድንም ኖሮ (ባያምኑ በጥፋታቸው) ነገሩ በተፈረደ ነበር፡፡ ከዚያም አይቆዩም ነበር፡፡",
+      "la": "«be’irisumi (bemuhamedi) layi meli’aki ayiwerediletimi noro’alini» alu፡፡ meli’akini baweredinimi noro (bayaminu bet’ifatachewi) negeru beteferede neberi፡፡ keziyami ayik’oyumi neberi፡፡"
+    }
+  ]
+}
