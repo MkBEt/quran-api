@@ -1,0 +1,2503 @@
+{
+  "juzs": [
+    {
+      "chapter": 36,
+      "verse": 28,
+      "ar": "۞ وَمَاۤ أَنزَلۡنَا عَلَىٰ قَوۡمِهِۦ مِنۢ بَعۡدِهِۦ مِن جُندࣲ مِّنَ ٱلسَّمَاۤءِ وَمَا كُنَّا مُنزِلِینَ",
+      "tr": "ከእርሱም በኋላ በሕዝቦቹ ላይ (ልናጠፋቸው) ሰራዊትን ከሰማይ አላወረድንም፡፡ (በማንም ላይ) አወራጆችም አልነበርንም፡፡",
+      "la": "ke’irisumi behwala behizibochu layi (linat’efachewi) serawitini kesemayi alaweredinimi፡፡ (bemanimi layi) awerajochimi alineberinimi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 29,
+      "ar": "إِن كَانَتۡ إِلَّا صَیۡحَةࣰ وَ ٰحِدَةࣰ فَإِذَا هُمۡ خَـٰمِدُونَ",
+      "tr": "(ቅጣታቸው) አንዲት ጩኸት እንጂ ሌላ አልነበረችም፡፡ ወዲያውኑም እነርሱ ጠፊዎች ኾኑ፡፡",
+      "la": "(k’it’atachewi) aniditi ch’uheti iniji lela alineberechimi፡፡ wediyawinumi inerisu t’efiwochi honu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 30,
+      "ar": "یَـٰحَسۡرَةً عَلَى ٱلۡعِبَادِۚ مَا یَأۡتِیهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ",
+      "tr": "በባሮቹ ላይ ዋ ቁልጭት! ከመልክተኛ አንድም አይመጣቸውም በእርሱ የሚሳለቁበት ቢኾኑ እንጅ፡፡",
+      "la": "bebarochu layi wa k’ulich’iti! kemelikitenya anidimi ayimet’achewimi be’irisu yemisalek’ubeti bihonu iniji፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 31,
+      "ar": "أَلَمۡ یَرَوۡا۟ كَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّنَ ٱلۡقُرُونِ أَنَّهُمۡ إِلَیۡهِمۡ لَا یَرۡجِعُونَ",
+      "tr": "ከእነርሱ በፊት ከክፍለ ዘመናት ሕዝቦች ብዙዎችን ማጥፋታችንንና እነርሱ ወደነርሱ የማይመለሱ መኾናቸውን አላወቁምን",
+      "la": "ke’inerisu befiti kekifile zemenati hizibochi bizuwochini mat’ifatachininina inerisu wedenerisu yemayimelesu mehonachewini alawek’umini"
+    },
+    {
+      "chapter": 36,
+      "verse": 32,
+      "ar": "وَإِن كُلࣱّ لَّمَّا جَمِیعࣱ لَّدَیۡنَا مُحۡضَرُونَ",
+      "tr": "ሁሉም እኛ ዘንድ የሚሰበሰቡ የሚቀረቡ እንጂ ሌላ አይደሉም፡፡",
+      "la": "hulumi inya zenidi yemisebesebu yemik’erebu iniji lela ayidelumi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 33,
+      "ar": "وَءَایَةࣱ لَّهُمُ ٱلۡأَرۡضُ ٱلۡمَیۡتَةُ أَحۡیَیۡنَـٰهَا وَأَخۡرَجۡنَا مِنۡهَا حَبࣰّا فَمِنۡهُ یَأۡكُلُونَ",
+      "tr": "የሞተችውም ምድር ለእነርሱ ምልክት ናት! ሕያው አደረግናት፡፡ ከእርሷም ፍሬን አወጣን፤ ከርሱም ይበላሉ፡፡",
+      "la": "yemotechiwimi midiri le’inerisu milikiti nati! hiyawi adereginati፡፡ ke’iriswami fireni awet’ani፤ kerisumi yibelalu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 34,
+      "ar": "وَجَعَلۡنَا فِیهَا جَنَّـٰتࣲ مِّن نَّخِیلࣲ وَأَعۡنَـٰبࣲ وَفَجَّرۡنَا فِیهَا مِنَ ٱلۡعُیُونِ",
+      "tr": "በእርሷም ውሰጥ ከዘምበባዎችና ከወይኖች የኾኑ አትክልቶችን አደረግን፡፡ በእርሷም ውስጥ ምንጮችን አፈለቅን፡፡",
+      "la": "be’iriswami wiset’i kezemibebawochina keweyinochi yehonu atikilitochini aderegini፡፡ be’iriswami wisit’i minich’ochini afelek’ini፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 35,
+      "ar": "لِیَأۡكُلُوا۟ مِن ثَمَرِهِۦ وَمَا عَمِلَتۡهُ أَیۡدِیهِمۡۚ أَفَلَا یَشۡكُرُونَ",
+      "tr": "ከፍሬውና እጆቻቸው ከሠሩትም ይበሉ ዘንድ (ይህን አደረግን)፤ አያመሰግኑምን",
+      "la": "kefirewina ijochachewi keserutimi yibelu zenidi (yihini aderegini)፤ ayameseginumini"
+    },
+    {
+      "chapter": 36,
+      "verse": 36,
+      "ar": "سُبۡحَـٰنَ ٱلَّذِی خَلَقَ ٱلۡأَزۡوَ ٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلۡأَرۡضُ وَمِنۡ أَنفُسِهِمۡ وَمِمَّا لَا یَعۡلَمُونَ",
+      "tr": "ያ ምድር ከምታበቅለው ከነፍሶቻቸውም ከማያውቁትም ነገር ዓይነቶችን ሁሏንም የፈጠረ (አምላክ) ጥራት ይገባው፡፡",
+      "la": "ya midiri kemitabek’ilewi kenefisochachewimi kemayawik’utimi negeri ‘ayinetochini hulwanimi yefet’ere (amilaki) t’irati yigebawi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 37,
+      "ar": "وَءَایَةࣱ لَّهُمُ ٱلَّیۡلُ نَسۡلَخُ مِنۡهُ ٱلنَّهَارَ فَإِذَا هُم مُّظۡلِمُونَ",
+      "tr": "ሌሊቱም ለእነርሱ ምልክት ነው፡፡ ከእርሱ ላይ ቀንን እንገፍፋለን፡፡ ወዲያውኑም እነርሱ በጨለማ ውስጥ ይገባሉ፡፡",
+      "la": "lelitumi le’inerisu milikiti newi፡፡ ke’irisu layi k’enini inigefifaleni፡፡ wediyawinumi inerisu bech’elema wisit’i yigebalu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 38,
+      "ar": "وَٱلشَّمۡسُ تَجۡرِی لِمُسۡتَقَرࣲّ لَّهَاۚ ذَ ٰلِكَ تَقۡدِیرُ ٱلۡعَزِیزِ ٱلۡعَلِیمِ",
+      "tr": "ፀሐይም ለእርሷ ወደ ሆነው መርጊያ ትሮጣለች፡፡ ይህ የአሸናፊው የዐዋቂው አምላክ ውሳኔ ነው፡፡",
+      "la": "ts’ehayimi le’iriswa wede honewi merigiya tirot’alechi፡፡ yihi ye’ashenafiwi ye‘awak’iwi amilaki wisane newi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 39,
+      "ar": "وَٱلۡقَمَرَ قَدَّرۡنَـٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِیمِ",
+      "tr": "ጨረቃንም የመስፈሪያዎች ባለቤት ሲኾን እንደ ዘንባባ አሮጌ ቀንዘል እስኪኾን ድረስ (መኼዱን) ለካነው፡፡",
+      "la": "ch’erek’animi yemesiferiyawochi balebeti sihoni inide zenibaba aroge k’enizeli isikihoni diresi (meheduni) lekanewi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 40,
+      "ar": "لَا ٱلشَّمۡسُ یَنۢبَغِی لَهَاۤ أَن تُدۡرِكَ ٱلۡقَمَرَ وَلَا ٱلَّیۡلُ سَابِقُ ٱلنَّهَارِۚ وَكُلࣱّ فِی فَلَكࣲ یَسۡبَحُونَ",
+      "tr": "ፀሐይ ጨረቃን ልትደርስበት አይገባትም፡፡ ሌሊትም ቀንን (ያለ ጊዜው) ቀዳሚ አይኾንም፡፡ ሁሉም በመዞሪያቸው ውስጥ ይዋኛሉ፡፡",
+      "la": "ts’ehayi ch’erek’ani litiderisibeti ayigebatimi፡፡ lelitimi k’enini (yale gizewi) k’edami ayihonimi፡፡ hulumi bemezoriyachewi wisit’i yiwanyalu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 41,
+      "ar": "وَءَایَةࣱ لَّهُمۡ أَنَّا حَمَلۡنَا ذُرِّیَّتَهُمۡ فِی ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
+      "tr": "እኛም (የቀድሞ) ትውልዳቸውን በተሞላች መርከብ ውስጥ የጫን መኾናችን ለእነርሱ ምልክት ነው፡፡",
+      "la": "inyami (yek’edimo) tiwilidachewini betemolachi merikebi wisit’i yech’ani mehonachini le’inerisu milikiti newi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 42,
+      "ar": "وَخَلَقۡنَا لَهُم مِّن مِّثۡلِهِۦ مَا یَرۡكَبُونَ",
+      "tr": "ከመሰሉም በእርሱ የሚሳፈሩበትን ለእነርሱ ፈጠርንላቸው፡፡",
+      "la": "kemeselumi be’irisu yemisaferubetini le’inerisu fet’erinilachewi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 43,
+      "ar": "وَإِن نَّشَأۡ نُغۡرِقۡهُمۡ فَلَا صَرِیخَ لَهُمۡ وَلَا هُمۡ یُنقَذُونَ",
+      "tr": "ብንሻም እናሰጥማቸዋለን፡፡ ለእነርሱም ረዳት የላቸውም፡፡ እነርሱም የሚድዳኑ አይደሉም፡፡",
+      "la": "binishami inaset’imachewaleni፡፡ le’inerisumi redati yelachewimi፡፡ inerisumi yemididanu ayidelumi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 44,
+      "ar": "إِلَّا رَحۡمَةࣰ مِّنَّا وَمَتَـٰعًا إِلَىٰ حِینࣲ",
+      "tr": "ግን ከእኛ ለኾነው ችሮታና እስከ ጊዜ ሞታቸው ለማጣቀም (አዳንናቸው)፡፡",
+      "la": "gini ke’inya lehonewi chirotana isike gize motachewi lemat’ak’emi (adaninachewi)፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 45,
+      "ar": "وَإِذَا قِیلَ لَهُمُ ٱتَّقُوا۟ مَا بَیۡنَ أَیۡدِیكُمۡ وَمَا خَلۡفَكُمۡ لَعَلَّكُمۡ تُرۡحَمُونَ",
+      "tr": "ለእነርሱም «በስተፊታችሁና በኋለችሁ ያለውን ነገር ተጠንቀቁ ይታዘንላችኋልና» በተባሉ ጊዜ (ፊታቸውን ያዞራሉ)፡፡",
+      "la": "le’inerisumi «besitefitachihuna behwalechihu yalewini negeri tet’enik’ek’u yitazenilachihwalina» betebalu gize (fitachewini yazoralu)፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 46,
+      "ar": "وَمَا تَأۡتِیهِم مِّنۡ ءَایَةࣲ مِّنۡ ءَایَـٰتِ رَبِّهِمۡ إِلَّا كَانُوا۟ عَنۡهَا مُعۡرِضِینَ",
+      "tr": "ከጌታቸውም ተዓምራት ማንኛይቱም ተዓምር አትመጣላቸውም፤ ከእርሷ የሚሸሹ ቢኾኑ እንጅ፡፡",
+      "la": "kegetachewimi te‘amirati maninyayitumi te‘amiri atimet’alachewimi፤ ke’iriswa yemisheshu bihonu iniji፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 47,
+      "ar": "وَإِذَا قِیلَ لَهُمۡ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِینَ كَفَرُوا۟ لِلَّذِینَ ءَامَنُوۤا۟ أَنُطۡعِمُ مَن لَّوۡ یَشَاۤءُ ٱللَّهُ أَطۡعَمَهُۥۤ إِنۡ أَنتُمۡ إِلَّا فِی ضَلَـٰلࣲ مُّبِینࣲ",
+      "tr": "ለእነርሱም «አላህ ከሰጣችሁ ሲሳይ ለግሱ» በተባሉ ጊዜ እነዚያ የካዱት ለእነዚያ ላመኑት «አላህ ቢሻ ኖሮ የሚያበላውን ሰው እናበላለን? እናንተ በግልጽ ስህተት ውስጥ እንጂ በሌላ ላይ አይደላችሁም» ይላሉ፡፡",
+      "la": "le’inerisumi «alahi keset’achihu sisayi legisu» betebalu gize ineziya yekaduti le’ineziya lamenuti «alahi bisha noro yemiyabelawini sewi inabelaleni? inanite begilits’i sihiteti wisit’i iniji belela layi ayidelachihumi» yilalu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 48,
+      "ar": "وَیَقُولُونَ مَتَىٰ هَـٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَـٰدِقِینَ",
+      "tr": "«እውነተኞችም እንደኾናችሁ ይህ ቀጠሮ መቼ ነው?» ይላሉ፡፡",
+      "la": "«iwinetenyochimi inidehonachihu yihi k’et’ero meche newi?» yilalu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 49,
+      "ar": "مَا یَنظُرُونَ إِلَّا صَیۡحَةࣰ وَ ٰحِدَةࣰ تَأۡخُذُهُمۡ وَهُمۡ یَخِصِّمُونَ",
+      "tr": "እነርሱ የሚከራከሩ ሲኾኑ በድንገት የምትይዛቸው የኾነችን አንዲትን ጩኸት እንጂ ሌላን አይጠባበቁም፡፡",
+      "la": "inerisu yemikerakeru sihonu bedinigeti yemitiyizachewi yehonechini aniditini ch’uheti iniji lelani ayit’ebabek’umi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 50,
+      "ar": "فَلَا یَسۡتَطِیعُونَ تَوۡصِیَةࣰ وَلَاۤ إِلَىٰۤ أَهۡلِهِمۡ یَرۡجِعُونَ",
+      "tr": "(ያን ጊዜ) መናዘዝንም አይችሉም፡፡ ወደ ቤተሰቦቻቸወም አይመለሱም፡፡",
+      "la": "(yani gize) menazezinimi ayichilumi፡፡ wede betesebochachewemi ayimelesumi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 51,
+      "ar": "وَنُفِخَ فِی ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلۡأَجۡدَاثِ إِلَىٰ رَبِّهِمۡ یَنسِلُونَ",
+      "tr": "በቀንዱም ይነፋል፡፡ ወዲያውኑም እነርሱ ከመቃብሮቻቸው ወደ ጌታቸው በፍጥነት ይገሰግሳሉ፡፡",
+      "la": "bek’enidumi yinefali፡፡ wediyawinumi inerisu kemek’abirochachewi wede getachewi befit’ineti yigesegisalu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 52,
+      "ar": "قَالُوا۟ یَـٰوَیۡلَنَا مَنۢ بَعَثَنَا مِن مَّرۡقَدِنَاۜۗ هَـٰذَا مَا وَعَدَ ٱلرَّحۡمَـٰنُ وَصَدَقَ ٱلۡمُرۡسَلُونَ",
+      "tr": "«ወይ ጥፋታችን! ከመኝታችን ማን ቀሰቀሰን? ይህ ያ አዛኙ ጌታ (በእርሱ) የቀጠረን መልክተኞቹም እውነትን የነገሩን ነው» ይላሉ፡፡",
+      "la": "«weyi t’ifatachini! kemenyitachini mani k’esek’eseni? yihi ya azanyu geta (be’irisu) yek’et’ereni melikitenyochumi iwinetini yenegeruni newi» yilalu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 53,
+      "ar": "إِن كَانَتۡ إِلَّا صَیۡحَةࣰ وَ ٰحِدَةࣰ فَإِذَا هُمۡ جَمِیعࣱ لَّدَیۡنَا مُحۡضَرُونَ",
+      "tr": "(እርሷ) አንዲት ጩኸት እንጂ አይደለችም፡፡ ወዲያውኑም እነርሱ እኛ ዘንድ የሚሰበሰቡ የሚቀርቡ ናቸው፡፡",
+      "la": "(iriswa) aniditi ch’uheti iniji ayidelechimi፡፡ wediyawinumi inerisu inya zenidi yemisebesebu yemik’eribu nachewi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 54,
+      "ar": "فَٱلۡیَوۡمَ لَا تُظۡلَمُ نَفۡسࣱ شَیۡءࣰا وَلَا تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ",
+      "tr": "«ዛሬም ማንኛይቱም ነፍስ ምንም አትበደልም፡፡ ትሠሩትም የነበራችሁትን እንጂ ሌላን አትመነዱም» (ይባላሉ)፡፡",
+      "la": "«zaremi maninyayitumi nefisi minimi atibedelimi፡፡ tiserutimi yeneberachihutini iniji lelani atimenedumi» (yibalalu)፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 55,
+      "ar": "إِنَّ أَصۡحَـٰبَ ٱلۡجَنَّةِ ٱلۡیَوۡمَ فِی شُغُلࣲ فَـٰكِهُونَ",
+      "tr": "የገነት ሰዎች ዛሬ በእርግጥ በሥራዎች ውስጥ ተደሳቾች ናቸው፡፡",
+      "la": "yegeneti sewochi zare be’irigit’i besirawochi wisit’i tedesachochi nachewi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 56,
+      "ar": "هُمۡ وَأَزۡوَ ٰجُهُمۡ فِی ظِلَـٰلٍ عَلَى ٱلۡأَرَاۤئِكِ مُتَّكِءُونَ",
+      "tr": "እነርሱም ሚስቶቻቸውም በጥላዎች ውስጥ ናቸው፡፡ ባለ አጎበር አልጋዎች ላይ ተደጋፊዎች ናቸው፡፡",
+      "la": "inerisumi misitochachewimi bet’ilawochi wisit’i nachewi፡፡ bale agoberi aligawochi layi tedegafiwochi nachewi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 57,
+      "ar": "لَهُمۡ فِیهَا فَـٰكِهَةࣱ وَلَهُم مَّا یَدَّعُونَ",
+      "tr": "በውስጧ ለእነርሱ ፍራፍሬዎች አሏቸው፡፡ ለእነርሱም የሚፈልጉት ሁሉ አልላቸው፡፡",
+      "la": "bewisit’wa le’inerisu firafirewochi alwachewi፡፡ le’inerisumi yemifeliguti hulu alilachewi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 58,
+      "ar": "سَلَـٰمࣱ قَوۡلࣰا مِّن رَّبࣲّ رَّحِیمࣲ",
+      "tr": "(ለእነርሱም) አዛኝ ከሆነው ጌታ በቃል ሰላምታ አላቸው።",
+      "la": "(le’inerisumi) azanyi kehonewi geta bek’ali selamita alachewi።"
+    },
+    {
+      "chapter": 36,
+      "verse": 59,
+      "ar": "وَٱمۡتَـٰزُوا۟ ٱلۡیَوۡمَ أَیُّهَا ٱلۡمُجۡرِمُونَ",
+      "tr": "(ይላልም) «እናንተ አመጸኞች ሆይ! ዛሬ (ከምእምናን) ተለዩ፡፡»",
+      "la": "(yilalimi) «inanite amets’enyochi hoyi! zare (kemi’iminani) teleyu፡፡»"
+    },
+    {
+      "chapter": 36,
+      "verse": 60,
+      "ar": "۞ أَلَمۡ أَعۡهَدۡ إِلَیۡكُمۡ یَـٰبَنِیۤ ءَادَمَ أَن لَّا تَعۡبُدُوا۟ ٱلشَّیۡطَـٰنَۖ إِنَّهُۥ لَكُمۡ عَدُوࣱّ مُّبِینࣱ",
+      "tr": "የአደም ልጆች ሆይ! ሰይጣንን አትገዙ፤ እርሱ ለእናንተ ግልጽ ጠላት ነውና በማለት ወደእናንተ አላዘዝኩምን",
+      "la": "ye’ademi lijochi hoyi! seyit’anini atigezu፤ irisu le’inanite gilits’i t’elati newina bemaleti wede’inanite alazezikumini"
+    },
+    {
+      "chapter": 36,
+      "verse": 61,
+      "ar": "وَأَنِ ٱعۡبُدُونِیۚ هَـٰذَا صِرَ ٰطࣱ مُّسۡتَقِیمࣱ",
+      "tr": "ተገዙኝም፤ ይህ ቀጥተኘ መንገድ ነው፤ (በማለትም)፡፡",
+      "la": "tegezunyimi፤ yihi k’et’itenye menigedi newi፤ (bemaletimi)፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 62,
+      "ar": "وَلَقَدۡ أَضَلَّ مِنكُمۡ جِبِلࣰّا كَثِیرًاۖ أَفَلَمۡ تَكُونُوا۟ تَعۡقِلُونَ",
+      "tr": "ከእናንተም ብዙን ፍጡር በእርግጥ አሳስቷል፡፡ የምታውቁም አልነበራችሁምን",
+      "la": "ke’inanitemi bizuni fit’uri be’irigit’i asasitwali፡፡ yemitawik’umi alineberachihumini"
+    },
+    {
+      "chapter": 36,
+      "verse": 63,
+      "ar": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِی كُنتُمۡ تُوعَدُونَ",
+      "tr": "ይህቺ ያቺ ትቀጠሩዋት የነበረችው ገሀነም ናት፡፡",
+      "la": "yihichi yachi tik’et’eruwati yeneberechiwi gehanemi nati፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 64,
+      "ar": "ٱصۡلَوۡهَا ٱلۡیَوۡمَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+      "tr": "ትክዱ በነበራችሁት ምክንያት ዛሬ ግቧት (ይባላሉ)፡፡",
+      "la": "tikidu beneberachihuti mikiniyati zare gibwati (yibalalu)፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 65,
+      "ar": "ٱلۡیَوۡمَ نَخۡتِمُ عَلَىٰۤ أَفۡوَ ٰهِهِمۡ وَتُكَلِّمُنَاۤ أَیۡدِیهِمۡ وَتَشۡهَدُ أَرۡجُلُهُم بِمَا كَانُوا۟ یَكۡسِبُونَ",
+      "tr": "ዛሬ በአፎቻቸው ላይ እናትምና እጆቻቸው ያነጋግሩናል፡፡ እግሮቻቸውም ይሠሩት በነበሩት ሁሉ ይመሰክራሉ፡፡",
+      "la": "zare be’afochachewi layi inatimina ijochachewi yanegagirunali፡፡ igirochachewimi yiseruti beneberuti hulu yimesekiralu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 66,
+      "ar": "وَلَوۡ نَشَاۤءُ لَطَمَسۡنَا عَلَىٰۤ أَعۡیُنِهِمۡ فَٱسۡتَبَقُوا۟ ٱلصِّرَ ٰطَ فَأَنَّىٰ یُبۡصِرُونَ",
+      "tr": "ብንሻም ኖሮ በዐይኖቻቸው ላይ በአበስን ነበር፡፡ መንገድንም (እንደ ልመዳቸው) በተሽቀዳደሙ ነበር፡፡ እንዴትም ያያሉ",
+      "la": "binishami noro be‘ayinochachewi layi be’abesini neberi፡፡ menigedinimi (inide limedachewi) beteshik’edademu neberi፡፡ inidetimi yayalu"
+    },
+    {
+      "chapter": 36,
+      "verse": 67,
+      "ar": "وَلَوۡ نَشَاۤءُ لَمَسَخۡنَـٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَـٰعُوا۟ مُضِیࣰّا وَلَا یَرۡجِعُونَ",
+      "tr": "ብንሻም ኖሮ በስፍራቸው ላይ እንዳሉ ወደ ሌላ ፍጥረት በለወጠናቸው ነበር፡፡ መኼድንም መመለስንም ባልቻሉም ነበር፡፡",
+      "la": "binishami noro besifirachewi layi inidalu wede lela fit’ireti belewet’enachewi neberi፡፡ mehedinimi memelesinimi balichalumi neberi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 68,
+      "ar": "وَمَن نُّعَمِّرۡهُ نُنَكِّسۡهُ فِی ٱلۡخَلۡقِۚ أَفَلَا یَعۡقِلُونَ",
+      "tr": "ዕድሜውንም የምናረዝመውን ሰው በፍጥረቱ (ወደ ደካማነት) እንመልሰዋለን፤ አያውቁምን",
+      "la": "‘idimewinimi yeminarezimewini sewi befit’iretu (wede dekamaneti) inimelisewaleni፤ ayawik’umini"
+    },
+    {
+      "chapter": 36,
+      "verse": 69,
+      "ar": "وَمَا عَلَّمۡنَـٰهُ ٱلشِّعۡرَ وَمَا یَنۢبَغِی لَهُۥۤۚ إِنۡ هُوَ إِلَّا ذِكۡرࣱ وَقُرۡءَانࣱ مُّبِینࣱ",
+      "tr": "(ሙሐመድን) ቅኔንም አላስተማርነውም፡፡ ለእርሱም አይግገባውም፡፡ እርሱ (መጽሐፉ) መገሰጫና ገላጭ ቁርኣን እንጅ (ቅኔ) አይደለም፡፡",
+      "la": "(muhamedini) k’inenimi alasitemarinewimi፡፡ le’irisumi ayigigebawimi፡፡ irisu (mets’ihafu) megesech’ana gelach’i k’uri’ani iniji (k’ine) ayidelemi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 70,
+      "ar": "لِّیُنذِرَ مَن كَانَ حَیࣰّا وَیَحِقَّ ٱلۡقَوۡلُ عَلَى ٱلۡكَـٰفِرِینَ",
+      "tr": "(ግሣጼነቱም ልቡ) ሕያው የኾነን ሰው ሊያስፈራራበትና ቃሉም በከሓዲዎች ላይ ይፈጸም ዘንድ ነው፡፡",
+      "la": "(gisats’enetumi libu) hiyawi yehoneni sewi liyasiferarabetina k’alumi bekehadiwochi layi yifets’emi zenidi newi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 71,
+      "ar": "أَوَ لَمۡ یَرَوۡا۟ أَنَّا خَلَقۡنَا لَهُم مِّمَّا عَمِلَتۡ أَیۡدِینَاۤ أَنۡعَـٰمࣰا فَهُمۡ لَهَا مَـٰلِكُونَ",
+      "tr": "እኛ እጆቻችን (ኃይሎቻችን) ከሠሩት ለእነርሱ እንስሳዎችን መፍጠራችንን አያውቁምን? እነርሱም ለእርሷ ባለ መብቶች ናቸው፡፡",
+      "la": "inya ijochachini (hayilochachini) keseruti le’inerisu inisisawochini mefit’erachinini ayawik’umini? inerisumi le’iriswa bale mebitochi nachewi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 72,
+      "ar": "وَذَلَّلۡنَـٰهَا لَهُمۡ فَمِنۡهَا رَكُوبُهُمۡ وَمِنۡهَا یَأۡكُلُونَ",
+      "tr": "ለእነርሱም ገራናት፡፡ ስለዚህ ከእርሷ ውስጥ የሚጋልቡት አልለ፡፡ ከእርሷም ይበላሉ፡፡",
+      "la": "le’inerisumi geranati፡፡ silezihi ke’iriswa wisit’i yemigalibuti alile፡፡ ke’iriswami yibelalu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 73,
+      "ar": "وَلَهُمۡ فِیهَا مَنَـٰفِعُ وَمَشَارِبُۚ أَفَلَا یَشۡكُرُونَ",
+      "tr": "ለእነርሱም በእርሷ ውስጥ (ሌሎች) ጥቅሞች መጠጦችም አሉዋቸው፡፡ ታዲያ አያመሰግኑምን",
+      "la": "le’inerisumi be’iriswa wisit’i (lelochi) t’ik’imochi met’et’ochimi aluwachewi፡፡ tadiya ayameseginumini"
+    },
+    {
+      "chapter": 36,
+      "verse": 74,
+      "ar": "وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةࣰ لَّعَلَّهُمۡ یُنصَرُونَ",
+      "tr": "መረዳትንም በመከጀል ከአላህ ሌላ አማልክትን ያዙ፡፡",
+      "la": "meredatinimi bemekejeli ke’alahi lela amalikitini yazu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 75,
+      "ar": "لَا یَسۡتَطِیعُونَ نَصۡرَهُمۡ وَهُمۡ لَهُمۡ جُندࣱ مُّحۡضَرُونَ",
+      "tr": "መርዳታቸውን አይችሉም፡፡ እነርሱም ለእርሳቸው (ወደ እሳት) የተቀረቡ ሰራዊት ናቸው፡፡",
+      "la": "meridatachewini ayichilumi፡፡ inerisumi le’irisachewi (wede isati) yetek’erebu serawiti nachewi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 76,
+      "ar": "فَلَا یَحۡزُنكَ قَوۡلُهُمۡۘ إِنَّا نَعۡلَمُ مَا یُسِرُّونَ وَمَا یُعۡلِنُونَ",
+      "tr": "ንግግራቸውም አያሳዝንህ፡፡ እኛ የሚደብቁትንም የሚገልጹትንም እናውቃለንና፡፡",
+      "la": "nigigirachewimi ayasazinihi፡፡ inya yemidebik’utinimi yemigelits’utinimi inawik’alenina፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 77,
+      "ar": "أَوَ لَمۡ یَرَ ٱلۡإِنسَـٰنُ أَنَّا خَلَقۡنَـٰهُ مِن نُّطۡفَةࣲ فَإِذَا هُوَ خَصِیمࣱ مُّبِینࣱ",
+      "tr": "ሰውየው እኛ ከፍቶት ጠብታ የፈጠርነው መኾናችን አላወቀምን? ወዲያውም እርሱ (ትንሣኤን በመካድ) ግልጽ ተከራካሪ ይኾናልን",
+      "la": "sewiyewi inya kefitoti t’ebita yefet’erinewi mehonachini alawek’emini? wediyawimi irisu (tinisa’eni bemekadi) gilits’i tekerakari yihonalini"
+    },
+    {
+      "chapter": 36,
+      "verse": 78,
+      "ar": "وَضَرَبَ لَنَا مَثَلࣰا وَنَسِیَ خَلۡقَهُۥۖ قَالَ مَن یُحۡیِ ٱلۡعِظَـٰمَ وَهِیَ رَمِیمࣱ",
+      "tr": "ለእኛም ምሳሌን አደረገልን፡፡ መፈጠሩንም ረሳ፡፡ «አጥንቶችን እነርሱ የበሰበሱ ሲኾኑ ሕያው የሚያደርጋቸው ማነው?» አለ፡፡",
+      "la": "le’inyami misaleni aderegelini፡፡ mefet’erunimi resa፡፡ «at’initochini inerisu yebesebesu sihonu hiyawi yemiyaderigachewi manewi?» ale፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 79,
+      "ar": "قُلۡ یُحۡیِیهَا ٱلَّذِیۤ أَنشَأَهَاۤ أَوَّلَ مَرَّةࣲۖ وَهُوَ بِكُلِّ خَلۡقٍ عَلِیمٌ",
+      "tr": "«ያ በመጀመሪያ ጊዜ (ከኢምንት) ያስገኛት ሕያው ያደርጋታል፡፡ እርሱም በፍጡሩ ሁሉ (ኹኔታ) ዐዋቂ ነው» በለው፡፡",
+      "la": "«ya bemejemeriya gize (ke’iminiti) yasigenyati hiyawi yaderigatali፡፡ irisumi befit’uru hulu (huneta) ‘awak’i newi» belewi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 80,
+      "ar": "ٱلَّذِی جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلۡأَخۡضَرِ نَارࣰا فَإِذَاۤ أَنتُم مِّنۡهُ تُوقِدُونَ",
+      "tr": "ያ ለእናንተ በእርጥብ ዛፍ እሳትን ያደረገላችሁ ነው፡፡ ወዲያውኑም እናንተ ከእርሱ ታቀጣጥላላችሁ፡፡",
+      "la": "ya le’inanite be’irit’ibi zafi isatini yaderegelachihu newi፡፡ wediyawinumi inanite ke’irisu tak’et’at’ilalachihu፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 81,
+      "ar": "أَوَ لَیۡسَ ٱلَّذِی خَلَقَ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ بِقَـٰدِرٍ عَلَىٰۤ أَن یَخۡلُقَ مِثۡلَهُمۚ بَلَىٰ وَهُوَ ٱلۡخَلَّـٰقُ ٱلۡعَلِیمُ",
+      "tr": "ያ ሰማያትንና ምድርን የፈጠረ ብጤያቸውን በመፍጠር ላይ ቻይ አይደለምን? ነው እንጅ፡፡ እርሱም በብዙ ፈጣሪው ዐዋቂው ነው፡፡",
+      "la": "ya semayatinina midirini yefet’ere bit’eyachewini bemefit’eri layi chayi ayidelemini? newi iniji፡፡ irisumi bebizu fet’ariwi ‘awak’iwi newi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 82,
+      "ar": "إِنَّمَاۤ أَمۡرُهُۥۤ إِذَاۤ أَرَادَ شَیۡءًا أَن یَقُولَ لَهُۥ كُن فَیَكُونُ",
+      "tr": "ነገሩም አንዳችን በሻ ጊዜ ኹን ማለት ነው፡፡ ወዲያው ይኾናልም፡፡",
+      "la": "negerumi anidachini besha gize huni maleti newi፡፡ wediyawi yihonalimi፡፡"
+    },
+    {
+      "chapter": 36,
+      "verse": 83,
+      "ar": "فَسُبۡحَـٰنَ ٱلَّذِی بِیَدِهِۦ مَلَكُوتُ كُلِّ شَیۡءࣲ وَإِلَیۡهِ تُرۡجَعُونَ",
+      "tr": "ያ የነገሩ ሁሉ ስልጣን በእጁ የኾነው ጌታ ጥራት ይገባው፡፡ ወደእርሱም ትመለሳላችሁ፡፡",
+      "la": "ya yenegeru hulu silit’ani be’iju yehonewi geta t’irati yigebawi፡፡ wede’irisumi timelesalachihu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 1,
+      "ar": "وَٱلصَّـٰۤفَّـٰتِ صَفࣰّا",
+      "tr": "መሰለፍን በሚሰለፉት፡፡",
+      "la": "meselefini bemiselefuti፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 2,
+      "ar": "فَٱلزَّ ٰجِرَ ٰتِ زَجۡرࣰا",
+      "tr": "መገሠጽንም በሚገሥጹት፤",
+      "la": "megesets’inimi bemigesits’uti፤"
+    },
+    {
+      "chapter": 37,
+      "verse": 3,
+      "ar": "فَٱلتَّـٰلِیَـٰتِ ذِكۡرًا",
+      "tr": "ቁርኣንንም በሚያነቡት እምላለሁ፡፡",
+      "la": "k’uri’aninimi bemiyanebuti imilalehu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 4,
+      "ar": "إِنَّ إِلَـٰهَكُمۡ لَوَ ٰحِدࣱ",
+      "tr": "አምላካችሁ በእርግጥ አንድ ነው፡፡",
+      "la": "amilakachihu be’irigit’i anidi newi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 5,
+      "ar": "رَّبُّ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَا وَرَبُّ ٱلۡمَشَـٰرِقِ",
+      "tr": "የሰማያትና የምድር በመካከላቸው ያለውም ፍጡር ሁሉ ጌታ ነው፡፡ የምሥራቆችም ጌታ ነው፡፡",
+      "la": "yesemayatina yemidiri bemekakelachewi yalewimi fit’uri hulu geta newi፡፡ yemisirak’ochimi geta newi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 6,
+      "ar": "إِنَّا زَیَّنَّا ٱلسَّمَاۤءَ ٱلدُّنۡیَا بِزِینَةٍ ٱلۡكَوَاكِبِ",
+      "tr": "እኛ ቅርቢቱን ሰማይ በከዋክብት ጌጥ አጌጥናት፡፡",
+      "la": "inya k’iribituni semayi bekewakibiti get’i aget’inati፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 7,
+      "ar": "وَحِفۡظࣰا مِّن كُلِّ شَیۡطَـٰنࣲ مَّارِدࣲ",
+      "tr": "አመጸኛም ከሆነ ሰይጣን ሁሉ መጠበቅን ጠበቅናት፡፡",
+      "la": "amets’enyami kehone seyit’ani hulu met’ebek’ini t’ebek’inati፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 8,
+      "ar": "لَّا یَسَّمَّعُونَ إِلَى ٱلۡمَلَإِ ٱلۡأَعۡلَىٰ وَیُقۡذَفُونَ مِن كُلِّ جَانِبࣲ",
+      "tr": "ወደላይኛው ሰራዊት አያዳምጡም፡፡ ከየወገኑም ሁሉ ችቦ ይጣልባቸዋል፡፡",
+      "la": "wedelayinyawi serawiti ayadamit’umi፡፡ keyewegenumi hulu chibo yit’alibachewali፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 9,
+      "ar": "دُحُورࣰاۖ وَلَهُمۡ عَذَابࣱ وَاصِبٌ",
+      "tr": "የሚባረሩ ሲሆኑ (ይጣልባቸዋል)፡፡ ለእነሱም ዘውታሪ ቅጣት አላቸው፡፡",
+      "la": "yemibareru sihonu (yit’alibachewali)፡፡ le’inesumi zewitari k’it’ati alachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 10,
+      "ar": "إِلَّا مَنۡ خَطِفَ ٱلۡخَطۡفَةَ فَأَتۡبَعَهُۥ شِهَابࣱ ثَاقِبࣱ",
+      "tr": "ንጥቂያን የነጠቀ ወዲያውም አብሪ ኮከብ የተከተለው ሲቀር፤ (እርሱ ይሰማዋል)፡፡",
+      "la": "nit’ik’iyani yenet’ek’e wediyawimi abiri kokebi yeteketelewi sik’eri፤ (irisu yisemawali)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 11,
+      "ar": "فَٱسۡتَفۡتِهِمۡ أَهُمۡ أَشَدُّ خَلۡقًا أَم مَّنۡ خَلَقۡنَاۤۚ إِنَّا خَلَقۡنَـٰهُم مِّن طِینࣲ لَّازِبِۭ",
+      "tr": "ጠይቃቸውም፤ እነርሱ በአፈጣጠር ይበልጥ የበረቱ ናቸውን? ወይስ እኛ (ከእነርሱ በፊት) የፈጠርነው? (ፍጡር) እኛ ከሚጣበቅ ጭቃ ፈጠርናቸው፡፡",
+      "la": "t’eyik’achewimi፤ inerisu be’afet’at’eri yibelit’i yeberetu nachewini? weyisi inya (ke’inerisu befiti) yefet’erinewi? (fit’uri) inya kemit’abek’i ch’ik’a fet’erinachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 12,
+      "ar": "بَلۡ عَجِبۡتَ وَیَسۡخَرُونَ",
+      "tr": "ይልቁንም (በማስተባበላቸው) ተደነቅህ፤(ከመደነቅህ) ይሳለቃሉም፡፡",
+      "la": "yilik’unimi (bemasitebabelachewi) tedenek’ihi፤(kemedenek’ihi) yisalek’alumi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 13,
+      "ar": "وَإِذَا ذُكِّرُوا۟ لَا یَذۡكُرُونَ",
+      "tr": "በተገሠጹም ጊዜ አይመለሱም፡፡",
+      "la": "betegesets’umi gize ayimelesumi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 14,
+      "ar": "وَإِذَا رَأَوۡا۟ ءَایَةࣰ یَسۡتَسۡخِرُونَ",
+      "tr": "ተዓምርን ባዩም ጊዜ ለመሳለቅ ይጠራራሉ፡፡",
+      "la": "te‘amirini bayumi gize lemesalek’i yit’eraralu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 15,
+      "ar": "وَقَالُوۤا۟ إِنۡ هَـٰذَاۤ إِلَّا سِحۡرࣱ مُّبِینٌ",
+      "tr": "ይላሉም «ይህ ግልጽ ድግምት እንጂ ሌላ አይደለም፡፡",
+      "la": "yilalumi «yihi gilits’i digimiti iniji lela ayidelemi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 16,
+      "ar": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابࣰا وَعِظَـٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "tr": "«በሞትንና ዐፈርና አጥንቶችም በኾን ጊዜ እኛ የምንቀሰቀስ ነን",
+      "la": "«bemotinina ‘aferina at’initochimi behoni gize inya yeminik’esek’esi neni"
+    },
+    {
+      "chapter": 37,
+      "verse": 17,
+      "ar": "أَوَ ءَابَاۤؤُنَا ٱلۡأَوَّلُونَ",
+      "tr": "«የቀድሞዎቹ አባቶችንም? (ይላሉ)፡፡",
+      "la": "«yek’edimowochu abatochinimi? (yilalu)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 18,
+      "ar": "قُلۡ نَعَمۡ وَأَنتُمۡ دَ ٰخِرُونَ",
+      "tr": "«አዎን እናንተ ወራዶች ሆናችሁ (ትነሳላችሁ)» በላቸው፡፡",
+      "la": "«awoni inanite weradochi honachihu (tinesalachihu)» belachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 19,
+      "ar": "فَإِنَّمَا هِیَ زَجۡرَةࣱ وَ ٰحِدَةࣱ فَإِذَا هُمۡ یَنظُرُونَ",
+      "tr": "እርሷም አንዲት ጩኸት ብቻ ናት፡፡ እነርሱም ወዲያውኑ (ምን እንደሚፈጸምባቸው) ያያሉ፡፡",
+      "la": "iriswami aniditi ch’uheti bicha nati፡፡ inerisumi wediyawinu (mini inidemifets’emibachewi) yayalu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 20,
+      "ar": "وَقَالُوا۟ یَـٰوَیۡلَنَا هَـٰذَا یَوۡمُ ٱلدِّینِ",
+      "tr": "«ዋ ጥፋታችን! ይህ የፍርዱ ቀን ነው» ይላሉም፡፡",
+      "la": "«wa t’ifatachini! yihi yefiridu k’eni newi» yilalumi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 21,
+      "ar": "هَـٰذَا یَوۡمُ ٱلۡفَصۡلِ ٱلَّذِی كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "tr": "«ይህ ያ በእርሱ ታስተባብሉ የነበራችሁት መለያው ቀን ነው» (ይባላሉ)፡፡",
+      "la": "«yihi ya be’irisu tasitebabilu yeneberachihuti meleyawi k’eni newi» (yibalalu)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 22,
+      "ar": "۞ ٱحۡشُرُوا۟ ٱلَّذِینَ ظَلَمُوا۟ وَأَزۡوَ ٰجَهُمۡ وَمَا كَانُوا۟ یَعۡبُدُونَ",
+      "tr": "(ለመላእክቶችም) «እነዚያን ነፍሶቻቸውን የበደሉትን ሰዎች ጓደኞቻቸውንም ይግገዟቸው የነበሩትንም (ጣዖታት) ሰብስቡ፡፡",
+      "la": "(lemela’ikitochimi) «ineziyani nefisochachewini yebedelutini sewochi gwadenyochachewinimi yigigezwachewi yeneberutinimi (t’a‘otati) sebisibu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 23,
+      "ar": "مِن دُونِ ٱللَّهِ فَٱهۡدُوهُمۡ إِلَىٰ صِرَ ٰطِ ٱلۡجَحِیمِ",
+      "tr": "«ከአላህ ሌላ (የሚገዙዋቸውን ሰብስቧቸው) ወደ እሳት መንገድም ምሩዋቸው፡፡",
+      "la": "«ke’alahi lela (yemigezuwachewini sebisibwachewi) wede isati menigedimi miruwachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 24,
+      "ar": "وَقِفُوهُمۡۖ إِنَّهُم مَّسۡءُولُونَ",
+      "tr": "«አቁሟቸውም፡፡ እነርሱ ተጠያቂዎች ናቸውና» (ይባላል)፡፡",
+      "la": "«ak’umwachewimi፡፡ inerisu tet’eyak’iwochi nachewina» (yibalali)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 25,
+      "ar": "مَا لَكُمۡ لَا تَنَاصَرُونَ",
+      "tr": "(ለእነርሱም) «የማትረዳዱት ለእናንተ ምን አላችሁ? (ይባላሉ)፡፡",
+      "la": "(le’inerisumi) «yematiredaduti le’inanite mini alachihu? (yibalalu)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 26,
+      "ar": "بَلۡ هُمُ ٱلۡیَوۡمَ مُسۡتَسۡلِمُونَ",
+      "tr": "በእርግጥ እነርሱ ዛሬ እጃቸውን የሰጡ ወራዳዎች ናቸው፡፡",
+      "la": "be’irigit’i inerisu zare ijachewini yeset’u weradawochi nachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 27,
+      "ar": "وَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضࣲ یَتَسَاۤءَلُونَ",
+      "tr": "የሚወቃቀሱም ሆነው ከፊላቸው በከፊሉ ላይ ይመጣሉ፡፡",
+      "la": "yemiwek’ak’esumi honewi kefilachewi bekefilu layi yimet’alu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 28,
+      "ar": "قَالُوۤا۟ إِنَّكُمۡ كُنتُمۡ تَأۡتُونَنَا عَنِ ٱلۡیَمِینِ",
+      "tr": "(ለአስከታዮቹ) እናንተ ከስተቀኝ ትመጡብን ነበር ይላሉ፡፡",
+      "la": "(le’asiketayochu) inanite kesitek’enyi timet’ubini neberi yilalu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 29,
+      "ar": "قَالُوا۟ بَل لَّمۡ تَكُونُوا۟ مُؤۡمِنِینَ",
+      "tr": "(አስከታዮቹም) ይላሉ «አይደለም ፈጽሞ ምእምናን አልነበራችሁም፡፡",
+      "la": "(asiketayochumi) yilalu «ayidelemi fets’imo mi’iminani alineberachihumi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 30,
+      "ar": "وَمَا كَانَ لَنَا عَلَیۡكُم مِّن سُلۡطَـٰنِۭۖ بَلۡ كُنتُمۡ قَوۡمࣰا طَـٰغِینَ",
+      "tr": "«ለእኛም በእናንተ ላይ ምንም ስልጣን አልነበረንም፡፡ በእርግጥ እናንተ ጠማሞች ሕዝቦች ነበራችሁ፡፡",
+      "la": "«le’inyami be’inanite layi minimi silit’ani alineberenimi፡፡ be’irigit’i inanite t’emamochi hizibochi neberachihu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 31,
+      "ar": "فَحَقَّ عَلَیۡنَا قَوۡلُ رَبِّنَاۤۖ إِنَّا لَذَاۤئِقُونَ",
+      "tr": "«በእኛም ላይ የጌታችን ቃል ተረጋገጠብን፤ እኛ (ሁላችንም ቅጣቱን) ቀማሾች ነን፡፡",
+      "la": "«be’inyami layi yegetachini k’ali teregaget’ebini፤ inya (hulachinimi k’it’atuni) k’emashochi neni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 32,
+      "ar": "فَأَغۡوَیۡنَـٰكُمۡ إِنَّا كُنَّا غَـٰوِینَ",
+      "tr": "«ወደ ጥምመት ጠራናችሁም፡፡ እኛ ጠማሞች ነበርንና» (ይላሉ)፡፡",
+      "la": "«wede t’imimeti t’eranachihumi፡፡ inya t’emamochi neberinina» (yilalu)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 33,
+      "ar": "فَإِنَّهُمۡ یَوۡمَئِذࣲ فِی ٱلۡعَذَابِ مُشۡتَرِكُونَ",
+      "tr": "ስለዚህ እነርሱ በዚያ ቀን በቅጣቱ ነጋሪዎች ናቸው፡፡",
+      "la": "silezihi inerisu beziya k’eni bek’it’atu negariwochi nachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 34,
+      "ar": "إِنَّا كَذَ ٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِینَ",
+      "tr": "እኛ በአመጸኞች ሁሉ እንደዚሁ እንሠራለን፡፡",
+      "la": "inya be’amets’enyochi hulu inidezihu iniseraleni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 35,
+      "ar": "إِنَّهُمۡ كَانُوۤا۟ إِذَا قِیلَ لَهُمۡ لَاۤ إِلَـٰهَ إِلَّا ٱللَّهُ یَسۡتَكۡبِرُونَ",
+      "tr": "እነርሱ ከአላህ ሌላ አምላክ የለም በተባሉ ጊዜ ይኮሩ ነበሩ፡፡",
+      "la": "inerisu ke’alahi lela amilaki yelemi betebalu gize yikoru neberu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 36,
+      "ar": "وَیَقُولُونَ أَئِنَّا لَتَارِكُوۤا۟ ءَالِهَتِنَا لِشَاعِرࣲ مَّجۡنُونِۭ",
+      "tr": "እኛ ለዕብድ ባለቅኔ ብለን አማልክቶቻችንን የምንተው ነን? ይሉም ነበር፡፡",
+      "la": "inya le‘ibidi balek’ine bileni amalikitochachinini yeminitewi neni? yilumi neberi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 37,
+      "ar": "بَلۡ جَاۤءَ بِٱلۡحَقِّ وَصَدَّقَ ٱلۡمُرۡسَلِینَ",
+      "tr": "አይደለም እውነቱን (ሃይማኖት) አመጣ፡፡ መልክተኞቹንም እውነተኛነታቸውን አረጋገጠ፡፡",
+      "la": "ayidelemi iwinetuni (hayimanoti) amet’a፡፡ melikitenyochunimi iwinetenyanetachewini aregaget’e፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 38,
+      "ar": "إِنَّكُمۡ لَذَاۤئِقُوا۟ ٱلۡعَذَابِ ٱلۡأَلِیمِ",
+      "tr": "እናንተ አሳማሚውን ቅጣት በእርግጥ ቀማሾች ናችሁ፡፡",
+      "la": "inanite asamamiwini k’it’ati be’irigit’i k’emashochi nachihu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 39,
+      "ar": "وَمَا تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ",
+      "tr": "ትሠሩትም የነበራችሁትን እንጂ ሌላን አትመነዱም፡፡",
+      "la": "tiserutimi yeneberachihutini iniji lelani atimenedumi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 40,
+      "ar": "إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِینَ",
+      "tr": "ግን ምርጥ የሆኑት የአላህ ባሮች (ቅጣትን አይቀምሱም)፡፡",
+      "la": "gini mirit’i yehonuti ye’alahi barochi (k’it’atini ayik’emisumi)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 41,
+      "ar": "أُو۟لَـٰۤئِكَ لَهُمۡ رِزۡقࣱ مَّعۡلُومࣱ",
+      "tr": "እነዚያ ለእነርሱ የታወቀ ሲሳይ አላቸው፡፡",
+      "la": "ineziya le’inerisu yetawek’e sisayi alachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 42,
+      "ar": "فَوَ ٰكِهُ وَهُم مُّكۡرَمُونَ",
+      "tr": "ፍራፍሬዎች (አሏቸው) እነርሱም የተከበሩ ናቸው፤",
+      "la": "firafirewochi (alwachewi) inerisumi yetekeberu nachewi፤"
+    },
+    {
+      "chapter": 37,
+      "verse": 43,
+      "ar": "فِی جَنَّـٰتِ ٱلنَّعِیمِ",
+      "tr": "በድሎት ገነቶች ውስጥ፡፡",
+      "la": "bediloti genetochi wisit’i፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 44,
+      "ar": "عَلَىٰ سُرُرࣲ مُّتَقَـٰبِلِینَ",
+      "tr": "ፊት ለፊት የሚታያዩ ሲሆኑ በአልጋዎች ላይ (ይንፈላሰሳሉ)፡፡",
+      "la": "fiti lefiti yemitayayu sihonu be’aligawochi layi (yinifelasesalu)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 45,
+      "ar": "یُطَافُ عَلَیۡهِم بِكَأۡسࣲ مِّن مَّعِینِۭ",
+      "tr": "ከሚመነጭ ወይን ጠጅ በያዘ ብርጭቆ በእነርሱ ላይ ይዞርባቸዋል፡፡",
+      "la": "kemimenech’i weyini t’eji beyaze birich’ik’o be’inerisu layi yizoribachewali፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 46,
+      "ar": "بَیۡضَاۤءَ لَذَّةࣲ لِّلشَّـٰرِبِینَ",
+      "tr": "ነጭ ለጠጪዎች ጣፋጭ ከኾነች፡፡",
+      "la": "nech’i let’ech’iwochi t’afach’i kehonechi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 47,
+      "ar": "لَا فِیهَا غَوۡلࣱ وَلَا هُمۡ عَنۡهَا یُنزَفُونَ",
+      "tr": "በእርሷ ውስጥም ምታት የለባትም፡፡ እነርሱም ከእርሷ የሚሰክሩ አይደሉም፡፡",
+      "la": "be’iriswa wisit’imi mitati yelebatimi፡፡ inerisumi ke’iriswa yemisekiru ayidelumi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 48,
+      "ar": "وَعِندَهُمۡ قَـٰصِرَ ٰتُ ٱلطَّرۡفِ عِینࣱ",
+      "tr": "እነርሱም ዘንድ ዓይናቸውን (በባሎቻቸው ላይ) አሳጣሪዎች የኾኑ ዓይናማዎች አልሉ፡፡",
+      "la": "inerisumi zenidi ‘ayinachewini (bebalochachewi layi) asat’ariwochi yehonu ‘ayinamawochi alilu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 49,
+      "ar": "كَأَنَّهُنَّ بَیۡضࣱ مَّكۡنُونࣱ",
+      "tr": "እነርሱ ልክ የተሸፈነ (የሰጎን) ዕንቁላል ይመስላሉ፡፡",
+      "la": "inerisu liki yeteshefene (yesegoni) ‘inik’ulali yimesilalu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 50,
+      "ar": "فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضࣲ یَتَسَاۤءَلُونَ",
+      "tr": "የሚጠያየቁም ሆነው ከፊላቸው ወደ ከፊሉ ይመጣሉ፡፡",
+      "la": "yemit’eyayek’umi honewi kefilachewi wede kefilu yimet’alu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 51,
+      "ar": "قَالَ قَاۤئِلࣱ مِّنۡهُمۡ إِنِّی كَانَ لِی قَرِینࣱ",
+      "tr": "ከእነርሱ የሆነ ተናጋሪ ይላል «እኔ ጓደኛ ነበረኝ፡፡",
+      "la": "ke’inerisu yehone tenagari yilali «ine gwadenya neberenyi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 52,
+      "ar": "یَقُولُ أَءِنَّكَ لَمِنَ ٱلۡمُصَدِّقِینَ",
+      "tr": "«በእርግጥ አንተ ከሚያምኑት ነህን? የሚል፡፡",
+      "la": "«be’irigit’i anite kemiyaminuti nehini? yemili፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 53,
+      "ar": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابࣰا وَعِظَـٰمًا أَءِنَّا لَمَدِینُونَ",
+      "tr": "«በሞትንና ዐፈር አጥንቶችም በሆን ጊዜ እኛ በእርግጥ እንመረመራለን?» (የሚል)፡፡",
+      "la": "«bemotinina ‘aferi at’initochimi behoni gize inya be’irigit’i inimeremeraleni?» (yemili)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 54,
+      "ar": "قَالَ هَلۡ أَنتُم مُّطَّلِعُونَ",
+      "tr": "እናንተ ተመልካቾች ናችሁን? ይላል፡፡",
+      "la": "inanite temelikachochi nachihuni? yilali፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 55,
+      "ar": "فَٱطَّلَعَ فَرَءَاهُ فِی سَوَاۤءِ ٱلۡجَحِیمِ",
+      "tr": "ይመለከታልም፤ በገሀነም መካከልም (ጓደኛውን) ያየዋል፡፡",
+      "la": "yimeleketalimi፤ begehanemi mekakelimi (gwadenyawini) yayewali፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 56,
+      "ar": "قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرۡدِینِ",
+      "tr": "ይላል «በአላህ እምላለሁ፤ በእርግጥ ልታጠፋኝ ቀርበህ ነበር፡፡",
+      "la": "yilali «be’alahi imilalehu፤ be’irigit’i litat’efanyi k’eribehi neberi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 57,
+      "ar": "وَلَوۡلَا نِعۡمَةُ رَبِّی لَكُنتُ مِنَ ٱلۡمُحۡضَرِینَ",
+      "tr": "«የጌታየም ጸጋ ባልነበረ ኖሮ ወደ እሳት ከሚቀርቡት እሆን ነበር፡፡»",
+      "la": "«yegetayemi ts’ega balinebere noro wede isati kemik’eributi ihoni neberi፡፡»"
+    },
+    {
+      "chapter": 37,
+      "verse": 58,
+      "ar": "أَفَمَا نَحۡنُ بِمَیِّتِینَ",
+      "tr": "(የገነት ሰዎች ይላሉ) «እኛ የምንሞት አይደለንምን",
+      "la": "(yegeneti sewochi yilalu) «inya yeminimoti ayidelenimini"
+    },
+    {
+      "chapter": 37,
+      "verse": 59,
+      "ar": "إِلَّا مَوۡتَتَنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُعَذَّبِینَ",
+      "tr": "«የመጀመሪያይቱ መሞታችን ብቻ ስትቀር፡፡ እኛም የምንቅቀጣ አይደለንምን?» (ይላሉ)፡፡",
+      "la": "«yemejemeriyayitu memotachini bicha sitik’eri፡፡ inyami yeminik’ik’et’a ayidelenimini?» (yilalu)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 60,
+      "ar": "إِنَّ هَـٰذَا لَهُوَ ٱلۡفَوۡزُ ٱلۡعَظِیمُ",
+      "tr": "ይህ (ለገነት ሰዎች የተወሳው) እርሱ በእርግጥ ታላቅ ዕድል ነው፡፡",
+      "la": "yihi (legeneti sewochi yetewesawi) irisu be’irigit’i talak’i ‘idili newi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 61,
+      "ar": "لِمِثۡلِ هَـٰذَا فَلۡیَعۡمَلِ ٱلۡعَـٰمِلُونَ",
+      "tr": "ለዚህ ብጤ ሠሪዎች ይሥሩ፡፡",
+      "la": "lezihi bit’e seriwochi yisiru፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 62,
+      "ar": "أَذَ ٰلِكَ خَیۡرࣱ نُّزُلًا أَمۡ شَجَرَةُ ٱلزَّقُّومِ",
+      "tr": "በመስተንግዶነት ይህ ይበልጣልን? ወይስ የዘቁም ዛፍ",
+      "la": "bemesitenigidoneti yihi yibelit’alini? weyisi yezek’umi zafi"
+    },
+    {
+      "chapter": 37,
+      "verse": 63,
+      "ar": "إِنَّا جَعَلۡنَـٰهَا فِتۡنَةࣰ لِّلظَّـٰلِمِینَ",
+      "tr": "እኛ ለበዳዮች ፈተና አድርገናታል፡፡",
+      "la": "inya lebedayochi fetena adirigenatali፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 64,
+      "ar": "إِنَّهَا شَجَرَةࣱ تَخۡرُجُ فِیۤ أَصۡلِ ٱلۡجَحِیمِ",
+      "tr": "እርሷ በገሀነም አዘቅት ውስጥ የምትወጣ ዛፍ ናት፡፡",
+      "la": "iriswa begehanemi azek’iti wisit’i yemitiwet’a zafi nati፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 65,
+      "ar": "طَلۡعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّیَـٰطِینِ",
+      "tr": "እንቡጧ ልክ የሰይጣናት ራሶች ይመስላል፡፡",
+      "la": "inibut’wa liki yeseyit’anati rasochi yimesilali፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 66,
+      "ar": "فَإِنَّهُمۡ لَءَاكِلُونَ مِنۡهَا فَمَالِءُونَ مِنۡهَا ٱلۡبُطُونَ",
+      "tr": "እነርሱም ከእርሷ በይዎች ናቸው፤ ሆዶችንም ከእርሷ ሞይዎች ናቸው፡፡",
+      "la": "inerisumi ke’iriswa beyiwochi nachewi፤ hodochinimi ke’iriswa moyiwochi nachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 67,
+      "ar": "ثُمَّ إِنَّ لَهُمۡ عَلَیۡهَا لَشَوۡبࣰا مِّنۡ حَمِیمࣲ",
+      "tr": "ከዚያም ለእነርሱ በእርሷ ላይ ከተኳሳ ውሃ ቅልቅል (መጠጥ) አልላቸው፡፡",
+      "la": "keziyami le’inerisu be’iriswa layi ketekwasa wiha k’ilik’ili (met’et’i) alilachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 68,
+      "ar": "ثُمَّ إِنَّ مَرۡجِعَهُمۡ لَإِلَى ٱلۡجَحِیمِ",
+      "tr": "ከዚያም መመለሻቸው ወደ ተጋጋመች እሳት ነው፡፡",
+      "la": "keziyami memeleshachewi wede tegagamechi isati newi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 69,
+      "ar": "إِنَّهُمۡ أَلۡفَوۡا۟ ءَابَاۤءَهُمۡ ضَاۤلِّینَ",
+      "tr": "እነሱ አባቶቻቸውን የተሳሳቱ ሆነው አግኝተዋልና፡፡",
+      "la": "inesu abatochachewini yetesasatu honewi aginyitewalina፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 70,
+      "ar": "فَهُمۡ عَلَىٰۤ ءَاثَـٰرِهِمۡ یُهۡرَعُونَ",
+      "tr": "እነሱም በፈለጎቻቸው ላይ ይገሰግሳሉና፡፡",
+      "la": "inesumi befelegochachewi layi yigesegisaluna፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 71,
+      "ar": "وَلَقَدۡ ضَلَّ قَبۡلَهُمۡ أَكۡثَرُ ٱلۡأَوَّلِینَ",
+      "tr": "ከእነርሱ በፊትም የቀድሞዎቹ (ሕዝቦች) አብዛኞቻቸው በእርግጥ ተሳስተዋል፡፡",
+      "la": "ke’inerisu befitimi yek’edimowochu (hizibochi) abizanyochachewi be’irigit’i tesasitewali፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 72,
+      "ar": "وَلَقَدۡ أَرۡسَلۡنَا فِیهِم مُّنذِرِینَ",
+      "tr": "በውስጣቸውም አስፈራሪዎችን በእርግጥ ልከናል፡፡",
+      "la": "bewisit’achewimi asiferariwochini be’irigit’i likenali፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 73,
+      "ar": "فَٱنظُرۡ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلۡمُنذَرِینَ",
+      "tr": "የተስፈራሪዎቹም መጨረሻ እንዴት እንደነበረ ተመልከት፡፡",
+      "la": "yetesiferariwochumi mech’eresha inideti inidenebere temeliketi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 74,
+      "ar": "إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِینَ",
+      "tr": "ምርጥ የሆኑት የአላህ ባሮች ብቻ ሲቀሩ፡፡",
+      "la": "mirit’i yehonuti ye’alahi barochi bicha sik’eru፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 75,
+      "ar": "وَلَقَدۡ نَادَىٰنَا نُوحࣱ فَلَنِعۡمَ ٱلۡمُجِیبُونَ",
+      "tr": "ኑሕም በእርግጥ ጠራን፡፡ ጥሪውን ተቀባዮቹም ምንኛ አማርን",
+      "la": "nuhimi be’irigit’i t’erani፡፡ t’iriwini tek’ebayochumi mininya amarini"
+    },
+    {
+      "chapter": 37,
+      "verse": 76,
+      "ar": "وَنَجَّیۡنَـٰهُ وَأَهۡلَهُۥ مِنَ ٱلۡكَرۡبِ ٱلۡعَظِیمِ",
+      "tr": "እርሱንም ቤተሰቦቹንም ከከባድ ጭንቅ አዳንን፡፡",
+      "la": "irisunimi betesebochunimi kekebadi ch’inik’i adanini፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 77,
+      "ar": "وَجَعَلۡنَا ذُرِّیَّتَهُۥ هُمُ ٱلۡبَاقِینَ",
+      "tr": "ዘሮቹንም እነርሱን ብቻ ቀሪዎች አደረግን፤",
+      "la": "zerochunimi inerisuni bicha k’eriwochi aderegini፤"
+    },
+    {
+      "chapter": 37,
+      "verse": 78,
+      "ar": "وَتَرَكۡنَا عَلَیۡهِ فِی ٱلۡءَاخِرِینَ",
+      "tr": "በርሱም ላይ በኋለኞቹ ሕዝቦች ውስጥ (መልካም ዝናን) ተውን፡፡",
+      "la": "berisumi layi behwalenyochu hizibochi wisit’i (melikami zinani) tewini፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 79,
+      "ar": "سَلَـٰمٌ عَلَىٰ نُوحࣲ فِی ٱلۡعَـٰلَمِینَ",
+      "tr": "«በዓለማት ውስጥ ሰላም በኑሕ ላይ ይኹን፡፡»",
+      "la": "«be‘alemati wisit’i selami benuhi layi yihuni፡፡»"
+    },
+    {
+      "chapter": 37,
+      "verse": 80,
+      "ar": "إِنَّا كَذَ ٰلِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ",
+      "tr": "እኛ እንደዚሁ መልካም ሠሪዎችን እንመነዳለን፡፡",
+      "la": "inya inidezihu melikami seriwochini inimenedaleni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 81,
+      "ar": "إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِینَ",
+      "tr": "እርሱ ከምእምናን ባሮቻችን ነውና፡፡",
+      "la": "irisu kemi’iminani barochachini newina፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 82,
+      "ar": "ثُمَّ أَغۡرَقۡنَا ٱلۡءَاخَرِینَ",
+      "tr": "ከዚያም ሌሎቹን አሰጠምን፡፡",
+      "la": "keziyami lelochuni aset’emini፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 83,
+      "ar": "۞ وَإِنَّ مِن شِیعَتِهِۦ لَإِبۡرَ ٰهِیمَ",
+      "tr": "ኢብራሂምም በእርግጥ ከተከታዮቹ ነው፡፡",
+      "la": "ibirahimimi be’irigit’i keteketayochu newi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 84,
+      "ar": "إِذۡ جَاۤءَ رَبَّهُۥ بِقَلۡبࣲ سَلِیمٍ",
+      "tr": "ወደ ጌታው በቅን ልብ በመጣ ጊዜ (የኾነውን አስታውስ)፡፡፡",
+      "la": "wede getawi bek’ini libi bemet’a gize (yehonewini asitawisi)፡፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 85,
+      "ar": "إِذۡ قَالَ لِأَبِیهِ وَقَوۡمِهِۦ مَاذَا تَعۡبُدُونَ",
+      "tr": "«ለአባቱና ለሕዝቦቹ ምንን ትግገዛላችሁ?» ባለ ጊዜ፡፡",
+      "la": "«le’abatuna lehizibochu minini tigigezalachihu?» bale gize፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 86,
+      "ar": "أَئِفۡكًا ءَالِهَةࣰ دُونَ ٱللَّهِ تُرِیدُونَ",
+      "tr": "«ለቅጥፈት ብላችሁ ከአላህ ሌላ አማልክትን ትሻላችሁን",
+      "la": "«lek’it’ifeti bilachihu ke’alahi lela amalikitini tishalachihuni"
+    },
+    {
+      "chapter": 37,
+      "verse": 87,
+      "ar": "فَمَا ظَنُّكُم بِرَبِّ ٱلۡعَـٰلَمِینَ",
+      "tr": "«በዓለማትም ጌታ ሃሳባችሁ ምንድን ነው?» አለ፡፡",
+      "la": "«be‘alematimi geta hasabachihu minidini newi?» ale፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 88,
+      "ar": "فَنَظَرَ نَظۡرَةࣰ فِی ٱلنُّجُومِ",
+      "tr": "በከዋክብትም መመልከትን ተመለከተ፡፡",
+      "la": "bekewakibitimi memeliketini temelekete፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 89,
+      "ar": "فَقَالَ إِنِّی سَقِیمࣱ",
+      "tr": "«እኔ በሽተኛ ነኝም» አለ፡፡",
+      "la": "«ine beshitenya nenyimi» ale፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 90,
+      "ar": "فَتَوَلَّوۡا۟ عَنۡهُ مُدۡبِرِینَ",
+      "tr": "ከእርሱም የሸሹ ሆነው ኼዱ፡፡",
+      "la": "ke’irisumi yesheshu honewi hedu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 91,
+      "ar": "فَرَاغَ إِلَىٰۤ ءَالِهَتِهِمۡ فَقَالَ أَلَا تَأۡكُلُونَ",
+      "tr": "ወደ አማልክቶቻቸውም ተዘነበለ፡፡ አለም፡- «አትበሉምን?»",
+      "la": "wede amalikitochachewimi tezenebele፡፡ alemi፡- «atibelumini?»"
+    },
+    {
+      "chapter": 37,
+      "verse": 92,
+      "ar": "مَا لَكُمۡ لَا تَنطِقُونَ",
+      "tr": "«የማትናገሩት ለናንተ ምን አላችሁ?»",
+      "la": "«yematinageruti lenanite mini alachihu?»"
+    },
+    {
+      "chapter": 37,
+      "verse": 93,
+      "ar": "فَرَاغَ عَلَیۡهِمۡ ضَرۡبَۢا بِٱلۡیَمِینِ",
+      "tr": "በኀይል የሚመታቸውም ሆኖ በእነርሱ ላይ በድብቅ ተዘነበለ፡፡",
+      "la": "behayili yemimetachewimi hono be’inerisu layi bedibik’i tezenebele፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 94,
+      "ar": "فَأَقۡبَلُوۤا۟ إِلَیۡهِ یَزِفُّونَ",
+      "tr": "ወደእርሱም (ሰዎቹ) እየሮጡ መጡ፡፡",
+      "la": "wede’irisumi (sewochu) iyerot’u met’u፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 95,
+      "ar": "قَالَ أَتَعۡبُدُونَ مَا تَنۡحِتُونَ",
+      "tr": "አላቸው «የምትጠርቡትን ትግገዛላችሁን?»",
+      "la": "alachewi «yemitit’eributini tigigezalachihuni?»"
+    },
+    {
+      "chapter": 37,
+      "verse": 96,
+      "ar": "وَٱللَّهُ خَلَقَكُمۡ وَمَا تَعۡمَلُونَ",
+      "tr": "«አላህ እናንተንም የምትሠሩትንም የፈጠረ ሲኾን፡፡»",
+      "la": "«alahi inanitenimi yemitiserutinimi yefet’ere sihoni፡፡»"
+    },
+    {
+      "chapter": 37,
+      "verse": 97,
+      "ar": "قَالُوا۟ ٱبۡنُوا۟ لَهُۥ بُنۡیَـٰنࣰا فَأَلۡقُوهُ فِی ٱلۡجَحِیمِ",
+      "tr": "«ለእርሱም ግንብን ገንቡ በእሳት ነበልባል ውስጥ ጣሉትም» አሉ፡፡",
+      "la": "«le’irisumi ginibini genibu be’isati nebelibali wisit’i t’alutimi» alu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 98,
+      "ar": "فَأَرَادُوا۟ بِهِۦ كَیۡدࣰا فَجَعَلۡنَـٰهُمُ ٱلۡأَسۡفَلِینَ",
+      "tr": "በእርሱም ተንኮልን አሰቡ፡፡ ዝቅተኞችም አደረግናቸው፡፡",
+      "la": "be’irisumi tenikolini asebu፡፡ zik’itenyochimi adereginachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 99,
+      "ar": "وَقَالَ إِنِّی ذَاهِبٌ إِلَىٰ رَبِّی سَیَهۡدِینِ",
+      "tr": "አለም «እኔ ወደ ጌታዬ ኼያጅ ነኝ፡፡ በእርግጥ ይመራኛልና፡፡»",
+      "la": "alemi «ine wede getaye heyaji nenyi፡፡ be’irigit’i yimeranyalina፡፡»"
+    },
+    {
+      "chapter": 37,
+      "verse": 100,
+      "ar": "رَبِّ هَبۡ لِی مِنَ ٱلصَّـٰلِحِینَ",
+      "tr": "ጌታዬ ሆይ! ከመልካሞቹ የሆነን (ልጅ) ስጠኝ፡፡",
+      "la": "getaye hoyi! kemelikamochu yehoneni (liji) sit’enyi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 101,
+      "ar": "فَبَشَّرۡنَـٰهُ بِغُلَـٰمٍ حَلِیمࣲ",
+      "tr": "ታጋሽ በሆነ ወጣት ልጅም አበሰርነው፡፡",
+      "la": "tagashi behone wet’ati lijimi abeserinewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 102,
+      "ar": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعۡیَ قَالَ یَـٰبُنَیَّ إِنِّیۤ أَرَىٰ فِی ٱلۡمَنَامِ أَنِّیۤ أَذۡبَحُكَ فَٱنظُرۡ مَاذَا تَرَىٰۚ قَالَ یَـٰۤأَبَتِ ٱفۡعَلۡ مَا تُؤۡمَرُۖ سَتَجِدُنِیۤ إِن شَاۤءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِینَ",
+      "tr": "ከእርሱ ጋርም ለሥራ በደረሰ ጊዜ «ልጄ ሆይ! እኔ በሕልሜ እኔ የማርድህ ሆኜ አያለሁ፡፡ ተመልከትም፤ ምን ታያለህ?» አለው፡፡ «አባቴ ሆይ! የታዘዝከውን ሥራ፡፡ አላህ ቢሻ ከታጋሾቹ ሆኜ ታገኘኛለህ» አለ፡፡",
+      "la": "ke’irisu garimi lesira bederese gize «lije hoyi! ine behilime ine yemaridihi honye ayalehu፡፡ temeliketimi፤ mini tayalehi?» alewi፡፡ «abate hoyi! yetazezikewini sira፡፡ alahi bisha ketagashochu honye tagenyenyalehi» ale፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 103,
+      "ar": "فَلَمَّاۤ أَسۡلَمَا وَتَلَّهُۥ لِلۡجَبِینِ",
+      "tr": "ሁለቱም ትዕዛዙን በተቀበሉና በግንባሩም ጎን ላይ በጣለው ጊዜ (የሆነው ሆነ)፡፡",
+      "la": "huletumi ti‘izazuni betek’ebeluna beginibarumi goni layi bet’alewi gize (yehonewi hone)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 104,
+      "ar": "وَنَـٰدَیۡنَـٰهُ أَن یَـٰۤإِبۡرَ ٰهِیمُ",
+      "tr": "ጠራነውም፤ (አልነው) «ኢብራሂም ሆይ",
+      "la": "t’eranewimi፤ (alinewi) «ibirahimi hoyi"
+    },
+    {
+      "chapter": 37,
+      "verse": 105,
+      "ar": "قَدۡ صَدَّقۡتَ ٱلرُّءۡیَاۤۚ إِنَّا كَذَ ٰلِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ",
+      "tr": "ራእይቱን በእውነት አረጋገጥክ፡፡» እኛ እንደዚሁ መልካም ሠሪዎችን እንመነዳለን፡፡",
+      "la": "ra’iyituni be’iwineti aregaget’iki፡፡» inya inidezihu melikami seriwochini inimenedaleni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 106,
+      "ar": "إِنَّ هَـٰذَا لَهُوَ ٱلۡبَلَـٰۤؤُا۟ ٱلۡمُبِینُ",
+      "tr": "ይህ እርሱ በእውነት ግልጽ ፈተና ነው፡፡",
+      "la": "yihi irisu be’iwineti gilits’i fetena newi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 107,
+      "ar": "وَفَدَیۡنَـٰهُ بِذِبۡحٍ عَظِیمࣲ",
+      "tr": "በታላቅ ዕርድም (መስዋዕት) ተቤዠነው፡፡",
+      "la": "betalak’i ‘iridimi (mesiwa‘iti) tebezhenewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 108,
+      "ar": "وَتَرَكۡنَا عَلَیۡهِ فِی ٱلۡءَاخِرِینَ",
+      "tr": "በእርሱም ላይ በኋለኞቹ ሕዝቦች ውስጥ መልካም ዝናን አስቀረንለት፡፡",
+      "la": "be’irisumi layi behwalenyochu hizibochi wisit’i melikami zinani asik’erenileti፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 109,
+      "ar": "سَلَـٰمٌ عَلَىٰۤ إِبۡرَ ٰهِیمَ",
+      "tr": "ሰላም በኢብራሂም ላይ ይሁን፡፡",
+      "la": "selami be’ibirahimi layi yihuni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 110,
+      "ar": "كَذَ ٰلِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ",
+      "tr": "እንደዚሁ መልካም ሠሪዎችን ሁሉ እንመነዳለን፡፡",
+      "la": "inidezihu melikami seriwochini hulu inimenedaleni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 111,
+      "ar": "إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِینَ",
+      "tr": "እርሱ በእርግጥ ካመኑት ባሮቻችን ነው፡፡",
+      "la": "irisu be’irigit’i kamenuti barochachini newi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 112,
+      "ar": "وَبَشَّرۡنَـٰهُ بِإِسۡحَـٰقَ نَبِیࣰّا مِّنَ ٱلصَّـٰلِحِینَ",
+      "tr": "በኢስሐቅም አበሰርነው፡፡ ከመልካሞቹ የሆነ ነቢይ ሲሆን፡፡",
+      "la": "be’isihak’imi abeserinewi፡፡ kemelikamochu yehone nebiyi sihoni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 113,
+      "ar": "وَبَـٰرَكۡنَا عَلَیۡهِ وَعَلَىٰۤ إِسۡحَـٰقَۚ وَمِن ذُرِّیَّتِهِمَا مُحۡسِنࣱ وَظَالِمࣱ لِّنَفۡسِهِۦ مُبِینࣱ",
+      "tr": "በእርሱና በኢስሐቅ ላይም ባረክን፡፡ ከሁለቱም ዘሮች በጎ ሠሪ አልለ፡፡ ለነፍሱ ግልጽ በዳይም አለ፡፡",
+      "la": "be’irisuna be’isihak’i layimi barekini፡፡ kehuletumi zerochi bego seri alile፡፡ lenefisu gilits’i bedayimi ale፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 114,
+      "ar": "وَلَقَدۡ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
+      "tr": "በሙሳና በሃሩን ላይም በእርግጥ ለገስን፡፡",
+      "la": "bemusana beharuni layimi be’irigit’i legesini፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 115,
+      "ar": "وَنَجَّیۡنَـٰهُمَا وَقَوۡمَهُمَا مِنَ ٱلۡكَرۡبِ ٱلۡعَظِیمِ",
+      "tr": "እነርሱንም ሕዝቦቻቸውንም ከታላቅ ጭንቅ አዳንን፡፡",
+      "la": "inerisunimi hizibochachewinimi ketalak’i ch’inik’i adanini፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 116,
+      "ar": "وَنَصَرۡنَـٰهُمۡ فَكَانُوا۟ هُمُ ٱلۡغَـٰلِبِینَ",
+      "tr": "ረዳናቸውም፡፡ እነርሱም አሸናፊዎች ነበሩ፡፡",
+      "la": "redanachewimi፡፡ inerisumi ashenafiwochi neberu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 117,
+      "ar": "وَءَاتَیۡنَـٰهُمَا ٱلۡكِتَـٰبَ ٱلۡمُسۡتَبِینَ",
+      "tr": "በጣም የተብራራውንም መጽሐፍ ሰጠናቸው፡፡",
+      "la": "bet’ami yetebirarawinimi mets’ihafi set’enachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 118,
+      "ar": "وَهَدَیۡنَـٰهُمَا ٱلصِّرَ ٰطَ ٱلۡمُسۡتَقِیمَ",
+      "tr": "ቀጥተኛውንም መንገድ መራናቸው፡፡",
+      "la": "k’et’itenyawinimi menigedi meranachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 119,
+      "ar": "وَتَرَكۡنَا عَلَیۡهِمَا فِی ٱلۡءَاخِرِینَ",
+      "tr": "በሁለቱም ላይ በኋለኞቹ ሕዝቦች ውስጥ መልካም ዝናን ተውንላቸው፡፡",
+      "la": "behuletumi layi behwalenyochu hizibochi wisit’i melikami zinani tewinilachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 120,
+      "ar": "سَلَـٰمٌ عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
+      "tr": "ሰላም በሙሳና በሃሩን ላይ ይሁን፡፡",
+      "la": "selami bemusana beharuni layi yihuni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 121,
+      "ar": "إِنَّا كَذَ ٰلِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ",
+      "tr": "እኛ እንደዚሁ በጎ አድራጊዎችን ሁሉ እንመነዳለን፡፡",
+      "la": "inya inidezihu bego adiragiwochini hulu inimenedaleni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 122,
+      "ar": "إِنَّهُمَا مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِینَ",
+      "tr": "ሁለቱም በእርግጥ ከአመኑት ባሮቻችን ናቸው፡፡",
+      "la": "huletumi be’irigit’i ke’amenuti barochachini nachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 123,
+      "ar": "وَإِنَّ إِلۡیَاسَ لَمِنَ ٱلۡمُرۡسَلِینَ",
+      "tr": "ኢልያስም በእርግጥ ከመልክተኞቹ ነው፡፡",
+      "la": "iliyasimi be’irigit’i kemelikitenyochu newi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 124,
+      "ar": "إِذۡ قَالَ لِقَوۡمِهِۦۤ أَلَا تَتَّقُونَ",
+      "tr": "ለሕዝቦቹ ባለ ጊዜ (አስታውስ)፤ አላህን አትፈሩምን",
+      "la": "lehizibochu bale gize (asitawisi)፤ alahini atiferumini"
+    },
+    {
+      "chapter": 37,
+      "verse": 125,
+      "ar": "أَتَدۡعُونَ بَعۡلࣰا وَتَذَرُونَ أَحۡسَنَ ٱلۡخَـٰلِقِینَ",
+      "tr": "በዕልን ትገዛላችሁን? ከሰዓሊዎቹ ሁሉ ይበልጥ በጣም አሳማሪ የሆነውንም አምላክ ትተዋላችሁን",
+      "la": "be‘ilini tigezalachihuni? kese‘aliwochu hulu yibelit’i bet’ami asamari yehonewinimi amilaki titewalachihuni"
+    },
+    {
+      "chapter": 37,
+      "verse": 126,
+      "ar": "ٱللَّهَ رَبَّكُمۡ وَرَبَّ ءَابَاۤئِكُمُ ٱلۡأَوَّلِینَ",
+      "tr": "አላህን ጌታችሁንና የቀድሞዎቹ አባቶቻችሁን ጌታ (ትተዋላችሁን)",
+      "la": "alahini getachihunina yek’edimowochu abatochachihuni geta (titewalachihuni)"
+    },
+    {
+      "chapter": 37,
+      "verse": 127,
+      "ar": "فَكَذَّبُوهُ فَإِنَّهُمۡ لَمُحۡضَرُونَ",
+      "tr": "አስተባበሉትም፡፡ ስለዚህ እነርሱ (ለቅጣት) የሚጣዱ ናቸው፡፡",
+      "la": "asitebabelutimi፡፡ silezihi inerisu (lek’it’ati) yemit’adu nachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 128,
+      "ar": "إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِینَ",
+      "tr": "ንጹሕ የተደረጉት የአላህ ባሮች ብቻ ሲቀሩ፡፡",
+      "la": "nits’uhi yetedereguti ye’alahi barochi bicha sik’eru፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 129,
+      "ar": "وَتَرَكۡنَا عَلَیۡهِ فِی ٱلۡءَاخِرِینَ",
+      "tr": "በእርሱ ላይም በኋለኞቹ ሕዝቦች ውስጥ መልካም ዝናን ተውንለት፡፡",
+      "la": "be’irisu layimi behwalenyochu hizibochi wisit’i melikami zinani tewinileti፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 130,
+      "ar": "سَلَـٰمٌ عَلَىٰۤ إِلۡ یَاسِینَ",
+      "tr": "ሰላም በኢልያሲን ላይ ይሁን፡፡",
+      "la": "selami be’iliyasini layi yihuni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 131,
+      "ar": "إِنَّا كَذَ ٰلِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ",
+      "tr": "እኛ እንደዚሁ መልካም ሠሪዎችን እንመነዳለን፡፡",
+      "la": "inya inidezihu melikami seriwochini inimenedaleni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 132,
+      "ar": "إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِینَ",
+      "tr": "እርሱ በእርግጥ ከምእመናን ባሮቻችን ነው፡፡",
+      "la": "irisu be’irigit’i kemi’imenani barochachini newi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 133,
+      "ar": "وَإِنَّ لُوطࣰا لَّمِنَ ٱلۡمُرۡسَلِینَ",
+      "tr": "ሉጥም በእርግጥ ከመልክተኞቹ ነው፡፡",
+      "la": "lut’imi be’irigit’i kemelikitenyochu newi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 134,
+      "ar": "إِذۡ نَجَّیۡنَـٰهُ وَأَهۡلَهُۥۤ أَجۡمَعِینَ",
+      "tr": "እርሱንና ቤተሰቦቹን ሁሉንም በአዳንናቸው ጊዜ (አስታውስ)፡፡",
+      "la": "irisunina betesebochuni hulunimi be’adaninachewi gize (asitawisi)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 135,
+      "ar": "إِلَّا عَجُوزࣰا فِی ٱلۡغَـٰبِرِینَ",
+      "tr": "(በቅጣቱ ውስጥ) ከቀሪዎቹ የሆነችው አሮጊት ብቻ ስትቀር፡፡",
+      "la": "(bek’it’atu wisit’i) kek’eriwochu yehonechiwi arogiti bicha sitik’eri፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 136,
+      "ar": "ثُمَّ دَمَّرۡنَا ٱلۡءَاخَرِینَ",
+      "tr": "ከዚያም ሌሎቹን አጠፋን፡፡",
+      "la": "keziyami lelochuni at’efani፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 137,
+      "ar": "وَإِنَّكُمۡ لَتَمُرُّونَ عَلَیۡهِم مُّصۡبِحِینَ",
+      "tr": "እናንተም ያነጋችሁ ስትሆኑ በእነርሱ (መኖሪያዎች) ላይ (በቀን) ታልፋላችሁ፡፡",
+      "la": "inanitemi yanegachihu sitihonu be’inerisu (menoriyawochi) layi (bek’eni) talifalachihu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 138,
+      "ar": "وَبِٱلَّیۡلِۚ أَفَلَا تَعۡقِلُونَ",
+      "tr": "በሌሊትም (ታልፋላችሁ)፤ ልብም አታደርጉምን",
+      "la": "belelitimi (talifalachihu)፤ libimi ataderigumini"
+    },
+    {
+      "chapter": 37,
+      "verse": 139,
+      "ar": "وَإِنَّ یُونُسَ لَمِنَ ٱلۡمُرۡسَلِینَ",
+      "tr": "ዩኑስም በእርግጥ ከመልክተኞቹ ነው፡፡",
+      "la": "yunusimi be’irigit’i kemelikitenyochu newi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 140,
+      "ar": "إِذۡ أَبَقَ إِلَى ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
+      "tr": "ወደ ተመላው መርከብ በኮበለለ ጊዜ (አስታውስ)፡፡",
+      "la": "wede temelawi merikebi bekobelele gize (asitawisi)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 141,
+      "ar": "فَسَاهَمَ فَكَانَ مِنَ ٱلۡمُدۡحَضِینَ",
+      "tr": "ዕጣም ተጣጣለ፡፡ ከተሸነፉትም ሆነ፡፡",
+      "la": "‘it’ami tet’at’ale፡፡ keteshenefutimi hone፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 142,
+      "ar": "فَٱلۡتَقَمَهُ ٱلۡحُوتُ وَهُوَ مُلِیمࣱ",
+      "tr": "እርሱም ተወቃሽ ሲሆን ዐሳው ዋጠው፡፡",
+      "la": "irisumi tewek’ashi sihoni ‘asawi wat’ewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 143,
+      "ar": "فَلَوۡلَاۤ أَنَّهُۥ كَانَ مِنَ ٱلۡمُسَبِّحِینَ",
+      "tr": "እርሱ ለጌታው ከአወዳሾቹ ባልሆነም ኖሮ፤",
+      "la": "irisu legetawi ke’awedashochu balihonemi noro፤"
+    },
+    {
+      "chapter": 37,
+      "verse": 144,
+      "ar": "لَلَبِثَ فِی بَطۡنِهِۦۤ إِلَىٰ یَوۡمِ یُبۡعَثُونَ",
+      "tr": "እስከሚቀሰቀሱበት ቀን ድረስ በሆዱ ውስጥ በቆየ ነበር፡፡",
+      "la": "isikemik’esek’esubeti k’eni diresi behodu wisit’i bek’oye neberi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 145,
+      "ar": "۞ فَنَبَذۡنَـٰهُ بِٱلۡعَرَاۤءِ وَهُوَ سَقِیمࣱ",
+      "tr": "እርሱ በሽተኛ ሆኖ በቃይ በሌለው (በባሕር) ዳርቻ ላይ ጣልነውም፡፡",
+      "la": "irisu beshitenya hono bek’ayi belelewi (bebahiri) daricha layi t’alinewimi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 146,
+      "ar": "وَأَنۢبَتۡنَا عَلَیۡهِ شَجَرَةࣰ مِّن یَقۡطِینࣲ",
+      "tr": "በእርሱም ላይ (በአጠገቡ) ከቅል የሆነችን ዛፍ አበቀልን፡፡",
+      "la": "be’irisumi layi (be’at’egebu) kek’ili yehonechini zafi abek’elini፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 147,
+      "ar": "وَأَرۡسَلۡنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلۡفٍ أَوۡ یَزِیدُونَ",
+      "tr": "ወደ መቶ ሺሕ ሰዎችም (ዳግመኛ) ላክነው፡፡ ከቶውንም ይጨምራሉ፡፡",
+      "la": "wede meto shihi sewochimi (dagimenya) lakinewi፡፡ ketowinimi yich’emiralu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 148,
+      "ar": "فَءَامَنُوا۟ فَمَتَّعۡنَـٰهُمۡ إِلَىٰ حِینࣲ",
+      "tr": "አመኑም፡፡ እስከ ጊዜ ድረስም አጣቀምናቸው፡፡",
+      "la": "amenumi፡፡ isike gize diresimi at’ak’eminachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 149,
+      "ar": "فَٱسۡتَفۡتِهِمۡ أَلِرَبِّكَ ٱلۡبَنَاتُ وَلَهُمُ ٱلۡبَنُونَ",
+      "tr": "(የመካን ሰዎች) ጠይቃቸውም፡፡ «ለጌታህ ሴቶች ልጆች ለእነርሱም ወንዶች ልጆች ይኖራልን?»",
+      "la": "(yemekani sewochi) t’eyik’achewimi፡፡ «legetahi setochi lijochi le’inerisumi wenidochi lijochi yinoralini?»"
+    },
+    {
+      "chapter": 37,
+      "verse": 150,
+      "ar": "أَمۡ خَلَقۡنَا ٱلۡمَلَـٰۤئِكَةَ إِنَـٰثࣰا وَهُمۡ شَـٰهِدُونَ",
+      "tr": "ወይስ እኛ እነርሱ የተጣዱ ሆነው መላእክትን ሴቶች አድርገን ፈጠርን",
+      "la": "weyisi inya inerisu yetet’adu honewi mela’ikitini setochi adirigeni fet’erini"
+    },
+    {
+      "chapter": 37,
+      "verse": 151,
+      "ar": "أَلَاۤ إِنَّهُم مِّنۡ إِفۡكِهِمۡ لَیَقُولُونَ",
+      "tr": "ንቁ! እነርሱ ከቅጥፈታቸው (የተነሳ) ይላሉ፡",
+      "la": "nik’u! inerisu kek’it’ifetachewi (yetenesa) yilalu፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 152,
+      "ar": "وَلَدَ ٱللَّهُ وَإِنَّهُمۡ لَكَـٰذِبُونَ",
+      "tr": "«አላህ (መላእክትን) ወለደ፡፡» እነርሱም በእርግጥ ውሸታሞች ናቸው፡፡",
+      "la": "«alahi (mela’ikitini) welede፡፡» inerisumi be’irigit’i wishetamochi nachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 153,
+      "ar": "أَصۡطَفَى ٱلۡبَنَاتِ عَلَى ٱلۡبَنِینَ",
+      "tr": "በወንዶች ልጆች ላይ ይልቅ ሴቶችን ልጆች መረጥን",
+      "la": "bewenidochi lijochi layi yilik’i setochini lijochi meret’ini"
+    },
+    {
+      "chapter": 37,
+      "verse": 154,
+      "ar": "مَا لَكُمۡ كَیۡفَ تَحۡكُمُونَ",
+      "tr": "ለእናንተ ምን (አስረጅ) አላችሁ? እንዴት ትፈርዳላችሁ",
+      "la": "le’inanite mini (asireji) alachihu? inideti tiferidalachihu"
+    },
+    {
+      "chapter": 37,
+      "verse": 155,
+      "ar": "أَفَلَا تَذَكَّرُونَ",
+      "tr": "አትገነዘቡምን",
+      "la": "atigenezebumini"
+    },
+    {
+      "chapter": 37,
+      "verse": 156,
+      "ar": "أَمۡ لَكُمۡ سُلۡطَـٰنࣱ مُّبِینࣱ",
+      "tr": "ወይስ ለእናንተ ግልጽ አስረጅ አላችሁን",
+      "la": "weyisi le’inanite gilits’i asireji alachihuni"
+    },
+    {
+      "chapter": 37,
+      "verse": 157,
+      "ar": "فَأۡتُوا۟ بِكِتَـٰبِكُمۡ إِن كُنتُمۡ صَـٰدِقِینَ",
+      "tr": "«እውነተኞች እንደ ሆናችሁ መጽሐፋችሁን አምጡ» (በላቸው)፡፡",
+      "la": "«iwinetenyochi inide honachihu mets’ihafachihuni amit’u» (belachewi)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 158,
+      "ar": "وَجَعَلُوا۟ بَیۡنَهُۥ وَبَیۡنَ ٱلۡجِنَّةِ نَسَبࣰاۚ وَلَقَدۡ عَلِمَتِ ٱلۡجِنَّةُ إِنَّهُمۡ لَمُحۡضَرُونَ",
+      "tr": "በአላህና በአጋንንት መካከልም ዝምድናን አደረጉ፡፡ አጋንንትም እነርሱ (ይህን ባዮች በእሳት) የሚጣዱ መሆናቸውን በእርግጥ ዐውቀዋል፡፡",
+      "la": "be’alahina be’aganiniti mekakelimi zimidinani aderegu፡፡ aganinitimi inerisu (yihini bayochi be’isati) yemit’adu mehonachewini be’irigit’i ‘awik’ewali፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 159,
+      "ar": "سُبۡحَـٰنَ ٱللَّهِ عَمَّا یَصِفُونَ",
+      "tr": "አላህ ከሚመጥኑት ሁሉ ጠራ፡፡",
+      "la": "alahi kemimet’inuti hulu t’era፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 160,
+      "ar": "إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِینَ",
+      "tr": "ግን የተመረጡት የአላህ ባሮች (በአላህ ላይ አይዋሹም)፡፡",
+      "la": "gini yetemeret’uti ye’alahi barochi (be’alahi layi ayiwashumi)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 161,
+      "ar": "فَإِنَّكُمۡ وَمَا تَعۡبُدُونَ",
+      "tr": "እናንተም የምትገዟቸውም ሁሉ፤",
+      "la": "inanitemi yemitigezwachewimi hulu፤"
+    },
+    {
+      "chapter": 37,
+      "verse": 162,
+      "ar": "مَاۤ أَنتُمۡ عَلَیۡهِ بِفَـٰتِنِینَ",
+      "tr": "በእርሱ (በአላህ) ላይ አንድንም አጥማሚዎች አይደላችሁም፡፡",
+      "la": "be’irisu (be’alahi) layi anidinimi at’imamiwochi ayidelachihumi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 163,
+      "ar": "إِلَّا مَنۡ هُوَ صَالِ ٱلۡجَحِیمِ",
+      "tr": "ያንን እርሱ ገሀነምን ገቢ የሆነውን ሰው ቢሆን እንጅ፡፡",
+      "la": "yanini irisu gehanemini gebi yehonewini sewi bihoni iniji፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 164,
+      "ar": "وَمَا مِنَّاۤ إِلَّا لَهُۥ مَقَامࣱ مَّعۡلُومࣱ",
+      "tr": "(ጂብሪል አለ) ከእኛም አንድም የለም፤ ለእርሱ የታወቀ ደረጃ ያለው ቢሆን እንጅ፡፡",
+      "la": "(jibirili ale) ke’inyami anidimi yelemi፤ le’irisu yetawek’e dereja yalewi bihoni iniji፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 165,
+      "ar": "وَإِنَّا لَنَحۡنُ ٱلصَّاۤفُّونَ",
+      "tr": "እኛም (ጌታን ለመግገዛት) ተሰላፊዎቹ እኛ ነን፡፡",
+      "la": "inyami (getani lemegigezati) teselafiwochu inya neni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 166,
+      "ar": "وَإِنَّا لَنَحۡنُ ٱلۡمُسَبِّحُونَ",
+      "tr": "እኛም (አላህን) አጥሪዎቹ እኛ ነን፡፡",
+      "la": "inyami (alahini) at’iriwochu inya neni፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 167,
+      "ar": "وَإِن كَانُوا۟ لَیَقُولُونَ",
+      "tr": "እነርሱም (ከሓዲዎቹ) በእርግጥ ይሉ ነበሩ፡",
+      "la": "inerisumi (kehadiwochu) be’irigit’i yilu neberu፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 168,
+      "ar": "لَوۡ أَنَّ عِندَنَا ذِكۡرࣰا مِّنَ ٱلۡأَوَّلِینَ",
+      "tr": "«ከቀድሞዎቹ (መጻሕፍት) ገሳጭ መጽሐፍ እኛ ዘንድ በነበረን ኖሮ፤",
+      "la": "«kek’edimowochu (mets’ahifiti) gesach’i mets’ihafi inya zenidi benebereni noro፤"
+    },
+    {
+      "chapter": 37,
+      "verse": 169,
+      "ar": "لَكُنَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِینَ",
+      "tr": "«የአላህ ምርጦች ባሮች በሆን ነበር፡፡»",
+      "la": "«ye’alahi mirit’ochi barochi behoni neberi፡፡»"
+    },
+    {
+      "chapter": 37,
+      "verse": 170,
+      "ar": "فَكَفَرُوا۟ بِهِۦۖ فَسَوۡفَ یَعۡلَمُونَ",
+      "tr": "ግን (ቁርኣኑ በመጣላቸው ጊዜ) በእርሱ ካዱ፡፡ ወደፊትም በእርግጥ ያውቃሉ፡፡",
+      "la": "gini (k’uri’anu bemet’alachewi gize) be’irisu kadu፡፡ wedefitimi be’irigit’i yawik’alu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 171,
+      "ar": "وَلَقَدۡ سَبَقَتۡ كَلِمَتُنَا لِعِبَادِنَا ٱلۡمُرۡسَلِینَ",
+      "tr": "(የእርዳታ) ቃላችንም መልክተኞች ለሆኑት ባሮቻችን በእውነት አልፋለች፡፡",
+      "la": "(ye’iridata) k’alachinimi melikitenyochi lehonuti barochachini be’iwineti alifalechi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 172,
+      "ar": "إِنَّهُمۡ لَهُمُ ٱلۡمَنصُورُونَ",
+      "tr": "እነርሱ ተረጂዎቹ እነርሱ ናቸው፡፡",
+      "la": "inerisu terejiwochu inerisu nachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 173,
+      "ar": "وَإِنَّ جُندَنَا لَهُمُ ٱلۡغَـٰلِبُونَ",
+      "tr": "ሰራዊቶቻችንም በእርግጥ አሸናፊዎቹ እነርሱ ናቸው፡፡",
+      "la": "serawitochachinimi be’irigit’i ashenafiwochu inerisu nachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 174,
+      "ar": "فَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِینࣲ",
+      "tr": "ከእነርሱም (ከመካ ከሓዲዎች) እስከ ጥቂት ጊዜ ድረስ ዙር (ተዋቸው)፡፡",
+      "la": "ke’inerisumi (kemeka kehadiwochi) isike t’ik’iti gize diresi zuri (tewachewi)፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 175,
+      "ar": "وَأَبۡصِرۡهُمۡ فَسَوۡفَ یُبۡصِرُونَ",
+      "tr": "እያቸውም ወደፊትም (የሚደርስባቸውን) ያያሉ፡፡",
+      "la": "iyachewimi wedefitimi (yemiderisibachewini) yayalu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 176,
+      "ar": "أَفَبِعَذَابِنَا یَسۡتَعۡجِلُونَ",
+      "tr": "በቅጣታችንም ያቻኩላሉን",
+      "la": "bek’it’atachinimi yachakulaluni"
+    },
+    {
+      "chapter": 37,
+      "verse": 177,
+      "ar": "فَإِذَا نَزَلَ بِسَاحَتِهِمۡ فَسَاۤءَ صَبَاحُ ٱلۡمُنذَرِینَ",
+      "tr": "በቀያቸውም በወረደ ጊዜ የተስፈራሪዎቹ ንጋት ከፋ",
+      "la": "bek’eyachewimi bewerede gize yetesiferariwochu nigati kefa"
+    },
+    {
+      "chapter": 37,
+      "verse": 178,
+      "ar": "وَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِینࣲ",
+      "tr": "እነርሱንም እስከ (ጥቂት) ጊዜ ድረስ ተዋቸው፡፡",
+      "la": "inerisunimi isike (t’ik’iti) gize diresi tewachewi፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 179,
+      "ar": "وَأَبۡصِرۡ فَسَوۡفَ یُبۡصِرُونَ",
+      "tr": "ተመልከትም በእርግጥም ያያሉ፡፡",
+      "la": "temeliketimi be’irigit’imi yayalu፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 180,
+      "ar": "سُبۡحَـٰنَ رَبِّكَ رَبِّ ٱلۡعِزَّةِ عَمَّا یَصِفُونَ",
+      "tr": "የማሸነፍ ጌታ የሆነው ጌታህ ከሚሉት ሁሉ ጠራ፡፡",
+      "la": "yemashenefi geta yehonewi getahi kemiluti hulu t’era፡፡"
+    },
+    {
+      "chapter": 37,
+      "verse": 181,
+      "ar": "وَسَلَـٰمٌ عَلَى ٱلۡمُرۡسَلِینَ",
+      "tr": "በመልክተኞቹም ላይ ሰላም ይኹኑ፤",
+      "la": "bemelikitenyochumi layi selami yihunu፤"
+    },
+    {
+      "chapter": 37,
+      "verse": 182,
+      "ar": "وَٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَـٰلَمِینَ",
+      "tr": "ምስጋናም ለዓለማት ጌታ ለአላህ ይሁን፡፡",
+      "la": "misiganami le‘alemati geta le’alahi yihuni፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 1,
+      "ar": "صۤۚ وَٱلۡقُرۡءَانِ ذِی ٱلذِّكۡرِ",
+      "tr": "ጸ. (ሷድ) የክብር ባለቤት በሆነው ቁርኣን እምላለሁ (ብዙ አማልክት አሉ እንደሚሉት አይደለም)፡፡",
+      "la": "ts’e. (swadi) yekibiri balebeti behonewi k’uri’ani imilalehu (bizu amalikiti alu inidemiluti ayidelemi)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 2,
+      "ar": "بَلِ ٱلَّذِینَ كَفَرُوا۟ فِی عِزَّةࣲ وَشِقَاقࣲ",
+      "tr": "ይልቁንም እነዚያ የካዱት ሰዎች በትዕቢትና በክርክር ውስጥ ናቸው፡፡",
+      "la": "yilik’unimi ineziya yekaduti sewochi beti‘ibitina bekirikiri wisit’i nachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 3,
+      "ar": "كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنࣲ فَنَادَوا۟ وَّلَاتَ حِینَ مَنَاصࣲ",
+      "tr": "ከእነርሱ በፊት ከክፍለ ዘመናት ሕዝቦች ብዙን አጥፍተናል፡፡ (ጊዜው) የመሸሻና የማምለጫ ጊዜ ሳይሆንም (ለእርዳታ) ተጣሩ፡፡",
+      "la": "ke’inerisu befiti kekifile zemenati hizibochi bizuni at’ifitenali፡፡ (gizewi) yemesheshana yemamilech’a gize sayihonimi (le’iridata) tet’aru፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 4,
+      "ar": "وَعَجِبُوۤا۟ أَن جَاۤءَهُم مُّنذِرࣱ مِّنۡهُمۡۖ وَقَالَ ٱلۡكَـٰفِرُونَ هَـٰذَا سَـٰحِرࣱ كَذَّابٌ",
+      "tr": "ከእነርሱ የሆነ አስፈራሪም ስለ መጣላቸው ተደነቁ፡፡ ከሓዲዎቹም «ይህ ድግምተኛ (ጠንቋይ) ውሸታም ነው» አሉ፡፡",
+      "la": "ke’inerisu yehone asiferarimi sile met’alachewi tedenek’u፡፡ kehadiwochumi «yihi digimitenya (t’enik’wayi) wishetami newi» alu፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 5,
+      "ar": "أَجَعَلَ ٱلۡءَالِهَةَ إِلَـٰهࣰا وَ ٰحِدًاۖ إِنَّ هَـٰذَا لَشَیۡءٌ عُجَابࣱ",
+      "tr": "«አማልክቶቹን አንድ አምላክ አደረጋቸውን? ይህ አስደናቂ ነገር ነው» (አሉ)፡፡",
+      "la": "«amalikitochuni anidi amilaki aderegachewini? yihi asidenak’i negeri newi» (alu)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 6,
+      "ar": "وَٱنطَلَقَ ٱلۡمَلَأُ مِنۡهُمۡ أَنِ ٱمۡشُوا۟ وَٱصۡبِرُوا۟ عَلَىٰۤ ءَالِهَتِكُمۡۖ إِنَّ هَـٰذَا لَشَیۡءࣱ یُرَادُ",
+      "tr": "ከእነርሱም መኳንንቶቹ «ሂዱ፤ በአማልክቶቻችሁም (መግገዛት) ላይ ታገሱ፡፡ ይህ (ከእኛ) የሚፈለግ ነገር ነውና» እያሉ አዘገሙ፡፡",
+      "la": "ke’inerisumi mekwaninitochu «hidu፤ be’amalikitochachihumi (megigezati) layi tagesu፡፡ yihi (ke’inya) yemifelegi negeri newina» iyalu azegemu፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 7,
+      "ar": "مَا سَمِعۡنَا بِهَـٰذَا فِی ٱلۡمِلَّةِ ٱلۡءَاخِرَةِ إِنۡ هَـٰذَاۤ إِلَّا ٱخۡتِلَـٰقٌ",
+      "tr": "«ይህንንም በኋለኛይቱ ሃይማኖት አልሰማንም፡፡ ይህ ውሸትን መፍጠር እንጅ ሌላ አይደለም» (እያሉም)፡፡",
+      "la": "«yihininimi behwalenyayitu hayimanoti alisemanimi፡፡ yihi wishetini mefit’eri iniji lela ayidelemi» (iyalumi)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 8,
+      "ar": "أَءُنزِلَ عَلَیۡهِ ٱلذِّكۡرُ مِنۢ بَیۡنِنَاۚ بَلۡ هُمۡ فِی شَكࣲّ مِّن ذِكۡرِیۚ بَل لَّمَّا یَذُوقُوا۟ عَذَابِ",
+      "tr": "«ከመካከላችን በእርሱ ላይ ቁርኣን ተወረደን?» (አሉ)፡፡ በእውነት እነርሱ ከግሳጼዬ (ከቁርኣን) በመጠራጠር ውስጥ ናቸው፡፡ በእርግጥም ቅጣቴን ገና አልቀመሱም፡፡",
+      "la": "«kemekakelachini be’irisu layi k’uri’ani teweredeni?» (alu)፡፡ be’iwineti inerisu kegisats’eye (kek’uri’ani) bemet’erat’eri wisit’i nachewi፡፡ be’irigit’imi k’it’ateni gena alik’emesumi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 9,
+      "ar": "أَمۡ عِندَهُمۡ خَزَاۤئِنُ رَحۡمَةِ رَبِّكَ ٱلۡعَزِیزِ ٱلۡوَهَّابِ",
+      "tr": "ይልቁንም የአሸናፊውና የለጋሱ ጌታህ የችሮታው መጋዘኖች እነርሱ ዘንድ ናቸውን",
+      "la": "yilik’unimi ye’ashenafiwina yelegasu getahi yechirotawi megazenochi inerisu zenidi nachewini"
+    },
+    {
+      "chapter": 38,
+      "verse": 10,
+      "ar": "أَمۡ لَهُم مُّلۡكُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَاۖ فَلۡیَرۡتَقُوا۟ فِی ٱلۡأَسۡبَـٰبِ",
+      "tr": "ወይስ የሰማያትና የምድር የመካከላቸውም ንግሥና የእነርሱ ነውን? (ነው ቢሉ) በመሰላሎችም ይውጡ፡፡",
+      "la": "weyisi yesemayatina yemidiri yemekakelachewimi nigisina ye’inerisu newini? (newi bilu) bemeselalochimi yiwit’u፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 11,
+      "ar": "جُندࣱ مَّا هُنَالِكَ مَهۡزُومࣱ مِّنَ ٱلۡأَحۡزَابِ",
+      "tr": "እዚያ ዘንድ ከአሕዛብ የሆኑ ተሸናፊ ሰራዊት ናቸው፡፡",
+      "la": "iziya zenidi ke’ahizabi yehonu teshenafi serawiti nachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 12,
+      "ar": "كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحࣲ وَعَادࣱ وَفِرۡعَوۡنُ ذُو ٱلۡأَوۡتَادِ",
+      "tr": "ከእነርሱ በፊት የኑሕ ሕዝቦች፣ ዓድም፣ የችካሎች ባለቤት የሆነው ፈርዖንም አስተባበሉ፡፡",
+      "la": "ke’inerisu befiti yenuhi hizibochi፣ ‘adimi፣ yechikalochi balebeti yehonewi feri‘onimi asitebabelu፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 13,
+      "ar": "وَثَمُودُ وَقَوۡمُ لُوطࣲ وَأَصۡحَـٰبُ لۡءَیۡكَةِۚ أُو۟لَـٰۤئِكَ ٱلۡأَحۡزَابُ",
+      "tr": "ሰሙድም፣ የሉጥ ሰዎችም፣ የአይከት ሰዎችም (አስተባበሉ)፡፡ እነዚህ አሕዛቦቹ ናቸው፡፡",
+      "la": "semudimi፣ yelut’i sewochimi፣ ye’ayiketi sewochimi (asitebabelu)፡፡ inezihi ahizabochu nachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 14,
+      "ar": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
+      "tr": "ሁሉም መልክተኞቹን ያስዋሹ እንጅ ሌላ አይደሉም፡፡ ቅጣቴም ተረጋገጠባቸው፡፡",
+      "la": "hulumi melikitenyochuni yasiwashu iniji lela ayidelumi፡፡ k’it’atemi teregaget’ebachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 15,
+      "ar": "وَمَا یَنظُرُ هَـٰۤؤُلَاۤءِ إِلَّا صَیۡحَةࣰ وَ ٰحِدَةࣰ مَّا لَهَا مِن فَوَاقࣲ",
+      "tr": "እነዚህም ለእርሷ መመለስ የሌላትን አንዲትን ጩኸት እንጅ ሌላን አይጠባበቁም፡፡",
+      "la": "inezihimi le’iriswa memelesi yelelatini aniditini ch’uheti iniji lelani ayit’ebabek’umi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 16,
+      "ar": "وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبۡلَ یَوۡمِ ٱلۡحِسَابِ",
+      "tr": "«ጌታችን ሆይ! ከምርመራው ቀን በፊት መጽሐፋችንን አስቸኩልልን» አሉም፡፡",
+      "la": "«getachini hoyi! kemirimerawi k’eni befiti mets’ihafachinini asichekulilini» alumi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 17,
+      "ar": "ٱصۡبِرۡ عَلَىٰ مَا یَقُولُونَ وَٱذۡكُرۡ عَبۡدَنَا دَاوُۥدَ ذَا ٱلۡأَیۡدِۖ إِنَّهُۥۤ أَوَّابٌ",
+      "tr": "በሚሉት ነገር ላይ ታገስ፡፡ የኀይል ባለቤት የሆነውን ባሪያችንንም ዳውድን አውሳላቸው፡፡ እርሱ በጣም መላሳ ነውና፡፡",
+      "la": "bemiluti negeri layi tagesi፡፡ yehayili balebeti yehonewini bariyachininimi dawidini awisalachewi፡፡ irisu bet’ami melasa newina፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 18,
+      "ar": "إِنَّا سَخَّرۡنَا ٱلۡجِبَالَ مَعَهُۥ یُسَبِّحۡنَ بِٱلۡعَشِیِّ وَٱلۡإِشۡرَاقِ",
+      "tr": "እኛ ተራራዎችን ከቀትር በኋላና በረፋድም ከእርሱ ጋር የሚያወድሱ ሲሆኑ ገራንለት፡፡",
+      "la": "inya terarawochini kek’etiri behwalana berefadimi ke’irisu gari yemiyawedisu sihonu geranileti፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 19,
+      "ar": "وَٱلطَّیۡرَ مَحۡشُورَةࣰۖ كُلࣱّ لَّهُۥۤ أَوَّابࣱ",
+      "tr": "በራሪዎችንም (አእዋፍን) የሚሰበሰቡ ሆነው (ገራንለት)፡፡ ሁሉም ለእርሱ (ማወደስ) የሚመላለስ ነው፡፡",
+      "la": "berariwochinimi (a’iwafini) yemisebesebu honewi (geranileti)፡፡ hulumi le’irisu (mawedesi) yemimelalesi newi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 20,
+      "ar": "وَشَدَدۡنَا مُلۡكَهُۥ وَءَاتَیۡنَـٰهُ ٱلۡحِكۡمَةَ وَفَصۡلَ ٱلۡخِطَابِ",
+      "tr": "መንግሥቱንም አበረታንለት፡፡ ጥበብንም ንግግርን መለየትንም ሰጠነው፡፡",
+      "la": "menigisitunimi aberetanileti፡፡ t’ibebinimi nigigirini meleyetinimi set’enewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 21,
+      "ar": "۞ وَهَلۡ أَتَىٰكَ نَبَؤُا۟ ٱلۡخَصۡمِ إِذۡ تَسَوَّرُوا۟ ٱلۡمِحۡرَابَ",
+      "tr": "የተከራካሪዎቹም ወሬ መጥቶልሃልን? ምኩራቡን በተንጠላጠሉ ጊዜ፡፡",
+      "la": "yetekerakariwochumi were met’itolihalini? mikurabuni betenit’elat’elu gize፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 22,
+      "ar": "إِذۡ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنۡهُمۡۖ قَالُوا۟ لَا تَخَفۡۖ خَصۡمَانِ بَغَىٰ بَعۡضُنَا عَلَىٰ بَعۡضࣲ فَٱحۡكُم بَیۡنَنَا بِٱلۡحَقِّ وَلَا تُشۡطِطۡ وَٱهۡدِنَاۤ إِلَىٰ سَوَاۤءِ ٱلصِّرَ ٰطِ",
+      "tr": "በዳውድ ላይም በገቡ ጊዜ ከእነርሱም በደነገጠ ጊዜ «አትፍራ፤ (እኛ) ከፊላችን በከፊሉ ላይ ወሰን ያለፈ ሁለት ተከራካሪዎች ነን፡፡ በመካከላችንም በእውነት ፍረድ፡፡ አታዳላም፡፡ ወደ መካከለኛውም መንገድ ምራን፤» አሉት፡፡",
+      "la": "bedawidi layimi begebu gize ke’inerisumi bedeneget’e gize «atifira፤ (inya) kefilachini bekefilu layi weseni yalefe huleti tekerakariwochi neni፡፡ bemekakelachinimi be’iwineti firedi፡፡ atadalami፡፡ wede mekakelenyawimi menigedi mirani፤» aluti፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 23,
+      "ar": "إِنَّ هَـٰذَاۤ أَخِی لَهُۥ تِسۡعࣱ وَتِسۡعُونَ نَعۡجَةࣰ وَلِیَ نَعۡجَةࣱ وَ ٰحِدَةࣱ فَقَالَ أَكۡفِلۡنِیهَا وَعَزَّنِی فِی ٱلۡخِطَابِ",
+      "tr": "«ይህ ወንድሜ ነው፤ ለእርሱ ዘጠና ዘጠኝ ሴቶች በጎች አሉት፡፡ ለኔም አንዲት ሴት በግ አለችኝ፡፡ እርሷንም ዕድሌ አድርጋት አለኝ፡፡ በንግግርም አሸነፈኝ» አለው፡፡",
+      "la": "«yihi wenidime newi፤ le’irisu zet’ena zet’enyi setochi begochi aluti፡፡ lenemi aniditi seti begi alechinyi፡፡ iriswanimi ‘idile adirigati alenyi፡፡ benigigirimi ashenefenyi» alewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 24,
+      "ar": "قَالَ لَقَدۡ ظَلَمَكَ بِسُؤَالِ نَعۡجَتِكَ إِلَىٰ نِعَاجِهِۦۖ وَإِنَّ كَثِیرࣰا مِّنَ ٱلۡخُلَطَاۤءِ لَیَبۡغِی بَعۡضُهُمۡ عَلَىٰ بَعۡضٍ إِلَّا ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَقَلِیلࣱ مَّا هُمۡۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّـٰهُ فَٱسۡتَغۡفَرَ رَبَّهُۥ وَ̅خَ̅رَّ̅ ̅رَ̅ا̅كِ̅عࣰ̅ا̅ وَأَنَابَ ۩",
+      "tr": "«ሴት በግህን ወደ በጎቹ (ለመቀላቀል) በመጠየቁ በእርግጥ በደለህ፡፡ ከተጋሪዎችም ብዙዎቹ ከፊላቸው በከፊሉ ላይ ወሰን ያልፋሉ፡፡ እነዚያ ያመኑትና መልካሞችን የሠሩት ብቻ ሲቀሩ፡፡ እነርሱም በጣም ጥቂቶች ናቸው» አለ፡፡ ዳውድም የፈተንነው መኾኑን ዐወቀ፡፡ ጌታውንም ምሕረትን ለመነ፡፡ ሰጋጅ ኾኖ ወደቀም፡፡ በመጸጸት ተመለሰም፡፡",
+      "la": "«seti begihini wede begochu (lemek’elak’eli) bemet’eyek’u be’irigit’i bedelehi፡፡ ketegariwochimi bizuwochu kefilachewi bekefilu layi weseni yalifalu፡፡ ineziya yamenutina melikamochini yeseruti bicha sik’eru፡፡ inerisumi bet’ami t’ik’itochi nachewi» ale፡፡ dawidimi yefeteninewi mehonuni ‘awek’e፡፡ getawinimi mihiretini lemene፡፡ segaji hono wedek’emi፡፡ bemets’ets’eti temelesemi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 25,
+      "ar": "فَغَفَرۡنَا لَهُۥ ذَ ٰلِكَۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَءَابࣲ",
+      "tr": "ለእርሱም እኛ ዘንድ መቅረብ (ክብር) መልካም መመለሻም አለው፡፡",
+      "la": "le’irisumi inya zenidi mek’irebi (kibiri) melikami memeleshami alewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 26,
+      "ar": "یَـٰدَاوُۥدُ إِنَّا جَعَلۡنَـٰكَ خَلِیفَةࣰ فِی ٱلۡأَرۡضِ فَٱحۡكُم بَیۡنَ ٱلنَّاسِ بِٱلۡحَقِّ وَلَا تَتَّبِعِ ٱلۡهَوَىٰ فَیُضِلَّكَ عَن سَبِیلِ ٱللَّهِۚ إِنَّ ٱلَّذِینَ یَضِلُّونَ عَن سَبِیلِ ٱللَّهِ لَهُمۡ عَذَابࣱ شَدِیدُۢ بِمَا نَسُوا۟ یَوۡمَ ٱلۡحِسَابِ",
+      "tr": "ዳውድ ሆይ! እኛ በምድር ላይ ምትክ አድርገንሃልና በሰዎች መካከል በእውነት ፍረድ፡፡ ዝንባሌሀንም አትከተል፤ከአላህ መንገድ ያሳሳትሃልና፡፡ እነዚያ ከአላህ መንገድ የሚሳሳቱ የምርመራውን ቀን በመርሳታቸው ለእነርሱ ብርቱ ቅጣት አላቸው፡፡",
+      "la": "dawidi hoyi! inya bemidiri layi mitiki adirigenihalina besewochi mekakeli be’iwineti firedi፡፡ zinibalehanimi atiketeli፤ke’alahi menigedi yasasatihalina፡፡ ineziya ke’alahi menigedi yemisasatu yemirimerawini k’eni bemerisatachewi le’inerisu biritu k’it’ati alachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 27,
+      "ar": "وَمَا خَلَقۡنَا ٱلسَّمَاۤءَ وَٱلۡأَرۡضَ وَمَا بَیۡنَهُمَا بَـٰطِلࣰاۚ ذَ ٰلِكَ ظَنُّ ٱلَّذِینَ كَفَرُوا۟ۚ فَوَیۡلࣱ لِّلَّذِینَ كَفَرُوا۟ مِنَ ٱلنَّارِ",
+      "tr": "ሰማይንና ምድርን በመካከላቸውም ያለውን ሁሉ ለከንቱ አልፈጠርንም፡፡ ይህ የእነዚያ የካዱት ሰዎች ጥርጣሬ ነው፡፡ ለእነዚያም ለካዱት ሰዎች ከእሳት ወዮላቸው",
+      "la": "semayinina midirini bemekakelachewimi yalewini hulu lekenitu alifet’erinimi፡፡ yihi ye’ineziya yekaduti sewochi t’irit’are newi፡፡ le’ineziyami lekaduti sewochi ke’isati weyolachewi"
+    },
+    {
+      "chapter": 38,
+      "verse": 28,
+      "ar": "أَمۡ نَجۡعَلُ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَٱلۡمُفۡسِدِینَ فِی ٱلۡأَرۡضِ أَمۡ نَجۡعَلُ ٱلۡمُتَّقِینَ كَٱلۡفُجَّارِ",
+      "tr": "በእውነቱ እነዚያን ያመኑትንና መልካሞችን የሠሩትን በምድር ውስጥ እንደሚያጠፉት እናደርጋለን? ወይስ አላህን ፊረዎቹን እንደ ከሓዲዎቹ እናደርጋለን",
+      "la": "be’iwinetu ineziyani yamenutinina melikamochini yeserutini bemidiri wisit’i inidemiyat’efuti inaderigaleni? weyisi alahini firewochuni inide kehadiwochu inaderigaleni"
+    },
+    {
+      "chapter": 38,
+      "verse": 29,
+      "ar": "كِتَـٰبٌ أَنزَلۡنَـٰهُ إِلَیۡكَ مُبَـٰرَكࣱ لِّیَدَّبَّرُوۤا۟ ءَایَـٰتِهِۦ وَلِیَتَذَكَّرَ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ",
+      "tr": "(ይህ) ወዳንተ ያወረድነው ብሩክ መጽሐፍ ነው፡፡ አንቀጾቹን እንዲያስተነትኑና የአእምሮዎች ባለቤቶችም እንዲገሰጹ (አወረድነው)፡፡",
+      "la": "(yihi) wedanite yaweredinewi biruki mets’ihafi newi፡፡ anik’ets’ochuni inidiyasitenetinuna ye’a’imirowochi balebetochimi inidigesets’u (aweredinewi)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 30,
+      "ar": "وَوَهَبۡنَا لِدَاوُۥدَ سُلَیۡمَـٰنَۚ نِعۡمَ ٱلۡعَبۡدُ إِنَّهُۥۤ أَوَّابٌ",
+      "tr": "ለዳውድም ሱለይማንን ሰጠነው፡፡ ምን ያምር ባሪያ! (ሱለይማን)፣ እርሱ መላሳ ነው፡፡",
+      "la": "ledawidimi suleyimanini set’enewi፡፡ mini yamiri bariya! (suleyimani)፣ irisu melasa newi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 31,
+      "ar": "إِذۡ عُرِضَ عَلَیۡهِ بِٱلۡعَشِیِّ ٱلصَّـٰفِنَـٰتُ ٱلۡجِیَادُ",
+      "tr": "በእርሱ ላይ ከቀትር በኋላ በሦስት እግሮችና በአራተኛዋ ኮቴ ጫፍ የሚቆሙ ጮሌዎች ፈረሶች በተቀረቡለት ጊዜ (አስታውስ)፡፡",
+      "la": "be’irisu layi kek’etiri behwala besositi igirochina be’aratenyawa kote ch’afi yemik’omu ch’olewochi feresochi betek’erebuleti gize (asitawisi)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 32,
+      "ar": "فَقَالَ إِنِّیۤ أَحۡبَبۡتُ حُبَّ ٱلۡخَیۡرِ عَن ذِكۡرِ رَبِّی حَتَّىٰ تَوَارَتۡ بِٱلۡحِجَابِ",
+      "tr": "አለም «እኔ (ፀሐይ) በግርዶ እስከ ተደበቀች ድረስ ከጌታዬ ማስታወስ ፋንታ ፈረስን መውደድን መረጥኩ፡፡»",
+      "la": "alemi «ine (ts’ehayi) begirido isike tedebek’echi diresi kegetaye masitawesi fanita feresini mewidedini meret’iku፡፡»"
+    },
+    {
+      "chapter": 38,
+      "verse": 33,
+      "ar": "رُدُّوهَا عَلَیَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ",
+      "tr": "«በእኔ ላይ መልሷት» (አለ) አጋዶችዋንና አንገቶችዋንም ማበስ ያዘ፡፡",
+      "la": "«be’ine layi meliswati» (ale) agadochiwanina anigetochiwanimi mabesi yaze፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 34,
+      "ar": "وَلَقَدۡ فَتَنَّا سُلَیۡمَـٰنَ وَأَلۡقَیۡنَا عَلَىٰ كُرۡسِیِّهِۦ جَسَدࣰا ثُمَّ أَنَابَ",
+      "tr": "ሱለይማንንም በእርግጥ ፈተንነው፡፡ በመንበሩም ላይ አካልን ጣልን፡፡ ከዚያም በመጸጸት ተመለሰ፡፡",
+      "la": "suleyimaninimi be’irigit’i feteninewi፡፡ bemeniberumi layi akalini t’alini፡፡ keziyami bemets’ets’eti temelese፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 35,
+      "ar": "قَالَ رَبِّ ٱغۡفِرۡ لِی وَهَبۡ لِی مُلۡكࣰا لَّا یَنۢبَغِی لِأَحَدࣲ مِّنۢ بَعۡدِیۤۖ إِنَّكَ أَنتَ ٱلۡوَهَّابُ",
+      "tr": "«ጌታዬ ሆይ! ለእኔ ማር፡፡ ከእኔ በኋላ ለአንድም የማይገባንም ንግሥና ስጠኝ፡፡ አንተ ለጋሱ አንተ ብቻ ነህና» አለ፡፡",
+      "la": "«getaye hoyi! le’ine mari፡፡ ke’ine behwala le’anidimi yemayigebanimi nigisina sit’enyi፡፡ anite legasu anite bicha nehina» ale፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 36,
+      "ar": "فَسَخَّرۡنَا لَهُ ٱلرِّیحَ تَجۡرِی بِأَمۡرِهِۦ رُخَاۤءً حَیۡثُ أَصَابَ",
+      "tr": "ነፋስንም በትእዛዙ ወደፈለገበት ስፍራ ልዝብ ኾና የምትፈስ ስትኾን ገራንለት፡፡",
+      "la": "nefasinimi beti’izazu wedefelegebeti sifira lizibi hona yemitifesi sitihoni geranileti፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 37,
+      "ar": "وَٱلشَّیَـٰطِینَ كُلَّ بَنَّاۤءࣲ وَغَوَّاصࣲ",
+      "tr": "ሰይጣናትንም ገንቢዎችንና ሰጣሚዎችን ሁሉ (ገራንለት)፡፡",
+      "la": "seyit’anatinimi genibiwochinina set’amiwochini hulu (geranileti)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 38,
+      "ar": "وَءَاخَرِینَ مُقَرَّنِینَ فِی ٱلۡأَصۡفَادِ",
+      "tr": "ሌሎችንም በፍንጆች ተቆራኞችን (ገራንለት)፡፡",
+      "la": "lelochinimi befinijochi tek’oranyochini (geranileti)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 39,
+      "ar": "هَـٰذَا عَطَاۤؤُنَا فَٱمۡنُنۡ أَوۡ أَمۡسِكۡ بِغَیۡرِ حِسَابࣲ",
+      "tr": "«ይህ ስጦታችን ነው፡፡ ያለግምት ለግስ፤ ወይም ጨብጥ» (አልነው)፡፡",
+      "la": "«yihi sit’otachini newi፡፡ yalegimiti legisi፤ weyimi ch’ebit’i» (alinewi)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 40,
+      "ar": "وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَءَابࣲ",
+      "tr": "ለእርሱም እኛ ዘንድ መቅረብ፤ መልካም መመለሻም በእርግጥ አልለው፡፡",
+      "la": "le’irisumi inya zenidi mek’irebi፤ melikami memeleshami be’irigit’i alilewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 41,
+      "ar": "وَٱذۡكُرۡ عَبۡدَنَاۤ أَیُّوبَ إِذۡ نَادَىٰ رَبَّهُۥۤ أَنِّی مَسَّنِیَ ٱلشَّیۡطَـٰنُ بِنُصۡبࣲ وَعَذَابٍ",
+      "tr": "ባሪያችንን አዩብንም አውሳላቸው፡፡ «እኔ ሰይጣን በጉዳትና በስቃይ ነካኝ» ሲል ጌታውን በተጣራ ጊዜ፡፡",
+      "la": "bariyachinini ayubinimi awisalachewi፡፡ «ine seyit’ani begudatina besik’ayi nekanyi» sili getawini betet’ara gize፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 42,
+      "ar": "ٱرۡكُضۡ بِرِجۡلِكَۖ هَـٰذَا مُغۡتَسَلُۢ بَارِدࣱ وَشَرَابࣱ",
+      "tr": "«በእግርህ (ምድርን) ምታ፡፡ ይህ ቀዝቃዛ መታጠቢያ መጠጥም ነው» (ተባለ)፡፡",
+      "la": "«be’igirihi (midirini) mita፡፡ yihi k’ezik’aza metat’ebiya met’et’imi newi» (tebale)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 43,
+      "ar": "وَوَهَبۡنَا لَهُۥۤ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةࣰ مِّنَّا وَذِكۡرَىٰ لِأُو۟لِی ٱلۡأَلۡبَـٰبِ",
+      "tr": "ለእርሱም ከእኛ ዘንድ ለችሮታ ባለአእምሮዎችንም ለመገሠጽ ቤተሰቦቹን ከእነርሱም ጋር መሰላቸውን ሰጠነው፡፡",
+      "la": "le’irisumi ke’inya zenidi lechirota bale’a’imirowochinimi lemegesets’i betesebochuni ke’inerisumi gari meselachewini set’enewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 44,
+      "ar": "وَخُذۡ بِیَدِكَ ضِغۡثࣰا فَٱضۡرِب بِّهِۦ وَلَا تَحۡنَثۡۗ إِنَّا وَجَدۡنَـٰهُ صَابِرࣰاۚ نِّعۡمَ ٱلۡعَبۡدُ إِنَّهُۥۤ أَوَّابࣱ",
+      "tr": "«በእጅህም ጭብጥ አርጩሜን ያዝ፡፡ በእርሱም (ሚስትህን) ምታ፡፡ ማላህንም አታፍርስ» (አልነው)፡፡ እኛ ታጋሸ ኾኖ አገኘነው፡፡ ምን ያምር ባሪያ እርሱ በጣም መላሳ ነው፡፡",
+      "la": "«be’ijihimi ch’ibit’i arich’umeni yazi፡፡ be’irisumi (misitihini) mita፡፡ malahinimi atafirisi» (alinewi)፡፡ inya tagashe hono agenyenewi፡፡ mini yamiri bariya irisu bet’ami melasa newi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 45,
+      "ar": "وَٱذۡكُرۡ عِبَـٰدَنَاۤ إِبۡرَ ٰهِیمَ وَإِسۡحَـٰقَ وَیَعۡقُوبَ أُو۟لِی ٱلۡأَیۡدِی وَٱلۡأَبۡصَـٰرِ",
+      "tr": "ባሮቻችንንም ኢብራሂምን፣ ኢስሐቅንና ያዕቆበንም፣ የኅይልና የማስተዋል ባለቤቶች የኾኑን አውሳላቸው፡፡",
+      "la": "barochachininimi ibirahimini፣ isihak’inina ya‘ik’obenimi፣ yehiyilina yemasitewali balebetochi yehonuni awisalachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 46,
+      "ar": "إِنَّاۤ أَخۡلَصۡنَـٰهُم بِخَالِصَةࣲ ذِكۡرَى ٱلدَّارِ",
+      "tr": "እኛ ጥሩ በኾነች ጠባይ መረጥናቸው፡፡ (እርሷም) የመጨረሻይቱን አገር ማስታወስ ናት፡፡",
+      "la": "inya t’iru behonechi t’ebayi meret’inachewi፡፡ (iriswami) yemech’ereshayituni ageri masitawesi nati፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 47,
+      "ar": "وَإِنَّهُمۡ عِندَنَا لَمِنَ ٱلۡمُصۡطَفَیۡنَ ٱلۡأَخۡیَارِ",
+      "tr": "እነርሱም እኛ ዘንድ ከመልካሞቹ ምርጦች ናቸው፡፡",
+      "la": "inerisumi inya zenidi kemelikamochu mirit’ochi nachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 48,
+      "ar": "وَٱذۡكُرۡ إِسۡمَـٰعِیلَ وَٱلۡیَسَعَ وَذَا ٱلۡكِفۡلِۖ وَكُلࣱّ مِّنَ ٱلۡأَخۡیَارِ",
+      "tr": "ኢስማዒልንም፣ አልየሰዕንም፣ ዙልኪፍልንም አውሳ፡፡ ሁሉም ከበላጮቹ ናቸው፡፡",
+      "la": "isima‘ilinimi፣ aliyese‘inimi፣ zulikifilinimi awisa፡፡ hulumi kebelach’ochu nachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 49,
+      "ar": "هَـٰذَا ذِكۡرࣱۚ وَإِنَّ لِلۡمُتَّقِینَ لَحُسۡنَ مَءَابࣲ",
+      "tr": "ይህ መልካም ዝና ነው፡፡ ለአላህ ፈሪዎችም በእርግጥ ውብ የኾነ መመለሻ አላቸው፡፡",
+      "la": "yihi melikami zina newi፡፡ le’alahi feriwochimi be’irigit’i wibi yehone memelesha alachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 50,
+      "ar": "جَنَّـٰتِ عَدۡنࣲ مُّفَتَّحَةࣰ لَّهُمُ ٱلۡأَبۡوَ ٰبُ",
+      "tr": "በሮቻቸው ለእነርሱ የተከፈቱ ሲኾኑ የመኖሪያ ገነቶች አሏቸው፡፡",
+      "la": "berochachewi le’inerisu yetekefetu sihonu yemenoriya genetochi alwachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 51,
+      "ar": "مُتَّكِءِینَ فِیهَا یَدۡعُونَ فِیهَا بِفَـٰكِهَةࣲ كَثِیرَةࣲ وَشَرَابࣲ",
+      "tr": "በእርሷ ውስጥ የተደገፉ ኾነው በውስጧ በብዙ እሸቶችና በመጠጥም ያዝዛሉ፡፡",
+      "la": "be’iriswa wisit’i yetedegefu honewi bewisit’wa bebizu ishetochina bemet’et’imi yazizalu፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 52,
+      "ar": "۞ وَعِندَهُمۡ قَـٰصِرَ ٰتُ ٱلطَّرۡفِ أَتۡرَابٌ",
+      "tr": "እነርሱ ዘንድም ዓይኖቻቸውን (በባሎቻቸው ላይ) አሳጣሪዎች እኩያዎች (ሴቶች) አልሉ፡፡",
+      "la": "inerisu zenidimi ‘ayinochachewini (bebalochachewi layi) asat’ariwochi ikuyawochi (setochi) alilu፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 53,
+      "ar": "هَـٰذَا مَا تُوعَدُونَ لِیَوۡمِ ٱلۡحِسَابِ",
+      "tr": "ይህ ለምርመራው ቀን የምትቀጠሩት ተሰፋ ነው፡፡",
+      "la": "yihi lemirimerawi k’eni yemitik’et’eruti tesefa newi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 54,
+      "ar": "إِنَّ هَـٰذَا لَرِزۡقُنَا مَا لَهُۥ مِن نَّفَادٍ",
+      "tr": "ይህ ሲሳያችን ነው፡፡ ለእርሱ ምንም ማለቅ የለውም፡፡",
+      "la": "yihi sisayachini newi፡፡ le’irisu minimi malek’i yelewimi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 55,
+      "ar": "هَـٰذَاۚ وَإِنَّ لِلطَّـٰغِینَ لَشَرَّ مَءَابࣲ",
+      "tr": "ይህ (ለአማኞች ነው)፡፡ ለጠማሞችም በጣም የከፋ መመለሻ አላቸው፡፡",
+      "la": "yihi (le’amanyochi newi)፡፡ let’emamochimi bet’ami yekefa memelesha alachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 56,
+      "ar": "جَهَنَّمَ یَصۡلَوۡنَهَا فَبِئۡسَ ٱلۡمِهَادُ",
+      "tr": "የሚገቧት ስትኾን ገሀነም (አለቻቸው)፡፡ ምንጣፊቱም ምንኛ ከፋች፡፡",
+      "la": "yemigebwati sitihoni gehanemi (alechachewi)፡፡ minit’afitumi mininya kefachi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 57,
+      "ar": "هَـٰذَا فَلۡیَذُوقُوهُ حَمِیمࣱ وَغَسَّاقࣱ",
+      "tr": "ይህ (ለከሓዲዎች ነው)፡፡ ይቅመሱትም፡፡ የፈላ ውሃና እዥ ነው፡፡",
+      "la": "yihi (lekehadiwochi newi)፡፡ yik’imesutimi፡፡ yefela wihana izhi newi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 58,
+      "ar": "وَءَاخَرُ مِن شَكۡلِهِۦۤ أَزۡوَ ٰجٌ",
+      "tr": "ሌላም ከመሰሉ ዓይነቶች አልሉ፡፡",
+      "la": "lelami kemeselu ‘ayinetochi alilu፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 59,
+      "ar": "هَـٰذَا فَوۡجࣱ مُّقۡتَحِمࣱ مَّعَكُمۡ لَا مَرۡحَبَۢا بِهِمۡۚ إِنَّهُمۡ صَالُوا۟ ٱلنَّارِ",
+      "tr": "ይህ ከእናንተ ጋር በመጋፈጥ ገቢ ጭፍራ ነው፤ (ይባላሉ)፡፡ ለእነርሱ አይስፋቸው፡፡ እነርሱ እሳትን ገቢዎች ናቸውና (ይላሉ)፡፡",
+      "la": "yihi ke’inanite gari bemegafet’i gebi ch’ifira newi፤ (yibalalu)፡፡ le’inerisu ayisifachewi፡፡ inerisu isatini gebiwochi nachewina (yilalu)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 60,
+      "ar": "قَالُوا۟ بَلۡ أَنتُمۡ لَا مَرۡحَبَۢا بِكُمۡۖ أَنتُمۡ قَدَّمۡتُمُوهُ لَنَاۖ فَبِئۡسَ ٱلۡقَرَارُ",
+      "tr": "(ተከታዮቹ) ይላሉ «ይልቁን እናንተ አይስፋችሁ፡፡ እናንተ (ክህደቱን) ለእኛ አቀረባችሁት፡፡ መርጊያይቱም (ገሀነም) ከፋች፡፡»",
+      "la": "(teketayochu) yilalu «yilik’uni inanite ayisifachihu፡፡ inanite (kihidetuni) le’inya ak’erebachihuti፡፡ merigiyayitumi (gehanemi) kefachi፡፡»"
+    },
+    {
+      "chapter": 38,
+      "verse": 61,
+      "ar": "قَالُوا۟ رَبَّنَا مَن قَدَّمَ لَنَا هَـٰذَا فَزِدۡهُ عَذَابࣰا ضِعۡفࣰا فِی ٱلنَّارِ",
+      "tr": "«ጌታችን ሆይ! ይህንን ያቀረበልንን ሰው በእሳት ውስጥ እጥፍን ቅጣት ጨምርለት» ይላሉ፡፡",
+      "la": "«getachini hoyi! yihinini yak’erebelinini sewi be’isati wisit’i it’ifini k’it’ati ch’emirileti» yilalu፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 62,
+      "ar": "وَقَالُوا۟ مَا لَنَا لَا نَرَىٰ رِجَالࣰا كُنَّا نَعُدُّهُم مِّنَ ٱلۡأَشۡرَارِ",
+      "tr": "ይላሉም «ለእኛ ምን አለን? ከመጥፎዎች እንቆጥራቸው የነበሩትን ሰዎች (እዚህ) አናይምሳ፡፡»",
+      "la": "yilalumi «le’inya mini aleni? kemet’ifowochi inik’ot’irachewi yeneberutini sewochi (izihi) anayimisa፡፡»"
+    },
+    {
+      "chapter": 38,
+      "verse": 63,
+      "ar": "أَتَّخَذۡنَـٰهُمۡ سِخۡرِیًّا أَمۡ زَاغَتۡ عَنۡهُمُ ٱلۡأَبۡصَـٰرُ",
+      "tr": "«መቀለጃ አድርገን ያዝናቸውን? ወይስ ዓይኖቻችን ከእነሱ ዋለሉ?»",
+      "la": "«mek’eleja adirigeni yazinachewini? weyisi ‘ayinochachini ke’inesu walelu?»"
+    },
+    {
+      "chapter": 38,
+      "verse": 64,
+      "ar": "إِنَّ ذَ ٰلِكَ لَحَقࣱّ تَخَاصُمُ أَهۡلِ ٱلنَّارِ",
+      "tr": "ይህ በእርግጥ እምነት ነው፡፡ (እርሱም) የእሳት ሰዎች (የእርስ በእርስ) መካሰስ ነው፡፡",
+      "la": "yihi be’irigit’i imineti newi፡፡ (irisumi) ye’isati sewochi (ye’irisi be’irisi) mekasesi newi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 65,
+      "ar": "قُلۡ إِنَّمَاۤ أَنَا۠ مُنذِرࣱۖ وَمَا مِنۡ إِلَـٰهٍ إِلَّا ٱللَّهُ ٱلۡوَ ٰحِدُ ٱلۡقَهَّارُ",
+      "tr": "«እኔ አስፈራሪ ብቻ ነኝ፡፡ ኀያል አንድ ከኾነው አላህ በቀር ምንም አምላክ የለም» በላቸው፡፡",
+      "la": "«ine asiferari bicha nenyi፡፡ hayali anidi kehonewi alahi bek’eri minimi amilaki yelemi» belachewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 66,
+      "ar": "رَبُّ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَا ٱلۡعَزِیزُ ٱلۡغَفَّـٰرُ",
+      "tr": "«የሰማያትና የምድር በመካከላቸውም ያለው ሁሉ ጌታ አሸናፊው መሓሪው ነው፡፡»",
+      "la": "«yesemayatina yemidiri bemekakelachewimi yalewi hulu geta ashenafiwi mehariwi newi፡፡»"
+    },
+    {
+      "chapter": 38,
+      "verse": 67,
+      "ar": "قُلۡ هُوَ نَبَؤٌا۟ عَظِیمٌ",
+      "tr": "በላቸው «እርሱ (ቁርኣን) ታላቅ ዜና ነው፡፡",
+      "la": "belachewi «irisu (k’uri’ani) talak’i zena newi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 68,
+      "ar": "أَنتُمۡ عَنۡهُ مُعۡرِضُونَ",
+      "tr": "«እናንተ ከእርሱ ዘንጊዎች ናችሁ፡፡",
+      "la": "«inanite ke’irisu zenigiwochi nachihu፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 69,
+      "ar": "مَا كَانَ لِیَ مِنۡ عِلۡمِۭ بِٱلۡمَلَإِ ٱلۡأَعۡلَىٰۤ إِذۡ یَخۡتَصِمُونَ",
+      "tr": "(በአደም ነገር) «በሚከራከሩ ጊዜ በላይኛው ሰራዊት ለእኔ ምንም ዕውቀት አልነበረኝም፡፡",
+      "la": "(be’ademi negeri) «bemikerakeru gize belayinyawi serawiti le’ine minimi ‘iwik’eti alineberenyimi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 70,
+      "ar": "إِن یُوحَىٰۤ إِلَیَّ إِلَّاۤ أَنَّمَاۤ أَنَا۠ نَذِیرࣱ مُّبِینٌ",
+      "tr": "«ወደእኔም አስፈራሪ ገላጭ መኾኔ እንጂ ሌላ አይወረድልኝም» (በል)፡፡",
+      "la": "«wede’inemi asiferari gelach’i mehone iniji lela ayiweredilinyimi» (beli)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 71,
+      "ar": "إِذۡ قَالَ رَبُّكَ لِلۡمَلَـٰۤئِكَةِ إِنِّی خَـٰلِقُۢ بَشَرࣰا مِّن طِینࣲ",
+      "tr": "ጌታህ «ለመላእክት እኔ ሰውን ከጭቃ ፈጣሪ ነኝ ባለ ጊዜ» (አስታውስ)፡፡",
+      "la": "getahi «lemela’ikiti ine sewini kech’ik’a fet’ari nenyi bale gize» (asitawisi)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 72,
+      "ar": "فَإِذَا سَوَّیۡتُهُۥ وَنَفَخۡتُ فِیهِ مِن رُّوحِی فَقَعُوا۟ لَهُۥ سَـٰجِدِینَ",
+      "tr": "«ፍጥረቱንም ባስተካከልኩና ከመንፈሴ በነፋሁበት ጊዜ ለእርሱ ሰጋጆች ኾናችሁ ውደቁ» (አልኩ)፡፡",
+      "la": "«fit’iretunimi basitekakelikuna kemenifese benefahubeti gize le’irisu segajochi honachihu widek’u» (aliku)፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 73,
+      "ar": "فَسَجَدَ ٱلۡمَلَـٰۤئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ",
+      "tr": "መላእክትም መላውም ባንድነት ሰገዱ፡፡",
+      "la": "mela’ikitimi melawimi banidineti segedu፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 74,
+      "ar": "إِلَّاۤ إِبۡلِیسَ ٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَـٰفِرِینَ",
+      "tr": "ኢብሊስ ብቻ ሲቀር፡፡ ኮራ፤ ከከሓዲዎቹም ነበር፡፡",
+      "la": "ibilisi bicha sik’eri፡፡ kora፤ kekehadiwochumi neberi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 75,
+      "ar": "قَالَ یَـٰۤإِبۡلِیسُ مَا مَنَعَكَ أَن تَسۡجُدَ لِمَا خَلَقۡتُ بِیَدَیَّۖ أَسۡتَكۡبَرۡتَ أَمۡ كُنتَ مِنَ ٱلۡعَالِینَ",
+      "tr": "(አላህም) «ኢብሊስ ሆይ! በሁለት እጆቼ (በኃይሌ) ለፈጠርኩት ከመስገድ ምን ከለከለህ? (አሁን) ኮራህን? ወይስ (ፊቱኑ) ከትዕቢተኞቹ ነበርክ?» አለው፡፡",
+      "la": "(alahimi) «ibilisi hoyi! behuleti ijoche (behayile) lefet’erikuti kemesigedi mini kelekelehi? (ahuni) korahini? weyisi (fitunu) keti‘ibitenyochu neberiki?» alewi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 76,
+      "ar": "قَالَ أَنَا۠ خَیۡرࣱ مِّنۡهُ خَلَقۡتَنِی مِن نَّارࣲ وَخَلَقۡتَهُۥ مِن طِینࣲ",
+      "tr": "«እኔ ከእርሱ በላጭ ነኝ፡፡ ከእሳት ፈጠርከኝ፤ ከጭቃም ፈጠርከው» አለ፡፡",
+      "la": "«ine ke’irisu belach’i nenyi፡፡ ke’isati fet’erikenyi፤ kech’ik’ami fet’erikewi» ale፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 77,
+      "ar": "قَالَ فَٱخۡرُجۡ مِنۡهَا فَإِنَّكَ رَجِیمࣱ",
+      "tr": "(አላህ) አለው «ከእርሷ ውጣ፤ አንተ የተባረርክ ነህና፡፡»",
+      "la": "(alahi) alewi «ke’iriswa wit’a፤ anite yetebareriki nehina፡፡»"
+    },
+    {
+      "chapter": 38,
+      "verse": 78,
+      "ar": "وَإِنَّ عَلَیۡكَ لَعۡنَتِیۤ إِلَىٰ یَوۡمِ ٱلدِّینِ",
+      "tr": "«እርግማኔም እስከ ፍርዱ ቀን ድረስ ባንተ ላይ ይኹን፡፡»",
+      "la": "«irigimanemi isike firidu k’eni diresi banite layi yihuni፡፡»"
+    },
+    {
+      "chapter": 38,
+      "verse": 79,
+      "ar": "قَالَ رَبِّ فَأَنظِرۡنِیۤ إِلَىٰ یَوۡمِ یُبۡعَثُونَ",
+      "tr": "«ጌታዬ ሆይ! እስከሚቀሰቀሱበት ቀን ድረስ አቆየኝም» አለ፡፡",
+      "la": "«getaye hoyi! isikemik’esek’esubeti k’eni diresi ak’oyenyimi» ale፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 80,
+      "ar": "قَالَ فَإِنَّكَ مِنَ ٱلۡمُنظَرِینَ",
+      "tr": "(አላህም) አለው «አንተ ከሚቆዩት ነህ፡፡»",
+      "la": "(alahimi) alewi «anite kemik’oyuti nehi፡፡»"
+    },
+    {
+      "chapter": 38,
+      "verse": 81,
+      "ar": "إِلَىٰ یَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ",
+      "tr": "«እስከ ታወቀው ወቅት ቀን ድረስ፡፡»",
+      "la": "«isike tawek’ewi wek’iti k’eni diresi፡፡»"
+    },
+    {
+      "chapter": 38,
+      "verse": 82,
+      "ar": "قَالَ فَبِعِزَّتِكَ لَأُغۡوِیَنَّهُمۡ أَجۡمَعِینَ",
+      "tr": "(እርሱም) አለ «በአሸናፊነትህ ይኹንብኝ፤ በመላ አሳስታቸዋለሁ፡፡»",
+      "la": "(irisumi) ale «be’ashenafinetihi yihunibinyi፤ bemela asasitachewalehu፡፡»"
+    },
+    {
+      "chapter": 38,
+      "verse": 83,
+      "ar": "إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِینَ",
+      "tr": "«ከእነርሱ ምርጥ የኾኑት ባሮችህ ብቻ ሲቀሩ፡፡»",
+      "la": "«ke’inerisu mirit’i yehonuti barochihi bicha sik’eru፡፡»"
+    },
+    {
+      "chapter": 38,
+      "verse": 84,
+      "ar": "قَالَ فَٱلۡحَقُّ وَٱلۡحَقَّ أَقُولُ",
+      "tr": "(አላህ) አለው «እውነቱም (ከኔ ነው)፡፡ እውነትንም እላለሁ፡፡",
+      "la": "(alahi) alewi «iwinetumi (kene newi)፡፡ iwinetinimi ilalehu፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 85,
+      "ar": "لَأَمۡلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنۡهُمۡ أَجۡمَعِینَ",
+      "tr": "ከአንተና ከእነርሱ ውስጥ ከተከተሉህ ባንድ ላይ ገሀነምን በእርግጥ እሞላታለሁ፡፡»",
+      "la": "ke’anitena ke’inerisu wisit’i keteketeluhi banidi layi gehanemini be’irigit’i imolatalehu፡፡»"
+    },
+    {
+      "chapter": 38,
+      "verse": 86,
+      "ar": "قُلۡ مَاۤ أَسۡءَلُكُمۡ عَلَیۡهِ مِنۡ أَجۡرࣲ وَمَاۤ أَنَا۠ مِنَ ٱلۡمُتَكَلِّفِینَ",
+      "tr": "በላቸው «በእርሱ ላይ ምንም ዋጋ አልጠይቃችሁም፤ እኔም ከተግደርዳሪዎቹ አይደለሁም፡፡",
+      "la": "belachewi «be’irisu layi minimi waga alit’eyik’achihumi፤ inemi ketegideridariwochu ayidelehumi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 87,
+      "ar": "إِنۡ هُوَ إِلَّا ذِكۡرࣱ لِّلۡعَـٰلَمِینَ",
+      "tr": "«እርሱ (ቁርኣን) ለዓለማት መገሠጫ እንጂ ሌላ አይደለም፡፡",
+      "la": "«irisu (k’uri’ani) le‘alemati megesech’a iniji lela ayidelemi፡፡"
+    },
+    {
+      "chapter": 38,
+      "verse": 88,
+      "ar": "وَلَتَعۡلَمُنَّ نَبَأَهُۥ بَعۡدَ حِینِۭ",
+      "tr": "«ትንቢቱንም (እውነት መኾኑን) ከጊዜ በኋላ በእርግጥ ታውቁታላችሁ፡፡»",
+      "la": "«tinibitunimi (iwineti mehonuni) kegize behwala be’irigit’i tawik’utalachihu፡፡»"
+    },
+    {
+      "chapter": 39,
+      "verse": 1,
+      "ar": "تَنزِیلُ ٱلۡكِتَـٰبِ مِنَ ٱللَّهِ ٱلۡعَزِیزِ ٱلۡحَكِیمِ",
+      "tr": "የመጽሐፉ መወረድ አሸናፊው ጥበበኛው ከኾነው አላህ ነው፡፡",
+      "la": "yemets’ihafu meweredi ashenafiwi t’ibebenyawi kehonewi alahi newi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 2,
+      "ar": "إِنَّاۤ أَنزَلۡنَاۤ إِلَیۡكَ ٱلۡكِتَـٰبَ بِٱلۡحَقِّ فَٱعۡبُدِ ٱللَّهَ مُخۡلِصࣰا لَّهُ ٱلدِّینَ",
+      "tr": "እኛ ወደ አንተ መጽሐፉን በእውነት (የተመላ) ሲኾን አወረድነው፡፡ አላህንም ሃይማኖትን ለእርሱ ብቻ ያጠራህ ኾነህ ተገዛው፡፡",
+      "la": "inya wede anite mets’ihafuni be’iwineti (yetemela) sihoni aweredinewi፡፡ alahinimi hayimanotini le’irisu bicha yat’erahi honehi tegezawi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 3,
+      "ar": "أَلَا لِلَّهِ ٱلدِّینُ ٱلۡخَالِصُۚ وَٱلَّذِینَ ٱتَّخَذُوا۟ مِن دُونِهِۦۤ أَوۡلِیَاۤءَ مَا نَعۡبُدُهُمۡ إِلَّا لِیُقَرِّبُونَاۤ إِلَى ٱللَّهِ زُلۡفَىٰۤ إِنَّ ٱللَّهَ یَحۡكُمُ بَیۡنَهُمۡ فِی مَا هُمۡ فِیهِ یَخۡتَلِفُونَۗ إِنَّ ٱللَّهَ لَا یَهۡدِی مَنۡ هُوَ كَـٰذِبࣱ كَفَّارࣱ",
+      "tr": "ንቁ! ፍጹም ጥሩ የኾነው ሃይማኖት የአላህ ብቻ ነው፡፡ እነዚያም ከእርሱ ሌላ (ጣዖታትን) ረዳቶች የያዙት «ወደ አላህ ማቃረብን እንዲያቀርቡን እንጅ ለሌላ አንገዛቸውም» (ይላሉ)፡፡ አላህ በዚያ እነርሱ በእርሱ በሚለያዩበት ነገር በመካከላቸው ይፈርዳል፡፡ አላህ እርሱ ውሸታም ከሓዲ የኾነን ሰው አያቀናም፡፡",
+      "la": "nik’u! fits’umi t’iru yehonewi hayimanoti ye’alahi bicha newi፡፡ ineziyami ke’irisu lela (t’a‘otatini) redatochi yeyazuti «wede alahi mak’arebini inidiyak’eribuni iniji lelela anigezachewimi» (yilalu)፡፡ alahi beziya inerisu be’irisu bemileyayubeti negeri bemekakelachewi yiferidali፡፡ alahi irisu wishetami kehadi yehoneni sewi ayak’enami፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 4,
+      "ar": "لَّوۡ أَرَادَ ٱللَّهُ أَن یَتَّخِذَ وَلَدࣰا لَّٱصۡطَفَىٰ مِمَّا یَخۡلُقُ مَا یَشَاۤءُۚ سُبۡحَـٰنَهُۥۖ هُوَ ٱللَّهُ ٱلۡوَ ٰحِدُ ٱلۡقَهَّارُ",
+      "tr": "አላህ ልጅን መያዝ በፈለገ ኖሮ ከሚፈጥረው ውስጥ የሚሻውን ይመርጥ ነበር፡፡ ጥራት ተገባው፡፡ እርሱ አሸናፊው አንዱ አላህ ነው፡፡",
+      "la": "alahi lijini meyazi befelege noro kemifet’irewi wisit’i yemishawini yimerit’i neberi፡፡ t’irati tegebawi፡፡ irisu ashenafiwi anidu alahi newi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 5,
+      "ar": "خَلَقَ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۖ یُكَوِّرُ ٱلَّیۡلَ عَلَى ٱلنَّهَارِ وَیُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّیۡلِۖ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلࣱّ یَجۡرِی لِأَجَلࣲ مُّسَمًّىۗ أَلَا هُوَ ٱلۡعَزِیزُ ٱلۡغَفَّـٰرُ",
+      "tr": "ሰማያትንና ምድርን በእወነት ፈጠረ፡፡ ሌሊትን በቀን ላይ ይጠቀልላል፡፡ ቀንንም በሌሊት ላይ ይጠቀልላል፤ ፀሐይንና ጨረቃንም ገራ፡፡ ሁሉም ለተወሰነ ጊዜ ይሮጣሉ፡፡ ንቁ! እርሱ አሸናፊው መሓሪው ነው፡፡",
+      "la": "semayatinina midirini be’iweneti fet’ere፡፡ lelitini bek’eni layi yit’ek’elilali፡፡ k’eninimi beleliti layi yit’ek’elilali፤ ts’ehayinina ch’erek’animi gera፡፡ hulumi letewesene gize yirot’alu፡፡ nik’u! irisu ashenafiwi mehariwi newi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 6,
+      "ar": "خَلَقَكُم مِّن نَّفۡسࣲ وَ ٰحِدَةࣲ ثُمَّ جَعَلَ مِنۡهَا زَوۡجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلۡأَنۡعَـٰمِ ثَمَـٰنِیَةَ أَزۡوَ ٰجࣲۚ یَخۡلُقُكُمۡ فِی بُطُونِ أُمَّهَـٰتِكُمۡ خَلۡقࣰا مِّنۢ بَعۡدِ خَلۡقࣲ فِی ظُلُمَـٰتࣲ ثَلَـٰثࣲۚ ذَ ٰلِكُمُ ٱللَّهُ رَبُّكُمۡ لَهُ ٱلۡمُلۡكُۖ لَاۤ إِلَـٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُصۡرَفُونَ",
+      "tr": "ከአንዲት ነፍስ ፈጠራችሁ፡፡ ከዚያም ከእርሷ መቀናጆዋን አደረገ፡፡ ለእናንተም ከግመልና ከከብት፣ ከፍየል፣ ከበግ ስምንት ዓይነቶችን (ወንድና ሴት) አወረደ፡፡ በእናቶቻችሁ ሆዶች ውስጥ በሦስት ጨለማዎች ውስጥ ከመፍጠር በኋላ (ሙሉ) መፍጠርን ይፈጠራችኋል፡፡ ይህ ጌታችሁ አላህ ነው፡፡ ስልጣኑ የርሱ ብቻ ነው፡፡ ከእርሱ ሌላ አምላክ የለም፡፡ ታዲያ ወዴት ትዞራላችሁ፡፡",
+      "la": "ke’aniditi nefisi fet’erachihu፡፡ keziyami ke’iriswa mek’enajowani aderege፡፡ le’inanitemi kegimelina kekebiti፣ kefiyeli፣ kebegi siminiti ‘ayinetochini (wenidina seti) awerede፡፡ be’inatochachihu hodochi wisit’i besositi ch’elemawochi wisit’i kemefit’eri behwala (mulu) mefit’erini yifet’erachihwali፡፡ yihi getachihu alahi newi፡፡ silit’anu yerisu bicha newi፡፡ ke’irisu lela amilaki yelemi፡፡ tadiya wedeti tizoralachihu፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 7,
+      "ar": "إِن تَكۡفُرُوا۟ فَإِنَّ ٱللَّهَ غَنِیٌّ عَنكُمۡۖ وَلَا یَرۡضَىٰ لِعِبَادِهِ ٱلۡكُفۡرَۖ وَإِن تَشۡكُرُوا۟ یَرۡضَهُ لَكُمۡۗ وَلَا تَزِرُ وَازِرَةࣱ وِزۡرَ أُخۡرَىٰۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرۡجِعُكُمۡ فَیُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَۚ إِنَّهُۥ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ",
+      "tr": "ብትክዱ አላህ ከእናንተ የተብቃቃ ነው፡፡ ለባሪያዎቹም ከህደትን አይወድም፡፡ ብታመሰግኑም፤ እርሱን ይወድላችኋል፡፡ ማንኛይቱም ኃጢኣትን ተሸካሚ ነፍስ የሌላይቱን ኃጢኣት አትሸከምም፡፡ ከዚያም መመለሻችሁ ወደ ጌታችሁ ነው፡፡ ትሠሩት የነበራችሁትንም ይነግራችኋል፡፡ እርሱ በልቦች ውስጥ ያሉትን ዐዋቂ ነውና፡፡",
+      "la": "bitikidu alahi ke’inanite yetebik’ak’a newi፡፡ lebariyawochumi kehidetini ayiwedimi፡፡ bitameseginumi፤ irisuni yiwedilachihwali፡፡ maninyayitumi hat’i’atini teshekami nefisi yelelayituni hat’i’ati atishekemimi፡፡ keziyami memeleshachihu wede getachihu newi፡፡ tiseruti yeneberachihutinimi yinegirachihwali፡፡ irisu belibochi wisit’i yalutini ‘awak’i newina፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 8,
+      "ar": "۞ وَإِذَا مَسَّ ٱلۡإِنسَـٰنَ ضُرࣱّ دَعَا رَبَّهُۥ مُنِیبًا إِلَیۡهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعۡمَةࣰ مِّنۡهُ نَسِیَ مَا كَانَ یَدۡعُوۤا۟ إِلَیۡهِ مِن قَبۡلُ وَجَعَلَ لِلَّهِ أَندَادࣰا لِّیُضِلَّ عَن سَبِیلِهِۦۚ قُلۡ تَمَتَّعۡ بِكُفۡرِكَ قَلِیلًا إِنَّكَ مِنۡ أَصۡحَـٰبِ ٱلنَّارِ",
+      "tr": "ሰውንም ጉዳት ባገኘው ጊዜ ጌታውን ወደርሱ ተመላሽ ኾኖ ይጠራል፡፡ ከዚያም ከእርሱ ዘንድ ጸጋን በሰጠው ጊዜ ያንን ከዚያ በፊት ወደርሱ ይጸልይበት የነበረውን (መከራ) ይረሳል፡፡ ከመንገዱ ለማሳሳትም ለአላህ ባላንጣዎችን ያደርጋል፡፡ «በክህደትህ ጥቂትን ተጣቀም፡፡ አንተ በእርግጥ ከእሳት ጓዶች ነህ» በለው፡፡",
+      "la": "sewinimi gudati bagenyewi gize getawini wederisu temelashi hono yit’erali፡፡ keziyami ke’irisu zenidi ts’egani beset’ewi gize yanini keziya befiti wederisu yits’eliyibeti yeneberewini (mekera) yiresali፡፡ kemenigedu lemasasatimi le’alahi balanit’awochini yaderigali፡፡ «bekihidetihi t’ik’itini tet’ak’emi፡፡ anite be’irigit’i ke’isati gwadochi nehi» belewi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 9,
+      "ar": "أَمَّنۡ هُوَ قَـٰنِتٌ ءَانَاۤءَ ٱلَّیۡلِ سَاجِدࣰا وَقَاۤئِمࣰا یَحۡذَرُ ٱلۡءَاخِرَةَ وَیَرۡجُوا۟ رَحۡمَةَ رَبِّهِۦۗ قُلۡ هَلۡ یَسۡتَوِی ٱلَّذِینَ یَعۡلَمُونَ وَٱلَّذِینَ لَا یَعۡلَمُونَۗ إِنَّمَا یَتَذَكَّرُ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ",
+      "tr": "እርሱ የመጨረሻይቱን ዓለም (ቅጣት) የሚፈራ የጌታውንም ችሮታ የሚከጅል ሲኾን በሌሊት ሰዓቶች ሰጋጅና ቋሚ ኾኖ ለጌታው የሚግገዛ ሰው (እንደ ተስፋ ቢሱ ከሓዲ ነውን? በለው)፡፡ «እነዚያ የሚያውቁና እነዚያ የማያውቁ ይስተካከላሉን?» በላቸው፡፡ የሚገነዘቡት ባለ አእምሮዎቹ ብቻ ናቸው፡፡",
+      "la": "irisu yemech’ereshayituni ‘alemi (k’it’ati) yemifera yegetawinimi chirota yemikejili sihoni beleliti se‘atochi segajina k’wami hono legetawi yemigigeza sewi (inide tesifa bisu kehadi newini? belewi)፡፡ «ineziya yemiyawik’una ineziya yemayawik’u yisitekakelaluni?» belachewi፡፡ yemigenezebuti bale a’imirowochu bicha nachewi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 10,
+      "ar": "قُلۡ یَـٰعِبَادِ ٱلَّذِینَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمۡۚ لِلَّذِینَ أَحۡسَنُوا۟ فِی هَـٰذِهِ ٱلدُّنۡیَا حَسَنَةࣱۗ وَأَرۡضُ ٱللَّهِ وَ ٰسِعَةٌۗ إِنَّمَا یُوَفَّى ٱلصَّـٰبِرُونَ أَجۡرَهُم بِغَیۡرِ حِسَابࣲ",
+      "tr": "(ጌታችሁ) «እናንተ ያመናችሁ ባሮቼ ሆይ! ጌታችሁን ፍሩ፡፡ ለነዚያ በዚህች በቅርቢቱ ዓለም መልካም ለሠሩት መልካም ምንዳ አላቸው፡፡ የአላህ ምድርም ሰፊ ናት፤ (ብትቸገሩ ተሰደዱ)፡፡ ታጋሾቹ ምንዳቸውን የሚሰጡት ያለግምት ነው» (ይላል) በላቸው፡፡",
+      "la": "(getachihu) «inanite yamenachihu baroche hoyi! getachihuni firu፡፡ leneziya bezihichi bek’iribitu ‘alemi melikami leseruti melikami minida alachewi፡፡ ye’alahi midirimi sefi nati፤ (bitichegeru tesededu)፡፡ tagashochu minidachewini yemiset’uti yalegimiti newi» (yilali) belachewi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 11,
+      "ar": "قُلۡ إِنِّیۤ أُمِرۡتُ أَنۡ أَعۡبُدَ ٱللَّهَ مُخۡلِصࣰا لَّهُ ٱلدِّینَ",
+      "tr": "በል «እኔ አላህን ሃይማኖትን ለርሱ ያጠራሁ ኾኜ እንድግገዛው ታዘዝኩ፡፡",
+      "la": "beli «ine alahini hayimanotini lerisu yat’erahu honye inidigigezawi tazeziku፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 12,
+      "ar": "وَأُمِرۡتُ لِأَنۡ أَكُونَ أَوَّلَ ٱلۡمُسۡلِمِینَ",
+      "tr": "«የሙስሊሞችም መጀመሪያ እንድኾን ታዘዝኩ፡፡»",
+      "la": "«yemusilimochimi mejemeriya inidihoni tazeziku፡፡»"
+    },
+    {
+      "chapter": 39,
+      "verse": 13,
+      "ar": "قُلۡ إِنِّیۤ أَخَافُ إِنۡ عَصَیۡتُ رَبِّی عَذَابَ یَوۡمٍ عَظِیمࣲ",
+      "tr": "«እኔ ከጌታዬ ባምጽ የታላቁን ቀን ቅጣት እፈራለሁ» በል፡፡",
+      "la": "«ine kegetaye bamits’i yetalak’uni k’eni k’it’ati iferalehu» beli፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 14,
+      "ar": "قُلِ ٱللَّهَ أَعۡبُدُ مُخۡلِصࣰا لَّهُۥ دِینِی",
+      "tr": "አላህን «ሃይማኖቴን ለእርሱ ያጠራሁ ኾኜ እግገዛዋለሁ» በል፡፡",
+      "la": "alahini «hayimanoteni le’irisu yat’erahu honye igigezawalehu» beli፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 15,
+      "ar": "فَٱعۡبُدُوا۟ مَا شِئۡتُم مِّن دُونِهِۦۗ قُلۡ إِنَّ ٱلۡخَـٰسِرِینَ ٱلَّذِینَ خَسِرُوۤا۟ أَنفُسَهُمۡ وَأَهۡلِیهِمۡ یَوۡمَ ٱلۡقِیَـٰمَةِۗ أَلَا ذَ ٰلِكَ هُوَ ٱلۡخُسۡرَانُ ٱلۡمُبِینُ",
+      "tr": "«ከእርሱ ሌላ የሻችሁትን ተገዙ፡፡ ከሳሪዎች ማለት እነዚያ በትንሣኤ ቀን ነፍሶቻቸውንና ቤተሰቦቻቸውን ያከሰሩ ናቸው፡፡ ንቁ! ይህ እርሱ ግልጽ ከሳራ ነው» በላቸው፡፡",
+      "la": "«ke’irisu lela yeshachihutini tegezu፡፡ kesariwochi maleti ineziya betinisa’e k’eni nefisochachewinina betesebochachewini yakeseru nachewi፡፡ nik’u! yihi irisu gilits’i kesara newi» belachewi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 16,
+      "ar": "لَهُم مِّن فَوۡقِهِمۡ ظُلَلࣱ مِّنَ ٱلنَّارِ وَمِن تَحۡتِهِمۡ ظُلَلࣱۚ ذَ ٰلِكَ یُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥۚ یَـٰعِبَادِ فَٱتَّقُونِ",
+      "tr": "ለእነርሱ ከበላያቸው ከእሳት የኾኑ (ድርብርብ) ጥላዎች አልሏቸው፡፡ ከበታቻቸውም ጥላዎች አልሏቸው። ይህ አላህ ባሮቹን (እንዲጠነቀቁ) በእርሱ ያስፈራራበታል፡፡ «ባሮቼ ሆይ! ስለዚህ ፍሩኝ፡፡»",
+      "la": "le’inerisu kebelayachewi ke’isati yehonu (diribiribi) t’ilawochi alilwachewi፡፡ kebetachachewimi t’ilawochi alilwachewi። yihi alahi barochuni (inidit’enek’ek’u) be’irisu yasiferarabetali፡፡ «baroche hoyi! silezihi firunyi፡፡»"
+    },
+    {
+      "chapter": 39,
+      "verse": 17,
+      "ar": "وَٱلَّذِینَ ٱجۡتَنَبُوا۟ ٱلطَّـٰغُوتَ أَن یَعۡبُدُوهَا وَأَنَابُوۤا۟ إِلَى ٱللَّهِ لَهُمُ ٱلۡبُشۡرَىٰۚ فَبَشِّرۡ عِبَادِ",
+      "tr": "እነዚያም ጣዖታትን የሚግገዟት ከመኾን የራቁ ወደ አላህም የዞሩ ለእነርሱ ብስራት አልላቸው፡፡ ስለዚህ ባሮቼን አብስር፡፡",
+      "la": "ineziyami t’a‘otatini yemigigezwati kemehoni yerak’u wede alahimi yezoru le’inerisu bisirati alilachewi፡፡ silezihi barocheni abisiri፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 18,
+      "ar": "ٱلَّذِینَ یَسۡتَمِعُونَ ٱلۡقَوۡلَ فَیَتَّبِعُونَ أَحۡسَنَهُۥۤۚ أُو۟لَـٰۤئِكَ ٱلَّذِینَ هَدَىٰهُمُ ٱللَّهُۖ وَأُو۟لَـٰۤئِكَ هُمۡ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ",
+      "tr": "እነዚያን ንግግርን የሚያዳምጡትንና መልካሙን የሚከተሉትን (አብስር)፡፡ እነዚያ እነርሱ አላህ የመራቸው ናቸው፡፡ እነዚያም እነርሱ ባለአእምሮዎቹ ናቸው፡፡",
+      "la": "ineziyani nigigirini yemiyadamit’utinina melikamuni yemiketelutini (abisiri)፡፡ ineziya inerisu alahi yemerachewi nachewi፡፡ ineziyami inerisu bale’a’imirowochu nachewi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 19,
+      "ar": "أَفَمَنۡ حَقَّ عَلَیۡهِ كَلِمَةُ ٱلۡعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِی ٱلنَّارِ",
+      "tr": "በእርሱ ላይ የቅጣት ቃል የተረጋገጠችበትን ሰው (ትመራዋለህን?) አንተ በእሳት ውስጥ ያለን ሰው ታድናለህን",
+      "la": "be’irisu layi yek’it’ati k’ali yeteregaget’echibetini sewi (timerawalehini?) anite be’isati wisit’i yaleni sewi tadinalehini"
+    },
+    {
+      "chapter": 39,
+      "verse": 20,
+      "ar": "لَـٰكِنِ ٱلَّذِینَ ٱتَّقَوۡا۟ رَبَّهُمۡ لَهُمۡ غُرَفࣱ مِّن فَوۡقِهَا غُرَفࣱ مَّبۡنِیَّةࣱ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُۖ وَعۡدَ ٱللَّهِ لَا یُخۡلِفُ ٱللَّهُ ٱلۡمِیعَادَ",
+      "tr": "ግን እነዚያ ጌታቸውን የፈሩ ለእነርሱ ከበላያቸው የታነጹ ሰገነቶች ያሏቸው ሰገነቶች ከስሮቻቸው ወንዞች የሚፈሱባቸው የኾኑ አልሏቸው፡፡ (ይህንን) አላህ ቃል ገባላቸው፡፡ አላህ ቃሉን አያፈርስም፡፡",
+      "la": "gini ineziya getachewini yeferu le’inerisu kebelayachewi yetanets’u segenetochi yalwachewi segenetochi kesirochachewi wenizochi yemifesubachewi yehonu alilwachewi፡፡ (yihinini) alahi k’ali gebalachewi፡፡ alahi k’aluni ayaferisimi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 21,
+      "ar": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَاۤءِ مَاۤءࣰ فَسَلَكَهُۥ یَنَـٰبِیعَ فِی ٱلۡأَرۡضِ ثُمَّ یُخۡرِجُ بِهِۦ زَرۡعࣰا مُّخۡتَلِفًا أَلۡوَ ٰنُهُۥ ثُمَّ یَهِیجُ فَتَرَىٰهُ مُصۡفَرࣰّا ثُمَّ یَجۡعَلُهُۥ حُطَـٰمًاۚ إِنَّ فِی ذَ ٰلِكَ لَذِكۡرَىٰ لِأُو۟لِی ٱلۡأَلۡبَـٰبِ",
+      "tr": "አላህ ከሰማይ ውሃን እንዳወረደና በምድርም ውስጥ ምንጮች አድርጎ እንዳስገባው አላየህምን? ከዚያም በእርሱ ዓይነቶቹ የተለያዩን አዝመራ ያወጣል፡፡ ከዚያም ይደርቃል፡፡ ገርጥቶም ታየዋለህ፡፡ ከዚያም ስብርብር ያደርገዋል፡፡ በዚህ ውስጥ ለባለ አእምሮዎች ግሣጼ አለበት፡፡",
+      "la": "alahi kesemayi wihani inidaweredena bemidirimi wisit’i minich’ochi adirigo inidasigebawi alayehimini? keziyami be’irisu ‘ayinetochu yeteleyayuni azimera yawet’ali፡፡ keziyami yiderik’ali፡፡ gerit’itomi tayewalehi፡፡ keziyami sibiribiri yaderigewali፡፡ bezihi wisit’i lebale a’imirowochi gisats’e alebeti፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 22,
+      "ar": "أَفَمَن شَرَحَ ٱللَّهُ صَدۡرَهُۥ لِلۡإِسۡلَـٰمِ فَهُوَ عَلَىٰ نُورࣲ مِّن رَّبِّهِۦۚ فَوَیۡلࣱ لِّلۡقَـٰسِیَةِ قُلُوبُهُم مِّن ذِكۡرِ ٱللَّهِۚ أُو۟لَـٰۤئِكَ فِی ضَلَـٰلࣲ مُّبِینٍ",
+      "tr": "አላህ ደረቱን ለእስልምና ያስፋለትና እርሱም ከጌታው ዘንድ በብርሃን ላይ የኾነ ሰው (ልቡ እንደ ደረቀ ሰው ነውን?) ልቦቻቸውም ከአላህ መወሳት ለደረቁ ሰዎች ወዮላቸው፡፡ እነዚያ በግልጽ መሳሳት ውስጥ ናቸው፡፡",
+      "la": "alahi deretuni le’isilimina yasifaletina irisumi kegetawi zenidi bebirihani layi yehone sewi (libu inide derek’e sewi newini?) libochachewimi ke’alahi mewesati lederek’u sewochi weyolachewi፡፡ ineziya begilits’i mesasati wisit’i nachewi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 23,
+      "ar": "ٱللَّهُ نَزَّلَ أَحۡسَنَ ٱلۡحَدِیثِ كِتَـٰبࣰا مُّتَشَـٰبِهࣰا مَّثَانِیَ تَقۡشَعِرُّ مِنۡهُ جُلُودُ ٱلَّذِینَ یَخۡشَوۡنَ رَبَّهُمۡ ثُمَّ تَلِینُ جُلُودُهُمۡ وَقُلُوبُهُمۡ إِلَىٰ ذِكۡرِ ٱللَّهِۚ ذَ ٰلِكَ هُدَى ٱللَّهِ یَهۡدِی بِهِۦ مَن یَشَاۤءُۚ وَمَن یُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِنۡ هَادٍ",
+      "tr": "አላህ ከዜና ሁሉ መልካምን፣ ተመሳሳይ፣ ተደጋጋሚ የኾነን መጽሐፍ አወረደ፡፡ ከእርሱ (ግሣጼ) የእነዚያ ጌታቸውን የሚፈሩት ሰዎች ቆዳዎች ይኮማተራሉ፡፡ ከዚያም ቆዳዎቻቸውና ልቦቻቸው ወደ አላህ (ተስፋ) ማስታወስ ይለዝባሉ፡፡ ይህ የአላህ መምሪያ ነው፡፡ በእርሱ የሚሻውን ሰው ይመራበታል፡፡ አላህም የሚያጠመው ሰው ለእርሱ ምንም አቅኚ የለውም፡፡",
+      "la": "alahi kezena hulu melikamini፣ temesasayi፣ tedegagami yehoneni mets’ihafi awerede፡፡ ke’irisu (gisats’e) ye’ineziya getachewini yemiferuti sewochi k’odawochi yikomateralu፡፡ keziyami k’odawochachewina libochachewi wede alahi (tesifa) masitawesi yilezibalu፡፡ yihi ye’alahi memiriya newi፡፡ be’irisu yemishawini sewi yimerabetali፡፡ alahimi yemiyat’emewi sewi le’irisu minimi ak’inyi yelewimi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 24,
+      "ar": "أَفَمَن یَتَّقِی بِوَجۡهِهِۦ سُوۤءَ ٱلۡعَذَابِ یَوۡمَ ٱلۡقِیَـٰمَةِۚ وَقِیلَ لِلظَّـٰلِمِینَ ذُوقُوا۟ مَا كُنتُمۡ تَكۡسِبُونَ",
+      "tr": "በትንሣኤ ቀን ክፉን ቅጣት በፊቱ የሚመክት ሰው (ከቅጣት እንደሚድን ነውን?) ለበዳዮችም «ትሠሩት የነበራችሁትን (ቅጣቱን) ቅመሱ» ይባላሉ፡፡",
+      "la": "betinisa’e k’eni kifuni k’it’ati befitu yemimekiti sewi (kek’it’ati inidemidini newini?) lebedayochimi «tiseruti yeneberachihutini (k’it’atuni) k’imesu» yibalalu፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 25,
+      "ar": "كَذَّبَ ٱلَّذِینَ مِن قَبۡلِهِمۡ فَأَتَىٰهُمُ ٱلۡعَذَابُ مِنۡ حَیۡثُ لَا یَشۡعُرُونَ",
+      "tr": "ከእነሱ በፊት የነበሩት አስተባበሉ፡፡ ቅጣቱም ከማያውቁት በኩል መጣባቸው፡፡",
+      "la": "ke’inesu befiti yeneberuti asitebabelu፡፡ k’it’atumi kemayawik’uti bekuli met’abachewi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 26,
+      "ar": "فَأَذَاقَهُمُ ٱللَّهُ ٱلۡخِزۡیَ فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۖ وَلَعَذَابُ ٱلۡءَاخِرَةِ أَكۡبَرُۚ لَوۡ كَانُوا۟ یَعۡلَمُونَ",
+      "tr": "አላህም በቅርቢቱ ሕይወት ውርደትን አቀመሳቸው፡፡ የመጨረሻይቱም ዓለም ቅጣት በጣም ትልቅ ነው፡፡ የሚያውቁ ቢኾኑ ኖሮ (አያስተባብሉም ነበር)፡፡",
+      "la": "alahimi bek’iribitu hiyiweti wiridetini ak’emesachewi፡፡ yemech’ereshayitumi ‘alemi k’it’ati bet’ami tilik’i newi፡፡ yemiyawik’u bihonu noro (ayasitebabilumi neberi)፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 27,
+      "ar": "وَلَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِی هَـٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلࣲ لَّعَلَّهُمۡ یَتَذَكَّرُونَ",
+      "tr": "በዚህም ቁርኣን ውስጥ ለሰዎች ይገሠጹ ዘንድ ከየምሳሌው ሁሉ በእርግጥ አብራራን፡፡",
+      "la": "bezihimi k’uri’ani wisit’i lesewochi yigesets’u zenidi keyemisalewi hulu be’irigit’i abirarani፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 28,
+      "ar": "قُرۡءَانًا عَرَبِیًّا غَیۡرَ ذِی عِوَجࣲ لَّعَلَّهُمۡ یَتَّقُونَ",
+      "tr": "መዛባት የሌለበት ዐረብኛ ቁርኣን ሲኾን (አብራራነው)፡፡ ሊጠነቀቁ ይከጀላልና፡፡",
+      "la": "mezabati yelelebeti ‘arebinya k’uri’ani sihoni (abiraranewi)፡፡ lit’enek’ek’u yikejelalina፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 29,
+      "ar": "ضَرَبَ ٱللَّهُ مَثَلࣰا رَّجُلࣰا فِیهِ شُرَكَاۤءُ مُتَشَـٰكِسُونَ وَرَجُلࣰا سَلَمࣰا لِّرَجُلٍ هَلۡ یَسۡتَوِیَانِ مَثَلًاۚ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ أَكۡثَرُهُمۡ لَا یَعۡلَمُونَ",
+      "tr": "አላህ በእርሱ ተጨቃጫቂዎች የኾኑ ተጋሪዎች ያሉትን ባሪያና ለአንድ ሰው ብቻ ንጹሕ የኾነን ባሪያ (ለሚያጋራና ባንድነቱ ለሚያምን ሰው) ምሳሌ አደረገ፡፡ በምሳሌ ይስተካከላሉን? ምስጋና ለአላህ ይገባው፡፡ በእውነቱ አብዛኞቻቸው አያውቁም፡፡",
+      "la": "alahi be’irisu tech’ek’ach’ak’iwochi yehonu tegariwochi yalutini bariyana le’anidi sewi bicha nits’uhi yehoneni bariya (lemiyagarana banidinetu lemiyamini sewi) misale aderege፡፡ bemisale yisitekakelaluni? misigana le’alahi yigebawi፡፡ be’iwinetu abizanyochachewi ayawik’umi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 30,
+      "ar": "إِنَّكَ مَیِّتࣱ وَإِنَّهُم مَّیِّتُونَ",
+      "tr": "አንተ ሟች ነህ፤ እነርሱም ሟቾች ናቸው፡፡",
+      "la": "anite mwachi nehi፤ inerisumi mwachochi nachewi፡፡"
+    },
+    {
+      "chapter": 39,
+      "verse": 31,
+      "ar": "ثُمَّ إِنَّكُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ عِندَ رَبِّكُمۡ تَخۡتَصِمُونَ",
+      "tr": "ከዚያም እናንተ በትንሣኤ ቀን እጌታችሁ ዘንድ ትከራከራላችሁ፡፡",
+      "la": "keziyami inanite betinisa’e k’eni igetachihu zenidi tikerakeralachihu፡፡"
+    }
+  ]
+}
