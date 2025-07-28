@@ -8,11 +8,11 @@ Simplified Perfect Complete Amharic Quran JSON REST API.
 .
 ├── amh/title.json      // AL-Quran Title JSON
 └── amh/            // Complete Verse JSON Directory
-|    └── <{ChapterNo}/{VerseNo}>.json
+|   └── <{ChapterNo}/{VerseNo}>.json
 ├── amh/          // Complete Surah JSON Directory
 |   └── <number_of:1-114>.json
 └── amh/juzs            // Complete Juzs JSON Directory
-|    └── <number_of:1-30>.json
+|   └── <number_of:1-30>.json
 └── amh/pages           // Complete Pages JSON Directory
     └── <number_of:1-604>.json
 ```
