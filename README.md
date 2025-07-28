@@ -29,7 +29,7 @@ Get Quran Title:
 
 > Get all the details about quran title<br>
 ```sh
- https://cdn.jsdelivr.net/gh/MkBEt/quran-api/Title.json
+ https://cdn.jsdelivr.net/gh/MkBEt/quran-api/title.json
 ```
 
 Get Surah:
