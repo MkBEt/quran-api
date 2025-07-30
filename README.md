@@ -6,7 +6,7 @@ Simplified Perfect Complete Amharic Quran JSON REST API.
 
 ```sh
 .
-├── amh/title.json      // AL-Quran Title JSON
+├── title.json      // AL-Quran Title JSON
 └── amh/            // Complete Verse JSON Directory
 |   └── <{ChapterNo}/{VerseNo}>.json
 ├── amh/          // Complete Surah JSON Directory
