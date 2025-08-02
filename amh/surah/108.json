@@ -1,0 +1,33 @@
+{
+  "chapter": 108,
+  "title_am": "አል-ከውሠር",
+  "title_ar": "الكوثر",
+  "title_la": "Al-Kawthar",
+  "count": "3",
+  "quran": [
+    {
+      "verse": 0,
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+      "tr": "በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡",
+      "la": "be’alahi simi ijigi bet’ami ruhiruhi bet’ami azanyi behonewi፡፡"
+    },
+    {
+      "verse": 1,
+      "ar": "إِنَّاۤ أَعۡطَیۡنَـٰكَ ٱلۡكَوۡثَرَ",
+      "tr": "እኛ በጣም ብዙ በጎ ነገሮችን ሰጠንህ፡፡",
+      "la": "inya bet’ami bizu bego negerochini set’enihi፡፡"
+    },
+    {
+      "verse": 2,
+      "ar": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+      "tr": "ስለዚህ ለጌታህ ስገድ፤ (በስሙ) ሰዋም፡፡",
+      "la": "silezihi legetahi sigedi፤ (besimu) sewami፡፡"
+    },
+    {
+      "verse": 3,
+      "ar": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+      "tr": "ጠይህ (የሚጠላህ) እርሱ በእርግጥ (ዘሩ) የተቆረጠው ነው፡፡",
+      "la": "t’eyihi (yemit’elahi) irisu be’irigit’i (zeru) yetek’oret’ewi newi፡፡"
+    }
+  ]
+}

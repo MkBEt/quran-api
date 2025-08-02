@@ -1,0 +1,33 @@
+{
+  "chapter": 103,
+  "title_am": "አል-ዐስር",
+  "title_ar": "العصر",
+  "title_la": "Al-'Asr",
+  "count": "3",
+  "quran": [
+    {
+      "verse": 0,
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+      "tr": "በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡",
+      "la": "be’alahi simi ijigi bet’ami ruhiruhi bet’ami azanyi behonewi፡፡"
+    },
+    {
+      "verse": 1,
+      "ar": "وَٱلۡعَصۡرِ",
+      "tr": "በጊዜያቱ እምላለሁ፡፡",
+      "la": "begizeyatu imilalehu፡፡"
+    },
+    {
+      "verse": 2,
+      "ar": "إِنَّ ٱلۡإِنسَـٰنَ لَفِی خُسۡرٍ",
+      "tr": "ሰው ሁሉ በእርግጥ በከሳራ ውስጥ ነው፡፡",
+      "la": "sewi hulu be’irigit’i bekesara wisit’i newi፡፡"
+    },
+    {
+      "verse": 3,
+      "ar": "إِلَّا ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوۡا۟ بِٱلۡحَقِّ وَتَوَاصَوۡا۟ بِٱلصَّبۡرِ",
+      "tr": "እነዚያ ያመኑትና መልካሞችን የሠሩት፣ በእውነትም አደራ የተባባሉት፣ በመታገስም አደራ የተባባሉት ብቻ ሲቀሩ፡፡",
+      "la": "ineziya yamenutina melikamochini yeseruti፣ be’iwinetimi adera yetebabaluti፣ bemetagesimi adera yetebabaluti bicha sik’eru፡፡"
+    }
+  ]
+}

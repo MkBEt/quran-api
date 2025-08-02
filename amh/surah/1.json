@@ -1,0 +1,51 @@
+{
+  "chapter": 1,
+  "title_am": "አል-ፋቲሃ",
+  "title_ar": "الفاتحة",
+  "title_la": "Al-Fatihah",
+  "count": "7",
+  "quran": [
+    {
+      "verse": 1,
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+      "tr": "በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡",
+      "la": "be’alahi simi ijigi bet’ami ruhiruhi bet’ami azanyi behonewi፡፡"
+    },
+    {
+      "verse": 2,
+      "ar": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَـٰلَمِینَ",
+      "tr": "ምስጋና ለአላህ ይገባው የዓለማት ጌታ ለኾነው፤",
+      "la": "misigana le’alahi yigebawi ye‘alemati geta lehonewi፤"
+    },
+    {
+      "verse": 3,
+      "ar": "ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+      "tr": "እጅግ በጣም ርኅሩህ በጣም አዛኝ",
+      "la": "ijigi bet’ami rihiruhi bet’ami azanyi"
+    },
+    {
+      "verse": 4,
+      "ar": "مَـٰلِكِ یَوۡمِ ٱلدِّینِ",
+      "tr": "የፍርዱ ቀን ባለቤት ለኾነው፡፡",
+      "la": "yefiridu k’eni balebeti lehonewi፡፡"
+    },
+    {
+      "verse": 5,
+      "ar": "إِیَّاكَ نَعۡبُدُ وَإِیَّاكَ نَسۡتَعِینُ",
+      "tr": "አንተን ብቻ እንግገዛለን፤ አንተንም ብቻ እርዳታን እንለምናለን፡፡",
+      "la": "aniteni bicha inigigezaleni፤ anitenimi bicha iridatani inileminaleni፡፡"
+    },
+    {
+      "verse": 6,
+      "ar": "ٱهۡدِنَا ٱلصِّرَ ٰطَ ٱلۡمُسۡتَقِیمَ",
+      "tr": "ቀጥተኛውን መንገድ ምራን፡፡",
+      "la": "k’et’itenyawini menigedi mirani፡፡"
+    },
+    {
+      "verse": 7,
+      "ar": "صِرَ ٰطَ ٱلَّذِینَ أَنۡعَمۡتَ عَلَیۡهِمۡ غَیۡرِ ٱلۡمَغۡضُوبِ عَلَیۡهِمۡ وَلَا ٱلضَّاۤلِّینَ",
+      "tr": "የእነዚያን በነርሱ ላይ በጎ የዋልክላቸውን በነሱ ላይ ያልተቆጣህባቸውንና ያልተሳሳቱትንም ሰዎች መንገድ (ምራን፤ በሉ)፡፡",
+      "la": "ye’ineziyani benerisu layi bego yewalikilachewini benesu layi yalitek’ot’ahibachewinina yalitesasatutinimi sewochi menigedi (mirani፤ belu)፡፡"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "chapter": 113,
+  "title_am": "አል-ፈለቅ",
+  "title_ar": "الفلق",
+  "title_la": "Al-Falaq",
+  "count": "5",
+  "quran": [
+    {
+      "verse": 0,
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+      "tr": "በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡",
+      "la": "be’alahi simi ijigi bet’ami ruhiruhi bet’ami azanyi behonewi፡፡"
+    },
+    {
+      "verse": 1,
+      "ar": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
+      "tr": "በል «በተፈልቃቂው ጎህ ጌታ እጠበቃለሁ፡፡",
+      "la": "beli «betefelik’ak’iwi gohi geta it’ebek’alehu፡፡"
+    },
+    {
+      "verse": 2,
+      "ar": "مِن شَرِّ مَا خَلَقَ",
+      "tr": "«ከፈጠረው ፍጡር ሁሉ ክፋት፡፡",
+      "la": "«kefet’erewi fit’uri hulu kifati፡፡"
+    },
+    {
+      "verse": 3,
+      "ar": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "tr": "«ከሌሊትም ክፋት ባጨለመ ጊዜ፤",
+      "la": "«kelelitimi kifati bach’eleme gize፤"
+    },
+    {
+      "verse": 4,
+      "ar": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِی ٱلۡعُقَدِ",
+      "tr": "«በተቋጠሩ (ክሮች) ላይ ተፊዎች ከኾኑት (ደጋሚ) ሴቶችም ክፋት፡፡",
+      "la": "«betek’wat’eru (kirochi) layi tefiwochi kehonuti (degami) setochimi kifati፡፡"
+    },
+    {
+      "verse": 5,
+      "ar": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "tr": "«ከምቀኛም ክፋት በተመቀኘ ጊዜ፤ (እጠበቃለሁ በል)፡፡»",
+      "la": "«kemik’enyami kifati betemek’enye gize፤ (it’ebek’alehu beli)፡፡»"
+    }
+  ]
+}

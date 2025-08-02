@@ -1,0 +1,45 @@
+{
+  "chapter": 111,
+  "title_am": "አል-ለሀብ",
+  "title_ar": "المسد",
+  "title_la": "Al-Masad",
+  "count": "5",
+  "quran": [
+    {
+      "verse": 0,
+      "ar": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+      "tr": "በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡",
+      "la": "be’alahi simi ijigi bet’ami ruhiruhi bet’ami azanyi behonewi፡፡"
+    },
+    {
+      "verse": 1,
+      "ar": "تَبَّتۡ یَدَاۤ أَبِی لَهَبࣲ وَتَبَّ",
+      "tr": "የአቡ ለሀብ ሁለት እጆች ከሰሩ (ጠፉ፤ እርሱ) ከሰረም፡፡",
+      "la": "ye’abu lehabi huleti ijochi keseru (t’efu፤ irisu) keseremi፡፡"
+    },
+    {
+      "verse": 2,
+      "ar": "مَاۤ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ",
+      "tr": "ከእርሱ ገንዘቡና ያም ያፈራው ሁሉ ምንም አልጠቀመውም፡፡",
+      "la": "ke’irisu genizebuna yami yaferawi hulu minimi alit’ek’emewimi፡፡"
+    },
+    {
+      "verse": 3,
+      "ar": "سَیَصۡلَىٰ نَارࣰا ذَاتَ لَهَبࣲ",
+      "tr": "የመንቀልቀል ባለቤት የኾነችን እሳት በእርግጥ ይገባል፡፡",
+      "la": "yemenik’elik’eli balebeti yehonechini isati be’irigit’i yigebali፡፡"
+    },
+    {
+      "verse": 4,
+      "ar": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ",
+      "tr": "ሚስቱም (ትገባለች)፤ እንጨት ተሸካሚ ስትኾን፡፡",
+      "la": "misitumi (tigebalechi)፤ inich’eti teshekami sitihoni፡፡"
+    },
+    {
+      "verse": 5,
+      "ar": "فِی جِیدِهَا حَبۡلࣱ مِّن مَّسَدِۭ",
+      "tr": "በአንገትዋ ላይ ከጭረት የኾነ ገመድ ያለባት ስትኾን፡፡",
+      "la": "be’anigetiwa layi kech’ireti yehone gemedi yalebati sitihoni፡፡"
+    }
+  ]
+}
