@@ -7,6 +7,7 @@ Simplified Perfect Complete Amharic Quran JSON REST API.
 ```sh
 .
 ├── title.json      // AL-Quran Title JSON
+├── amh/full-Quran.json      // Full Quran JSON
 └── amh/            // Complete Verse JSON Directory
 |   └── <{ChapterNo}/{VerseNo}>.json
 ├── amh/surah/         // Complete Surah JSON Directory
@@ -32,11 +33,18 @@ Get Quran Title:
  https://cdn.jsdelivr.net/gh/MkBEt/quran-api/title.json
 ```
 
+Get Quran Title:
+
+> Get Full quran <br>
+```sh
+ https://cdn.jsdelivr.net/gh/MkBEt/quran-api/amh/full-Quran.json
+```
+
 Get Surah:
 
 > Get the chapter 1:<br>
 ```sh
-https://cdn.jsdelivr.net/gh/MkBEt/quran-api/amh/1.json
+https://cdn.jsdelivr.net/gh/MkBEt/quran-api/amh/surah/1.json
 ```
 
 Get Verse:
